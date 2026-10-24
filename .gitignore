@@ -1,0 +1,40 @@
+# Official ViHOS dataset - clone separately from Hugging Face
+DATA/ViHOS_official/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary/log files
+*.tmp
+*.log
+
+# ML outputs / checkpoints
+checkpoints/
+outputs/
+models/
+wandb/
+
+# Model weights
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
