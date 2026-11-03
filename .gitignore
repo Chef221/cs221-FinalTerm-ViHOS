@@ -29,7 +29,8 @@ Thumbs.db
 # ML outputs / checkpoints
 checkpoints/
 outputs/
-models/
+/models/
+!src/models/
 wandb/
 
 # Model weights
