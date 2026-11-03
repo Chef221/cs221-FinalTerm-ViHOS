@@ -1,0 +1,30 @@
+{
+  "CRF Baseline (Run 01)": {
+    "Faithfulness_Comprehensiveness": 0.39297782468450587,
+    "Faithfulness_Sufficiency": 0.01515610617430199
+  },
+  "PhoBERT (Run 02)": {
+    "Faithfulness_Comprehensiveness": 0.4247383751989093,
+    "Faithfulness_Sufficiency": 0.016087492973036084
+  },
+  "ViSoBERT (Run 03)": {
+    "Faithfulness_Comprehensiveness": 0.423322631590926,
+    "Faithfulness_Sufficiency": 0.017541891553104066
+  },
+  "PhoBERT+CRF (Run 04)": {
+    "Faithfulness_Comprehensiveness": 0.41943576547117867,
+    "Faithfulness_Sufficiency": 0.016183052422437682
+  },
+  "PhoBERT Multi-Layer (Run 07)": {
+    "Faithfulness_Comprehensiveness": 0.42250272346278867,
+    "Faithfulness_Sufficiency": 0.01618235265141372
+  },
+  "Stage E Ensemble (Run 05)": {
+    "Faithfulness_Comprehensiveness": 0.4204001158415575,
+    "Faithfulness_Sufficiency": 0.016515250268377763
+  },
+  "Stage E.1 Postprocessed (Run 06)": {
+    "Faithfulness_Comprehensiveness": 0.4199573577815919,
+    "Faithfulness_Sufficiency": 0.016669953584858628
+  }
+}

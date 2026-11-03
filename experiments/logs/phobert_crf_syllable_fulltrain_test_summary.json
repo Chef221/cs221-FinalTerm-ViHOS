@@ -1,0 +1,18 @@
+{
+  "model": "PhoBERT_CRF_FullTrain",
+  "split": "test",
+  "Char_Macro_F1": 0.3409226312495041,
+  "Char_Precision": 0.3440162034688548,
+  "Char_Recall": 0.8962988821395019,
+  "IOU_F1@0.5": 0.3278894472361809,
+  "Token_BIO_F1": 0.18524766140162552,
+  "Token_BIO_Precision": 0.11491628614916286,
+  "Token_BIO_Recall": 0.4774703557312253,
+  "Post_Binary_F1": 0.6670854271356784,
+  "Post_Accuracy": 0.5207956600361664,
+  "Exact_Match": 2.89,
+  "Over_Span": 11.21,
+  "Under_Span": 11.21,
+  "Complete_Miss": 0.0,
+  "Spurious_Span": 47.92
+}

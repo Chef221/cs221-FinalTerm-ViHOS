@@ -1,0 +1,34 @@
+{
+  "model": "CRF-syllable",
+  "hyperparameters": {
+    "c1": 0.1,
+    "c2": 0.1,
+    "max_iterations": 100
+  },
+  "Pillar_1_Span_Extraction": {
+    "Char_Macro_F1": 0.7662755716452689,
+    "Char_Macro_Precision": 0.8231138253978767,
+    "Char_Macro_Recall": 0.7675929462033423,
+    "Char_F1_Single_Span": 0.6092259954587111,
+    "Char_F1_Multiple_Span": 0.6038572379208522,
+    "Char_F1_Clean_Posts": 0.9173989455184535,
+    "IOU_F1@0.5": 0.5360230547550432,
+    "Token_BIO_F1": 0.5223689816787387,
+    "Token_BIO_Precision": 0.6021611001964636,
+    "Token_BIO_Recall": 0.4612490594431904
+  },
+  "Pillar_2_Post_Level": {
+    "Post_Accuracy": 0.8851717902350814,
+    "Post_Macro_F1": 0.8847738043381068,
+    "Post_Binary_F1": 0.878001921229587
+  },
+  "Pillar_5_Boundary_Error_Audit": {
+    "Exact_Match": 13.11,
+    "Complete_Miss": 7.78,
+    "Spurious_Span": 4.25,
+    "Under_Span": 16.0,
+    "Over_Span": 9.13,
+    "Shifted_Boundary": 2.53,
+    "Clean_Correct": 47.2
+  }
+}

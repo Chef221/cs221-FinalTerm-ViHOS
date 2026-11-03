@@ -1,0 +1,58 @@
+{
+  "CRF Baseline": {
+    "Comprehensiveness": 0.3626380194174826,
+    "Sufficiency": 0.0
+  },
+  "PhoBERT": {
+    "Comprehensiveness": 0.40786760791341165,
+    "Sufficiency": 0.0
+  },
+  "ViSoBERT": {
+    "Comprehensiveness": 0.4045513788034788,
+    "Sufficiency": 0.0
+  },
+  "PhoBERT+CRF": {
+    "Comprehensiveness": 0.5605103171581495,
+    "Sufficiency": 0.0
+  },
+  "MultiLayer+CRF": {
+    "Comprehensiveness": 0.5473840820019871,
+    "Sufficiency": 0.0
+  },
+  "Stage E Ensemble": {
+    "Comprehensiveness": 0.4245132720793393,
+    "Sufficiency": 0.0
+  },
+  "Stage E.1 (Champion)": {
+    "Comprehensiveness": 0.42359565540751015,
+    "Sufficiency": 0.0
+  },
+  "CRF (FullTrain)": {
+    "Comprehensiveness": 0.36127530389913737,
+    "Sufficiency": 0.0
+  },
+  "PhoBERT (FullTrain)": {
+    "Comprehensiveness": 0.40022594956321833,
+    "Sufficiency": 0.0
+  },
+  "ViSoBERT (FullTrain)": {
+    "Comprehensiveness": 0.39799163513136804,
+    "Sufficiency": 0.0
+  },
+  "PhoBERT+CRF (FullTrain)": {
+    "Comprehensiveness": 0.5489892019543551,
+    "Sufficiency": 0.0
+  },
+  "MultiLayer (FullTrain)": {
+    "Comprehensiveness": 0.5518036333356556,
+    "Sufficiency": 0.0
+  },
+  "Stage E (FullTrain)": {
+    "Comprehensiveness": 0.41141398406865576,
+    "Sufficiency": 0.0
+  },
+  "Stage E.1 (Champion FullTrain)": {
+    "Comprehensiveness": 0.4104947287956269,
+    "Sufficiency": 0.0
+  }
+}

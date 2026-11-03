@@ -1,0 +1,86 @@
+{
+  "CRF Baseline": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "PhoBERT": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "ViSoBERT": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "PhoBERT+CRF": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "MultiLayer+CRF": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "Stage E Ensemble": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "Stage E.1 (Champion)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "CRF (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "PhoBERT (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "ViSoBERT (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "PhoBERT+CRF (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "MultiLayer (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "Stage E (FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  },
+  "Stage E.1 (Champion FullTrain)": {
+    "Subgroup_AUC": 0.8,
+    "BPSN_AUC": 0.8,
+    "BNSP_AUC": 0.9,
+    "GMB_AUC": 0.8
+  }
+}

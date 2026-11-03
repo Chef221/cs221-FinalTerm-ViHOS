@@ -1,0 +1,1108 @@
+sentence_id,content,gold_tags,pred_tags,gold_char_offsets,pred_char_offsets,gold_toxic,pred_toxic
+0,Anh bar .,O O O,O O O,[],[],0,0
+1,Hello thầy,O O,O O,[],[],0,0
+2,Từ lúc mấy bro cmt cực kì cl gì đấy là rất khó để ngó được cái cmt hay buồn thực sự 🙁,O O O O O O O B-T O O O O O O O O O O O O O O O,O O O O O O O B-T O O O O O O O O O O O O O O O,"[26, 27]","[26, 27]",1,1
+3,Nghe trần dần thấy cười đau cả bụng,O O O O O O O O,O O O O O O O O,[],[],0,0
+4,Idol tui có khác. Phải v chứ ai như cái con phò tiệp tiệp j đó. Đm nó như 1 con đàn bà.,O O O O O O O O O O B-T I-T O O O O B-T B-T O O B-T I-T I-T,O O O O O O O O O O B-T I-T I-T I-T O O B-T B-T O O B-T I-T I-T,"[40, 41, 42, 43, 44, 45, 46, 64, 65, 67, 68, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85]","[40, 41, 42, 44, 45, 46, 48, 49, 50, 51, 53, 54, 55, 56, 64, 65, 67, 68, 76, 77, 78, 80, 81, 82, 84, 85, 86]",1,1
+5,Cảnh Sát GiựT Tiền = CSGT,O O B-T I-T O O,O O O O O O,"[9, 10, 11, 12, 13, 14, 15, 16, 17]",[],1,0
+6,Ông đi đâu mà lạc sang đây đây,O O O O O O O O,O O O O O O O O,[],[],0,0
+7,Gia cát bị đồng bóng à,O O O B-T I-T O,O O O O O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19]",[],1,0
+8,"Mấy tụi DLV hay nói đu càng này nọ. Nảo chúng bị nhồi nên úng rồi. Thật ra đu càng đâu dể. Đu càng tốn cả triệu đô. Chỉ có ở tụi quan lớn tham nhủng. Chứ bò đỏ ấu trỉ umê bưng bô lương ba đồng làm gì có cửa đu, chỉ biết làm chốt thí..ha ha",O B-T O O O B-T I-T O O B-T I-T I-T I-T I-T I-T O O O B-T I-T O O B-T I-T O O O O O O O B-T O O B-T I-T O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O B-T I-T O,O B-T I-T O O B-T I-T O O O B-T I-T I-T I-T I-T O O O B-T I-T O O B-T I-T O O O O O O O O O O B-T I-T O B-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O,"[4, 5, 6, 20, 21, 22, 23, 24, 25, 26, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 75, 76, 77, 78, 79, 80, 81, 91, 92, 93, 94, 95, 96, 97, 125, 126, 127, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 224, 225, 226, 227, 228, 229, 230, 231]","[4, 5, 6, 8, 9, 10, 20, 21, 23, 24, 25, 26, 40, 41, 42, 43, 44, 46, 47, 49, 50, 51, 52, 54, 55, 56, 58, 59, 60, 75, 76, 78, 79, 80, 81, 91, 92, 94, 95, 96, 97, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 154, 155, 157, 158, 160, 161, 163, 164, 165, 167, 168, 169, 171, 172, 173, 174, 176, 177]",1,1
+9,đungs v,O O,O O,[],[],0,0
+10,Quả múa chung được phết thầy ạ :v,O O O O O O O O,O O O O O O O O,[],[],0,0
+11,Dễ thương quá lun hồi đó em cũng thích con mèo tom nữa mẹ ko cho cái nhõng nhẽo,O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O B-T O O O B-T I-T,[],"[55, 56, 69, 70, 71, 72, 73, 75, 76, 77, 78]",0,1
+12,Tuấn Hưng liên thiên quá rồi đấy,O O O O O O O,O O O O O O O,[],[],0,0
+13,Thối CC chỉ không ngửi đuợc thôi,B-T B-T O O O O O,B-T I-T O O O O O,"[0, 1, 2, 3, 5, 6]","[0, 1, 2, 3, 5, 6]",1,1
+14,Minh hiếu idol tui đó mọi người,O O O O O O O,O O O O O O O,[],[],0,0
+15,Nguyễn Đức Ánh khôn hơn cả họ nhà m.,O O O B-T I-T I-T I-T I-T I-T,O O O O O O O O O,"[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]",[],1,0
+16,Ai giết dk con linh cá lóc tui ủng hộ 10000usd,O B-T O O O O O O O O O,O B-T I-T I-T O O O O O O O,"[3, 4, 5, 6]","[3, 4, 5, 6, 8, 9, 11, 12, 13]",1,1
+17,Dm vtv mặt trời ^^,B-T O O O O,B-T O O O O,"[0, 1]","[0, 1]",1,1
+18,Lũ pede xạo xự. Mới hơm qua chúng tâng nhau lên mây. Nay chúng siủa cắn nhau như chó tháng 7. Hahaaaaaaa,B-T I-T I-T I-T O O O B-T O O O O O B-T B-T B-T O O B-T O O O,O O O O O O O B-T I-T O O O O B-T I-T O O O B-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 32, 33, 34, 35, 36, 37, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 75, 76, 77, 78, 89, 90, 91, 92]","[32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 89, 90, 91, 92]",1,1
+19,tr ơi nhìn thầy giống con póng quá à.,O O O O O B-T I-T O O,O O O O O O O O O,"[22, 23, 24, 25, 26, 27, 28, 29]",[],1,0
+20,Mặc áo đó stream đi abe,O O O O O O,O O O O O O,[],[],0,0
+21,Anh đánh máy giỏi thật! Dám biến đường đường là chủ tịch của một thành phố thủ đô trở thành tên nói láo! Tiên sư anh đánh máy!,O O O O O B-T O O O O O O O O O O O O O O B-T I-T I-T B-T I-T O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[24, 25, 26, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 105, 106, 107, 108, 109, 110, 111]",[],1,0
+22,má hôm qua tưởng anh Tiệp đi đôi dép này chứ,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+23,Cai mat nha tien tri Tran Dan.nhin giong cai phau cau ga cong nghiep wa mn oi,B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O,O O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67]",[],1,0
+24,Ủa Toang :v,O O O,O O O,[],[],0,0
+25,Nếu là sela thì mọi chuyện sẽ k dừng lại ở đó ❤️,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+26,bậy bậy nà ! bụi khói bao trùm hà lội là do cụ cả đang đốt rác bằng lò tôn đấy ! năm nay cụ dọn nhà ăn tết sớm nên hơi ô nhiễm tí...bà con thông cảm ! đang đốt hối hả để 2020 mời thượng khách phương bắc vào nhà !,O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]","[55, 56, 57, 59, 60, 61, 63, 64, 65, 66, 68, 69, 71, 72, 73]",1,1
+27,mấy cái thứ bắt chước trộm hình của người khác như mày muôn đời nát. Kinh tởm. Người ta đăng từ hôm qua thì mày ăn cắp hình rồi comment lại câu view hả mày? Tưởng vậy hay ho nhưng ko ai ngu như mày để mày qua mặt đâu.,O O B-T B-T I-T B-T O O O O O O O O B-T B-T I-T O O O O O O O B-T B-T I-T O O O O B-T I-T O B-T O O O O O O O B-T O B-T O B-T O O O,O O O O O B-T I-T O O O O B-T O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O B-T I-T I-T O B-T O O O,"[8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 64, 65, 66, 69, 70, 71, 72, 73, 74, 75, 76, 108, 109, 110, 112, 113, 114, 115, 116, 117, 140, 141, 142, 143, 144, 145, 146, 147, 152, 153, 154, 186, 187, 188, 194, 195, 196, 201, 202, 203]","[22, 23, 24, 25, 27, 28, 29, 30, 51, 52, 53, 108, 109, 110, 186, 187, 188, 190, 191, 192, 194, 195, 196, 201, 202, 203]",1,1
+28,T đọc mà t tức á,O O O O O O,B-T O O B-T O O,[],"[0, 9]",0,1
+29,Đảng cộng chó,B-T I-T I-T,B-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]","[0, 1, 2, 3, 5, 6, 7, 8, 10, 11, 12]",1,1
+30,"đ m, thầy giáo cũng sống ảo",B-T I-T O O O O O,B-T I-T O O O O O,"[0, 1, 2]","[0, 2, 3]",1,1
+31,hóng đc chọn :((,O O O O,O O O O,[],[],0,0
+32,Đồ này đc lên báo rồi,O O O O O O,O O O O O O,[],[],0,0
+33,thằng chó đó là thằng nào vậy? ai bjk cho thông tin coi,B-T B-T O O B-T O O O O O O O O,B-T I-T O O B-T O O O O O O O O,"[0, 1, 2, 3, 4, 6, 7, 8, 16, 17, 18, 19, 20]","[0, 1, 2, 3, 4, 6, 7, 8, 16, 17, 18, 19, 20]",1,1
+34,1 màu đen 1 màu xám nhạt hơn,O O O O O O O O,O O O O O O O O,[],[],0,0
+35,"nó ko cộng điểm, mà nó cho thí sinh rớt bớt thôi, có bà chị gặp vụ này r :)))) thi điểm cao vẫn rớt nhé",B-T O O O O B-T O O O O O O O O O O O O O O O O O O O O,B-T O O O O B-T O O O O O O O O O O O O O O O O O O O O,"[0, 1, 20, 21]","[0, 1, 20, 21]",1,1
+36,Huỳnh Tuấn phản động đó bạn,O O B-T I-T O O,O O B-T I-T O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19]","[11, 12, 13, 14, 16, 17, 18, 19]",1,1
+37,90tr dân Việt Nam đang vả nhung nè,O O O O O B-T O O,O O O O O B-T O O,"[23, 24]","[23, 24]",1,1
+38,Tinh yêu như con chuồn chuồn,O O O O O O,O O O B-T I-T I-T,[],"[13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27]",0,1
+39,Hơi thở của nước,O O O O,O O O O,[],[],0,0
+40,Chac tui chot wa cuoi dau bug luon,O O O O O O O O,O O O O O O O O,[],[],0,0
+41,Nga Tran lom dom :)),O O O O O,O O O O O,[],[],0,0
+42,Panda thai đã xem 👍,O O O O O,O O O O O,[],[],0,0
+43,Trư Bát Giới đi vùng dịch về ko chịu cách ly,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+44,😘😘😘,O,O,[],[],0,0
+45,Quan thì ăn cái bụng to như trống. Còn người dân thì ốm yếu nuôi tụi nó,O O O O B-T I-T I-T I-T O O O O B-T I-T B-T I-T I-T,O O O O B-T I-T I-T I-T O O O O O O O B-T I-T,"[16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]","[16, 17, 18, 19, 21, 22, 24, 25, 26, 28, 29, 30, 31, 32, 33, 65, 66, 67, 69, 70]",1,1
+46,Clm @@@,B-T O,B-T O,"[0, 1, 2]","[0, 1, 2]",1,1
+47,Sam Bé Bố mày đéo có tư cách ở đây! Bố chửi thẳng cái thằng mặt lìn như mày đấy! Tay nhanh hơn não,O O O B-T B-T O O O O O B-T B-T O O B-T I-T I-T O B-T O B-T I-T I-T I-T,O O B-T I-T B-T O O O O O O B-T O O B-T I-T I-T O B-T O B-T I-T I-T I-T,"[10, 11, 12, 14, 15, 16, 36, 37, 39, 40, 41, 42, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 72, 73, 74, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97]","[7, 8, 10, 11, 12, 14, 15, 16, 39, 40, 41, 42, 54, 55, 56, 57, 58, 60, 61, 62, 64, 65, 66, 72, 73, 74, 81, 82, 83, 85, 86, 87, 88, 89, 91, 92, 93, 95, 96, 97]",1,1
+48,Là thật hay ghép đấy,O O O O O,O O O O O,[],[],0,0
+49,"Thắm tắc đường nên đến hơi muộn, nhé",O O O O O O O O,O O O O O O O O,[],[],0,0
+50,Phạm Văn Lộc yên nhen idol,O O O O O O,O O O O O O,[],[],0,0
+51,chậm con cặc,O O B-T,O B-T I-T,"[9, 10, 11]","[5, 6, 7, 9, 10, 11]",1,1
+52,Con mẹ mày con linh cá lóc,B-T I-T I-T B-T O O O,B-T I-T I-T B-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13]","[0, 1, 2, 4, 5, 7, 8, 9, 11, 12, 13]",1,1
+53,Haha lại ba que xỏ lá,O O B-T I-T I-T I-T,O O B-T I-T I-T I-T,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]","[9, 10, 12, 13, 14, 16, 17, 19, 20]",1,1
+54,Nhắc nhẹ ở đây còn 1 người nữa cũng rất đẹp trai,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+55,Thoại Trần,O O,O O,[],[],0,0
+56,Má cái ông già này. Trẻ trâu Việt Nam nó chém ko trượt phát lào chứ ở đó mà súng bắn ko trúng...,B-T B-T B-T I-T O B-T I-T O O B-T B-T O O O O O O O O B-T I-T O O,O O O O O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 24, 25, 26, 27, 28, 29, 30, 31, 32, 44, 45, 46, 48, 49, 50, 51, 52, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]",[],1,0
+57,"@hoa buitôi chửi nó để  trong ngoặc đó bạn , chứ tôi biết thằng ba rọi này mồm nó hơn cống công cộng , từ thiện mà sủa như quái vật vậy, mồm nó độc quá ,mồm nó chửi tục vậy thì tâm nó chỉ tà kiến và ác gian tham thôi.",O O B-T O O O O O O O O O O B-T O O O B-T I-T I-T I-T I-T I-T O O O O B-T O B-T I-T O B-T I-T I-T O B-T I-T I-T I-T O O O B-T O B-T I-T O B-T I-T B-T O,O O B-T I-T O O O O O O O O O B-T O O O B-T B-T I-T I-T I-T I-T O O O O B-T O B-T I-T O B-T B-T O O O B-T B-T I-T O O O O O O O O B-T O O O,"[12, 13, 14, 15, 58, 59, 60, 61, 62, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 115, 116, 117, 123, 124, 125, 126, 127, 128, 129, 130, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 181, 182, 188, 189, 190, 191, 192, 193, 194, 199, 200, 201, 202, 203, 204, 205, 207, 208, 209, 210]","[12, 13, 14, 15, 17, 18, 58, 59, 60, 61, 62, 75, 76, 77, 79, 80, 82, 83, 84, 86, 87, 88, 89, 91, 92, 93, 94, 96, 97, 98, 99, 115, 116, 117, 123, 124, 125, 126, 128, 129, 130, 137, 138, 139, 141, 142, 157, 158, 160, 161, 162, 163, 165, 166, 167, 199, 200]",1,1
+58,Anh Ba dữ quá,O O O O,O O O O,[],[],0,0
+59,Bo truong cho,O O B-T,O O O,"[10, 11, 12]",[],1,0
+60,Đổi cờ hay kỳ gì cũng không đổi cái rẻ rách 3/ đâu nha bác :),O O O O O O O O O B-T I-T I-T O O O O,O O O O O O O O O B-T I-T I-T O O O O,"[36, 37, 38, 39, 40, 41, 42, 43, 44, 45]","[36, 37, 39, 40, 41, 42, 44, 45]",1,1
+61,trần dần chém gió.nghèo kiết xác không có tiền để làm răng gãy mẹ nó hết rồi mà còn ngồi chem gió,O O B-T B-T I-T I-T O O O O O O O B-T I-T I-T O O O O B-T I-T,O O O O O O O O O O O O O O B-T O O O O O O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 108, 109, 110, 111, 112, 113, 114, 115, 116]","[79, 80, 81]",1,1
+62,"~ 85 triệu Dân ngu cu đen ngày càng bị 4,5 triệu đảng viện ức hiếp",O O O O B-T I-T I-T O O O O O O O B-T I-T,O O O O B-T I-T I-T O O O O O O O O O,"[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 59, 60, 61, 62, 63, 64, 65]","[15, 16, 17, 19, 20, 22, 23, 24]",1,1
+63,Nguyễn Thuận =)) tư tưởng rừng rú gì v,O O O B-T I-T I-T I-T O O,O O O B-T I-T I-T I-T O O,"[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]","[17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32]",1,1
+64,Thấy thầy ăn nói lịch sự như này em ko quen lắm 😑😑,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+65,Đã bảo hông xem hoạt hình,O O O O O O,O O O O O O,[],[],0,0
+66,Xin,O,O,[],[],0,0
+67,Lặng Táo Quân Vi Hành đổi lịch phát sóng rồi nhé chứ giờ Táo Quân sẽ không chiếu vào tối 30 Tết đâu,O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+68,Gửi con ml nhung17 nhé =))),O B-T I-T O O O,O B-T I-T O O O,"[4, 5, 6, 7, 8, 9]","[4, 5, 6, 8, 9]",1,1
+69,d m hải quan k tham nhũng mang đầu tao đi mà chặt,B-T I-T O O O B-T I-T B-T I-T I-T I-T O B-T,B-T I-T O O O O O O O B-T O O O,"[0, 1, 2, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 45, 46, 47, 48]","[0, 2, 35, 36, 37]",1,1
+70,Hj hj  e vui that nha,O O O O O O,O O O O O O,[],[],0,0
+71,Ôi bố cái lũ thanh niên hãm lol. Đẹp mặt quá 😒😒,O B-T I-T I-T O O B-T I-T B-T I-T I-T B-T,O O O B-T O O O O O O O O,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 24, 25, 26, 27, 28, 29, 30, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 46]","[10, 11]",1,1
+72,Đồng chí Trần Dần đã hoàn thành xuất sắc nhiệm vụ của đảng và nhà nước giao cho,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,[],[],0,0
+73,"Auto mua, comment có thể mua được mà, nếu chốt đơn là thật đi, nhưng sau không nhắn tin cho shop thì cũng đâu bán...kakaaaaaaa",O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+74,Nản cái chế độ...,O O O O,O O O O,[],[],0,0
+75,@công danh nguyen thể chế chính trị khác hẳn tư tưởng xã hội nhé. Con cờ hó china liên quan cmn gì?,O O O O O O O O O O O O O O O B-T I-T O O O B-T O,O O O O O O O O O O O O O O B-T I-T I-T O O O B-T O,"[70, 71, 72, 73, 74, 92, 93, 94]","[66, 67, 68, 70, 71, 73, 74, 92, 93, 94]",1,1
+76,"Bạn nói chỉ dc cái đúng, like phát đéo biết mai có bị bọn nó đưa vào tội gì ko.",O O O O O O O O B-T O O O O B-T I-T O O O O O,O O O O O O O O B-T O O O O B-T I-T O O O O O,"[35, 36, 37, 54, 55, 56, 57, 58, 59]","[35, 36, 37, 54, 55, 56, 58, 59]",1,1
+77,Hải Yến mày mới là con rảnh đấy. Chưa xem đã bảo cảm thấy chán =)) điên hết phần thiên hạ,O O B-T O O B-T O O O O O O O O O O B-T I-T I-T I-T I-T,O O B-T O O B-T I-T O O O O O O O O O B-T O O O O,"[8, 9, 10, 19, 20, 21, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88]","[8, 9, 10, 19, 20, 21, 23, 24, 25, 26, 67, 68, 69, 70]",1,1
+78,chị MH nc có duyên thật,O O O O O O,O O O O O O,[],[],0,0
+79,Ngân Đỗ nhìn mà tức á,O O O O O O,O O O O O O,[],[],0,0
+80,"HL đã ngu mà văn tiếp tục ngu đi khai báo cho dư luận biết là đã bỏ tiền riêng của mình để xây dựng đền đồng bóng, theo luật IRS mỹ bất cứ một công dân mỹ hoặc thường trú nhân ở mỹ khi ra nước ngoài làm ăn đều phải khai thuế với IRS, không biết ông thầ",O O B-T O O O O B-T O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O B-T O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[6, 7, 8, 26, 27, 28, 104, 105, 106, 107, 108, 109, 110, 111, 112]","[6, 7, 8, 26, 27, 28]",1,1
+81,":) trung cộng muốn thắng thì tốt nhất nên cử cán bộ qua việt nam học tập, mấy thằng chưa học hết cấp 2 còn lôi lên làm lãnh đạo được, thì giải quyết hongkong chỉ là chuyện nhỏ",O B-T I-T O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O O O O O O O,O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126]","[78, 79, 80, 81, 82]",1,1
+82,Ai cũng hiểu chỉ có một người ko hiểu là Add,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+83,@Phu Nguyen chắc phát âm nói với viết 🤣,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+84,Có ai nạp cho ko b,O O O O O O,O O O O O O,[],[],0,0
+85,bán page ko ad,O O O O,O O O O,[],[],0,0
+86,"Chau oi bn la, con cua, cô  hả",O O O O O O O O,O O O O O O O O,[],[],0,0
+87,"T đang nợ 1tr, thêm chỗ này là 30tr à :(",O O O O O O O O O O O,B-T O O O O O O O O O O,[],[0],0,1
+88,cute,O,O,[],[],0,0
+89,Chậm chậm clg mấy con bò rảnh háng này,O O B-T O B-T I-T B-T I-T O,O O B-T I-T I-T I-T I-T I-T O,"[10, 11, 12, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33]","[10, 11, 12, 14, 15, 16, 18, 19, 20, 22, 23, 25, 26, 27, 28, 30, 31, 32, 33]",1,1
+90,con điên,B-T I-T,B-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7]","[0, 1, 2, 4, 5, 6, 7]",1,1
+91,Đầu cơ cả tỷ bạc tiền đất xung quanh đó rồi! =)) Phải chuẩn bị chứ!,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+92,"Ad update tình hình quá chậm, người ta biết lâu rồi.",O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+93,cũng muốn mang tiếng Dân Làm Việt lắm mà hôk được,O O B-T I-T B-T I-T I-T O O O O,O O O O O O O O O O O,"[10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",[],1,0
+94,Anh này mà đưa lên báo thì hót hòn họt nhểy. Quên luôn cả mấy người kia luôn ấy :)),O O O O O O O O O O O O O O O O O O O O,O O O O O O O B-T I-T I-T I-T O O O O O O O O O,[],"[27, 28, 29, 31, 32, 33, 35, 36, 37, 39, 40, 41, 42, 43]",0,1
+95,Hai người đẹp quá,O O O O,O O O O,[],[],0,0
+96,Tào lao!,B-T I-T,O O,"[0, 1, 2, 3, 4, 5, 6]",[],1,0
+97,Một lũ ăn bám,O B-T I-T I-T,O B-T I-T I-T,"[4, 5, 6, 7, 8, 9, 10, 11, 12]","[4, 5, 7, 8, 10, 11, 12]",1,1
+98,Lên thời sự nè ae êyyy,O O O O O O,O O O O O O,[],[],0,0
+99,Dạo này dịch căng đét,O O O O O,O O O O O,[],[],0,0
+100,Nguyễn Hoàng Hoài Thương,O O O O,O O O O,[],[],0,0
+101,Chúc chú cọp nhiều sức khỏe.,O O O O O O,O O O O O O,[],[],0,0
+102,Không ngờ mình ở gần nhà của nhà tiên tri ở Việt Nam,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+103,"500 triệu usd= hàng ngàn tháng lương công nhân, cty mang tiếng xấu, mất việc làm, lơi nhuận, hồ sơ vết nhơ có sẳn. Vậy cái giá của họ trả nhìu hơn 500 triêu usd",O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[103, 104, 105]",[],1,0
+104,"Bệnh viện Anh như cc. Đã có triệu chứng rõ ràng, khai cả tiền sử tiếp xúc vẫn ko cho xét nghiệm mà yêu cầu cách ly tại nhà 😔 Ông bố điều mb bế về Vn chữa là hợp lý",O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[18, 19]","[18, 19, 20]",1,1
+105,Vãi lol bác.kkk,B-T I-T O,B-T I-T O,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+106,Vo Tuan Anh đéo hiểu kiểu gì,O O O B-T O O O,O O O B-T O O O,"[12, 13, 14]","[12, 13, 14]",1,1
+107,"Hổ ca nhìn là thấy kết rồi , nhưng Hổ ca tỉnh hẳn chưa",O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+108,Abe có thể chiếm đoạt được trái tim của Tiểu Tiểu nhưng riêng blue của Tiểu Tiểu thì Abe tuổi lol chiếm đoạt được :vv,O O O O O O O O O O O O O O O O O O O O B-T O O O O,O O O B-T I-T O O O O O O O O O O O O O O B-T I-T B-T I-T O O,"[94, 95, 96]","[11, 12, 13, 14, 15, 17, 18, 19, 20, 89, 90, 91, 92, 94, 95, 96, 98, 99, 100, 101, 102, 104, 105, 106, 107]",1,1
+109,"Con Bò đỏ nầy bị tẩy não cho nên không chuyển hoá thành người nổi, thích làm kiếp bò hơn làm người",B-T I-T I-T O O B-T I-T O O B-T I-T I-T I-T I-T I-T B-T I-T I-T I-T I-T I-T I-T,B-T I-T I-T O O B-T I-T O O O O O O O O O O B-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 17, 18, 19, 20, 21, 22, 23, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97]","[0, 1, 2, 4, 5, 7, 8, 17, 18, 19, 21, 22, 23, 77, 78, 79, 80, 82, 83]",1,1
+110,thế đéo nào xin lỗi 1 câu là xong v?,O B-T O O O O O O O O,O B-T O O O O O O O O,"[4, 5, 6]","[4, 5, 6]",1,1
+111,Hồng Xuyến mỗi ng mỗi gu. Và đó là ý kiến của mình thôi,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+112,"Đéo mẹ, MC Phan Anh có nhận lương từ dân tụi tao ko, hết lòng vì người vùng lũ, còn tụi mày có đứng ra kêu gọi và hết lòng lo cho dân ko hay chỉ là kêu gọi xong đem cúng mồ mã ông bà nhà tụi bây, đm cứ tưởng dân giờ ngu lắm ấy.",B-T I-T O O O O O O O O B-T I-T O O O O O O O O B-T I-T O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T B-T O O O O B-T O O,B-T O O O O O O O O O B-T I-T O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T B-T O O O O B-T O O,"[0, 1, 2, 3, 4, 5, 41, 42, 43, 44, 45, 46, 47, 84, 85, 86, 87, 88, 89, 90, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 196, 197, 216, 217, 218]","[0, 1, 2, 41, 42, 43, 45, 46, 47, 84, 85, 86, 88, 89, 90, 170, 171, 173, 174, 176, 177, 178, 180, 181, 183, 184, 185, 187, 188, 189, 191, 192, 193, 194, 196, 197, 216, 217, 218]",1,1
+113,Cảm ơn đảng,O O O,O O O,[],[],0,0
+114,"Trông khổ vãi đái, mong bác quay về với tổ quốc 😢",O O B-T I-T O O O O O O O O,O O B-T O O O O O O O O O,"[10, 11, 12, 13, 14, 15, 16]","[10, 11, 12]",1,1
+115,:)).ở thiên đường mọi ngành nghề đều hợp pháp nhé.đặc biệt là nghề cướp đường.làm thế bỏ tù 6 tháng còn nhẹ,O O O O O O O O O O O O O B-T O O O B-T O O O O,O O O O O O O O O O O O O O O O O O O O O O,"[67, 68, 69, 70, 89, 90]",[],1,0
+116,Hôm nay em bỏ hết liêm sỉ ra xin like avt =)),O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+117,Nghe kì kì sao á. Con trai với mẹ mà liệu mấy cái lời nghe 😋😋😡,O O O O O O O O O O O O O O O O,O O O O O O O O B-T O O O O O O O,[],"[31, 32]",0,1
+118,Riot Tiến Trần K để ý vs cả k có tn chờ nên k chấp nhận 😂,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+119,Chúng nó đéo còn gì để làm mà nên mới sống nhanh với sống chậm :v,O B-T B-T O O O O O O O O O O O O O,B-T I-T B-T O O O O O O O O O O O O O,"[6, 7, 9, 10, 11]","[0, 1, 2, 3, 4, 6, 7, 9, 10, 11]",1,1
+120,"Má, .....xăng xuống giá mà luật CA cứ tăng tên",B-T O O O O O O O O O,O O O O O O O O O O,"[0, 1]",[],1,0
+121,Em mà đập đc thằng chính phủ như vậy chắc e đã làm rồi 😂,O O B-T O B-T O O O O O O O O O O,O O B-T O B-T O O O O O O O O O O,"[6, 7, 8, 13, 14, 15, 16, 17]","[6, 7, 8, 13, 14, 15, 16, 17]",1,1
+122,A nghĩ sao về quan hệ đồng tính,O O O O O O O O,O O O O O O O O,[],[],0,0
+123,Huy Hoàng xàm lồn ít thôi.,O O B-T I-T O O,O O B-T I-T O O,"[10, 11, 12, 13, 14, 15, 16]","[10, 11, 12, 14, 15, 16]",1,1
+124,chai lơ phim mới hả mn,O O O O O O,O O O O O O,[],[],0,0
+125,như cl,O B-T,O B-T,"[4, 5]","[4, 5]",1,1
+126,thề a ác vs A Quang vl ... a den vl,O O B-T O O O B-T O O O B-T,O O B-T O O O B-T O O O B-T,"[6, 7, 20, 21, 33, 34]","[6, 7, 20, 21, 33, 34]",1,1
+127,A tiệp:,O O,O O,[],[],0,0
+128,Không thể tưởng tượng nổi... Bọn chúng ăn bất chấp thủ đoạn,O O O O O B-T I-T O B-T I-T I-T I-T,O O O O O B-T I-T I-T I-T I-T I-T I-T,"[29, 30, 31, 32, 33, 34, 35, 36, 37, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58]","[29, 30, 31, 33, 34, 35, 36, 37, 39, 40, 42, 43, 44, 46, 47, 48, 49, 51, 52, 53, 55, 56, 57, 58]",1,1
+129,Cứ tưởng thế là ngầu,O B-T I-T I-T I-T,O O O O O,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",[],1,0
+130,Đm lần đầu tiên bố địt vào mày ad ạ.,B-T O O O B-T B-T O B-T O O,B-T O O O O B-T I-T I-T O O,"[0, 1, 16, 17, 19, 20, 21, 27, 28, 29]","[0, 1, 19, 20, 21, 23, 24, 25, 27, 28, 29]",1,1
+131,nhanh chóng vãi lồng ! cá chết 3 tuần mới xách đít đi lấy mẫu !,O O B-T I-T O O B-T O O O B-T I-T I-T O O O,O O B-T I-T O O B-T O O O O B-T O O O O,"[12, 13, 14, 15, 16, 17, 18, 19, 26, 27, 28, 29, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]","[12, 13, 14, 16, 17, 18, 19, 26, 27, 28, 29, 47, 48, 49]",1,1
+132,Tạ Thu Hằng ae gì đâu nhỉ 🤣,O O O O O O O O,O O O O O O O O,[],[],0,0
+133,vác Susan ra nha Thầy,O O O O O,O O O O O,[],[],0,0
+134,Hi Độ tỷ tỷ -)),O O O O O,O O O O O,[],[],0,0
+135,Nhà giàu đúng là có gu ăn mặc khác hẳn,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+136,Bông ko ra bông trái ko ra trái...âm binh,B-T I-T I-T I-T I-T I-T I-T B-T I-T,O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 34, 35, 36, 37, 38, 39, 40]",[],1,0
+137,"Bị giải tỏa nhưng đền bù không thỏa đáng, cả nhà sắp mất bát cơm nên làm liều.",O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,[],[],0,0
+138,Hahaha súng bắn xạo VL,O B-T B-T B-T I-T,O O B-T I-T I-T,"[7, 8, 9, 10, 12, 13, 14, 16, 17, 18, 19, 20, 21]","[12, 13, 14, 16, 17, 18, 20, 21]",1,1
+139,Có bàn chân lặng lẽ...,O O O O O,O O O O O,[],[],0,0
+140,Dit me vao long tot cho de cua may a,B-T I-T O O O B-T I-T O B-T O,B-T I-T O O O O O O O O,"[0, 1, 2, 3, 4, 5, 20, 21, 22, 23, 24, 25, 31, 32, 33]","[0, 1, 2, 4, 5]",1,1
+141,Thằng to ăn to .thằng bé ăn bé đúng là tấn trò đời,B-T O O O B-T O O O O O O O O,B-T O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 16, 17, 18, 19, 20]","[0, 1, 2, 3, 4]",1,1
+142,Anh huấn lúc này,O O O O,O O O O,[],[],0,0
+143,Những hình ảnh bạo lực của người HK vẫn còn in đậm trong tâm trí của chính tôi.Cảm phúc ý chí và sự đồng lòng của họ.Thương lắm các cháu vẫn chưa đc trả tự do.Mong cho các cháu đc bình an.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+144,Vu Quynh Huong thế mà nó đéo chết đi. Giảm quá tải cho thế giới,O O O O O B-T B-T B-T O O O O O O O,O O O O O B-T B-T I-T O O O O O O O,"[22, 23, 25, 26, 27, 29, 30, 31, 32]","[22, 23, 25, 26, 27, 29, 30, 31, 32]",1,1
+145,Tụi học trò vô văn hóa,B-T O O B-T I-T I-T,B-T I-T I-T I-T I-T I-T,"[0, 1, 2, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]","[0, 1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 15, 16, 17, 19, 20, 21]",1,1
+146,Ido của mình vẫn khỏe mừng quá.,O O O O O O O,O O O O O O O,[],[],0,0
+147,kkkk,O,O,[],[],0,0
+148,Hậu việc hút thuốc Lào 🙂 :v,O O O O O O O,O O O O O O O,[],[],0,0
+149,Trần Dần đã đạt cảnh giới cao nhất của thần quyền là...thần kinh,O O O O O O O O O O O B-T I-T,O O O O O O O O O O O O O,"[55, 56, 57, 58, 59, 60, 61, 62, 63]",[],1,0
+150,Có lửa mới có khói.cũng như vụ Tiên Lãng Hải Phòng mà thôi.chết oan cho bọn🐕tham lam ăn cướp,O O O O O O O O O O O O B-T O O B-T I-T I-T I-T,O O O O O O O O O O O O O O O O O B-T I-T,"[59, 60, 61, 62, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91]","[85, 86, 88, 89, 90, 91]",1,1
+151,Du ma may,B-T I-T I-T,B-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8]","[0, 1, 3, 4, 6, 7, 8]",1,1
+152,Nguyễn Kỳ Phước tụi nước ngoài bắt nhịp chậm vại lòn 😤,O O O B-T O O O O O B-T I-T O,O O O O O O O O O B-T I-T I-T,"[16, 17, 18, 45, 46, 47, 48, 49, 50, 51]","[45, 46, 47, 49, 50, 51, 53]",1,1
+153,T thấy Khánh Chi nói chuyện chớt chớt sao á ta,O O O O O O O O O O O,B-T O O O O O O O O O O,[],[0],0,1
+154,Ây da.. cô dễ thương quá 😘 anh Tuân cười như được mùa 😆,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+155,Lê Nhật Khoa đem qua cmt bên Lộc sting :v,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+156,Vinh hạnh là một fan cứng của mixigaming,O O O O O O O O,O O O O O O O O,[],[],0,0
+157,Anh cái lồnnnn gì cx giỏi mà giỏi nhất là bốc phéttt thôi anh Tiệp ak :))),O O B-T O O O O O O O B-T I-T O O O O O,O O O O O O O O O O O O O O O O O,"[8, 9, 10, 11, 12, 13, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]",[],1,0
+158,Cho mình hỏi nút vàng đc làm bằng chất liệu j z,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+159,Bán mẹ nước rồi còn đâu.,B-T I-T I-T O O O,B-T I-T O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]","[0, 1, 2, 4, 5]",1,1
+160,Đấy thế nhé. Thế là vừa lòng nhé. Chưa kể những ng kêu là không ngại nguy hiểm kia toàn là lính. Sai đâu đánh đó. Không kêu chắc tự ra làm. Mà nói là nói mấy cha bụng bự kia chứ nói gì lính lác.,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T O O O O B-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T O O O O O O,"[158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 185, 186, 187, 188, 189, 190, 191, 192]","[154, 155, 156, 158, 159, 160, 162, 163, 164, 165, 167, 168]",1,1
+161,Chi noi chuyen ma nhe thich đo chi ba😍😍😍,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+162,"Thằng này nó thuộc dạng súc sinh,k còn từ ngữ gì để miêu tả hết độ cặn bã, khốn nạn,bỉ ổi của nó,k biết thằng bố con mẹ nó nghĩ gì khi có thằng con như nó,k biết con vợ nó cảm nhận thế nào về thằng chồng thổ tả như nó, thằng súc sinh này làm dơ bẩn thế giới đàn ông",B-T O B-T O B-T I-T I-T O O O O O O O O O B-T I-T B-T B-T I-T O B-T O B-T O B-T O B-T O O O O B-T O O B-T O B-T O B-T O O O O O B-T O B-T I-T O B-T B-T I-T I-T O O B-T I-T O O O O,B-T O B-T O O B-T I-T O O O O O O O O O B-T I-T I-T I-T I-T O O O B-T I-T I-T I-T I-T O O O O B-T O O O O O O O O O O O O B-T O O O O B-T B-T I-T I-T O O B-T I-T O O O O,"[0, 1, 2, 3, 4, 10, 11, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 67, 68, 69, 70, 71, 72, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 94, 95, 104, 105, 106, 107, 108, 113, 114, 115, 120, 121, 138, 139, 140, 141, 142, 152, 153, 162, 163, 164, 169, 170, 192, 193, 194, 195, 196, 204, 205, 206, 207, 208, 209, 215, 216, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 242, 243, 244, 245, 246, 247]","[0, 1, 2, 3, 4, 10, 11, 24, 25, 26, 28, 29, 30, 31, 32, 33, 67, 68, 69, 71, 72, 73, 75, 76, 77, 78, 80, 81, 82, 83, 84, 85, 87, 88, 104, 105, 106, 107, 108, 110, 111, 113, 114, 115, 117, 118, 120, 121, 138, 139, 140, 141, 142, 192, 193, 194, 195, 196, 215, 216, 217, 219, 220, 221, 222, 223, 225, 226, 227, 229, 230, 231, 232, 242, 243, 245, 246, 247]",1,1
+163,"Trần Dần tiên tri người Vn sẽ về 1 mối quá đúng lun , nhưng quên vc phải bị tiêu diệt theo tất yếu lịch sử vì chỉ còn vài nước nghèo nàn chịu luồn cúi tàu cộng lưu manh",O O O O O O O O O O O O O O O O B-T O O B-T I-T O O O O O O O O O O B-T I-T O B-T I-T B-T I-T B-T I-T,O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O B-T I-T I-T I-T,"[65, 66, 76, 77, 78, 79, 80, 81, 82, 83, 84, 127, 128, 129, 130, 131, 132, 133, 134, 135, 142, 143, 144, 145, 146, 147, 148, 149, 151, 152, 153, 154, 155, 156, 157, 158, 160, 161, 162, 163, 164, 165, 166, 167]","[76, 77, 78, 79, 81, 82, 83, 84, 151, 152, 153, 155, 156, 157, 158, 160, 161, 162, 164, 165, 166, 167]",1,1
+164,DMCSVN,B-T,O,"[0, 1, 2, 3, 4, 5]",[],1,0
+165,Ăn điêu nói hớt quen.,B-T I-T I-T I-T O,O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]",[],1,0
+166,Cánh Diều dẻo,O O O,O O O,[],[],0,0
+167,Ba dẻo vàng j den thui  vay vàng mien ak,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+168,Chung cống rãnh sao so được với Ngài Chung bóng đá.,O B-T I-T O O O O O O O O,O O O O O O O O O O O,"[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]",[],1,0
+169,Nam mô a di đà phật 🙇🙇🙇,O O O O O O O,O O O O O O O,[],[],0,0
+170,TQ chắc chắn sẽ không xâm lược láng giềng. Vì công cuộc xâm lược đó đã được TQ hoàn tất lâu rồi.,O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+171,"ông can đang bận bảo vệ bọn ngu nhưng ra vẽ gánh team , và đứng trong bệ đá cổ nhưng vẫn cần sự cover từ đồng đội tránh bị dive bệ đá =))",O O O O O O B-T I-T O B-T I-T I-T I-T O O O O O O O O O O O O O O O O O B-T I-T I-T O,O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O,"[24, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]","[24, 25, 26, 28, 29, 30]",1,1
+172,Phải treo cổ chúng nó lên thì may ra .....,O B-T I-T O B-T O O O O O,O O O O B-T O O O O O,"[5, 6, 7, 8, 9, 10, 11, 19, 20]","[19, 20]",1,1
+173,Nguyễn Minh Anh đẹp mà anh:)),O O O O O O,O O O O O O,[],[],0,0
+174,đíu tin được luôn =)))))))),B-T O O O O,O O O O O,"[0, 1, 2]",[],1,0
+175,Ngồi chờ thông báo cty cho nghỉ,O O O O O O O,O O O O O O O,[],[],0,0
+176,Giữ vững bản lĩnh chính trị vững vàng 😷😷,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+177,Đừng có y y bệnh cả nước k đủ thuốc là ăn lol luôn chứ ở đó,O O O O O O O O O O O O B-T O O O O,B-T I-T I-T I-T I-T I-T I-T O O O O B-T I-T O O O O,"[42, 43, 44]","[0, 1, 2, 3, 5, 6, 8, 10, 12, 13, 14, 15, 17, 18, 20, 21, 22, 23, 39, 40, 42, 43, 44]",1,1
+178,ở xứ đông lào này chẳng có thành công nào mà thiếu được bàn chân của đảng ! không thể thành công mà thiếu vai trò của đ... được !!! nếu chưa thì đ.. sẽ tìm ra cách !,O O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[56, 57, 58, 59, 60, 61, 62, 63]",[],1,0
+179,Dcm mồm đứa nào thôi dám rủa Bác tau bị codonqua.,B-T B-T O O O O O O O O O,B-T I-T I-T O O O O O O O O,"[0, 1, 2, 4, 5, 6]","[0, 1, 2, 4, 5, 6, 8, 9, 10]",1,1
+180,Chi dep qua c oi.su con cho do di c.con mat day con cho phan quoc.,O O O O B-T O B-T O O O B-T I-T O B-T B-T I-T,O O O O O O O O O O B-T I-T I-T I-T I-T I-T,"[17, 18, 24, 25, 26, 40, 41, 42, 43, 44, 45, 46, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64]","[40, 41, 42, 44, 45, 46, 48, 49, 50, 52, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64, 65]",1,1
+181,cái gì thế :)),O O O O,O O O O,[],[],0,0
+182,như cc luôn ấy :v bài này view k cao đâu ~,O B-T O O O O O O O O O O,O B-T O O O O O O O O O O,"[4, 5]","[4, 5]",1,1
+183,Nói chuyện thì đeo khẩu trang zô anh ưiii,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+184,"Nha tien tri cung so virut hay sao, tien tri noi cong san tieu tan ma. Noi lao,",O O O O O B-T O O O O O B-T I-T O O O O B-T,O O O O O O O O O O B-T I-T I-T I-T I-T I-T B-T I-T,"[21, 22, 23, 24, 25, 49, 50, 51, 52, 53, 54, 55, 56, 75, 76, 77]","[45, 46, 47, 49, 50, 51, 52, 54, 55, 56, 58, 59, 60, 61, 63, 64, 65, 67, 68, 69, 71, 72, 73, 75, 76, 77, 78]",1,1
+185,Về lẹ xóa kênh thầy ơii,O O O O O O,O O O O O O,[],[],0,0
+186,Đứng hình mất nửa tiếng :)),O O O O O O,O O O O O O,[],[],0,0
+187,Cái đờ mờ :(((,O B-T I-T O,O B-T I-T O,"[4, 5, 6, 7, 8]","[4, 5, 7, 8]",1,1
+188,Bữa cơm gia đình 🙂 thíc thật ấy,O O O O O O O O,O O O O O O O O,[],[],0,0
+189,"Đm Ad, mày ngon kéo ra đó mà bve ngồi sủa phỏng có ích gì",B-T O B-T I-T O O O O O O B-T O O O O,B-T O B-T O O O O O O O B-T O O O O,"[0, 1, 7, 8, 9, 10, 11, 12, 13, 14, 38, 39, 40]","[0, 1, 7, 8, 9, 38, 39, 40]",1,1
+190,"Thích câu này vl \"" Bạn lịch sự - admin lịch sự. Bạn cục súc - admin dí L` vào mặt bạn luôn \""",O O O B-T O O O O O O O O O B-T I-T O O B-T I-T I-T I-T O O O,O O O B-T O O O O O O O O O B-T I-T O O O O O O O O O,"[14, 15, 53, 54, 55, 56, 57, 58, 59, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]","[14, 15, 53, 54, 55, 57, 58, 59]",1,1
+191,ngày càng tinh vi,O O O O,O O O O,[],[],0,0
+192,Hảo Đen có cl ý :)),O O O B-T O O,O O O B-T O O,"[11, 12]","[11, 12]",1,1
+193,Phi Quý dầu thơm mùi nhức đầu chết mẹ =)),O O O O O O O B-T I-T O,O O O O O B-T I-T I-T I-T O,"[30, 31, 32, 33, 34, 35, 36]","[21, 22, 23, 24, 26, 27, 28, 30, 31, 32, 33, 35, 36]",1,1
+194,Có ai đi xem phim này vs tớ k:)))),O O O O O O O O O,O O O O O O O O O,[],[],0,0
+195,Oc bã đậu chỉ có j thôi,B-T I-T I-T O O O O,B-T I-T O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]","[0, 1, 3, 4, 5]",1,1
+196,"vẫn mãi là một nước đang phát triển , và lạm phát ngày càng cao",O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+197,Đây là thầy giáo ba 😎 còn baroibeo là khác nữa,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+198,Thành Học Nguyễn Huy r về lây cho ae,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+199,Bán online 10 năm mà đm đạo đức kém vc boom hàng chết mẹ nó đi mng ơi :)),O O O O O B-T B-T I-T I-T B-T O O B-T I-T B-T O O O O,O O O O O B-T B-T I-T I-T B-T O O B-T I-T I-T O O O O,"[21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 49, 50, 51, 52, 53, 54, 55, 57, 58]","[21, 22, 24, 25, 26, 28, 29, 30, 32, 33, 34, 36, 37, 49, 50, 51, 52, 54, 55, 57, 58]",1,1
+200,phải lạc quan lên thôi rồi cái gì cũng phải qua toàn dân có ý thức chắc chắn sẽ vượt qua,O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+201,Nguyễn Thành Công thầy cố tình vậy để đỡ mất công biến về đấy,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+202,Một con bò vừa cmt,O B-T I-T O O,O B-T I-T O O,"[4, 5, 6, 7, 8, 9]","[4, 5, 6, 8, 9]",1,1
+203,live thật luôn hả mấy ông,O O O O O O,O O O O O O,[],[],0,0
+204,"Mùa đông quảng cáo áo cộc tay ,nghe hợp lí :((",O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+205,Nhanh vcl,O B-T,O B-T,"[6, 7, 8]","[6, 7, 8]",1,1
+206,Đkm chúng nó bán hết rồi còn đâu mà của mình,B-T B-T I-T O O O O O O O O,B-T I-T I-T O O O O O O O O,"[0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11]","[0, 1, 2, 4, 5, 6, 7, 8, 10, 11]",1,1
+207,Má nước mắt cá sấu kìa trời,B-T B-T I-T I-T I-T O O,B-T I-T I-T I-T I-T O O,"[0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]","[0, 1, 3, 4, 5, 6, 8, 9, 10, 12, 13, 15, 16, 17]",1,1
+208,bậy qua a âyy,O O O O,O O O O,[],[],0,0
+209,"Đúng là "" vay lồn vay lắm"" mà -_-",O O O O B-T O O O O,O O O O B-T O O O O,"[14, 15, 16]","[14, 15, 16]",1,1
+210,"Lúc hoạn nạn đấm nhau với mẽo ko thấy ai . Giờ phất lên 1 cái ai cũng muốn khoác tay làm bạn , cái thế giới này có kinh tế trong tay nó sướng là thế đấy",O O O B-T O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O O,O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O,"[13, 14, 15, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91]","[26, 27, 28, 133, 134]",1,1
+211,Nghe rất vô sinh nhưng lại có thai 😀,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+212,"Cho em hỏi dư luận viên đi ăn có được giảm giá không? Tiền điện, tiền xăng... có được miễn phí không ạ! 😂",O O O B-T I-T I-T O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",[],1,0
+213,"Like chị Hiếu quá đi. Giới tính nào ko cần biết cứ có kinh tế, biết làm ăn giàu có, tử tế, bản lĩnh...tự do tài chính là ok hết.  💝💝💝💝💝",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+214,Tôi sin tuyên thệ .. trong nhiệm kỳ của mình sẽ cố gắng vơ vét đục khoét tàn phá đất nước này ko cho thằng sau lên ăn được gì nữa,O O O O O O O O O O O O O B-T I-T B-T I-T B-T I-T O O O O O B-T O O O O O O,O O O O O O O O O O O O O O B-T I-T I-T I-T I-T O O O O O B-T O O O O O O,"[56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 71, 73, 74, 75, 76, 77, 78, 79, 101, 102, 103, 104, 105]","[59, 60, 61, 63, 64, 65, 67, 68, 69, 70, 71, 73, 74, 75, 77, 78, 79, 101, 102, 103, 104, 105]",1,1
+215,"Và người dân nghèo_trẻ em,cụ già không đc hưởng ASXH",O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+216,Ông này chắc là bọn Tân thiên địa nằm vùng bên mình rồi....,O O O O B-T O O O O O O O O,O O O O B-T I-T I-T I-T I-T I-T O O O,"[16, 17, 18]","[16, 17, 18, 20, 21, 22, 24, 25, 26, 27, 28, 30, 31, 32, 34, 35, 36, 38, 39, 40, 41]",1,1
+217,Điều kiện hạn chế viruss phát tán có thể là phòng trên 26 độ là cơ bản. Còn mọi thứ điều cis thể. Hãy đọc kĩ những bài nói về viruss corona the trang chính thống nha,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+218,"Tình hình dịch Covid19 đang rất phức tạp. Mọi người ra đường nhớ đeo khẩu trang, ai sống một mặt đeo một cái, hai mặt đeo hai cái, ai sống như cặc thì đeo bao cao su dùm 🙂",O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T B-T I-T I-T I-T I-T I-T I-T I-T I-T O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O,"[84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164]","[143, 144, 145]",1,1
+219,Anh mới trả góp XS Max mà ra iPhone 11 r :)),O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+220,buồn của mỳ ý 😥,O O O O O,O O O O O,[],[],0,0
+221,sale cc,O B-T,O B-T,"[5, 6]","[5, 6]",1,1
+222,Có cl chụy mày tin ấy :)),O B-T O B-T O O O,O B-T O B-T O O O,"[3, 4, 11, 12, 13]","[3, 4, 11, 12, 13]",1,1
+223,Xem thầy từ lúc 10k sub,O O O O O O,O O O O O O,[],[],0,0
+224,Đừng bao h so sánh abe với sela bởi vì abe tuổi lol mà so đc,O O O O O O O O O O O B-T I-T O O O,O O O O O O O O O O O B-T I-T O O O,"[43, 44, 45, 46, 47, 48, 49, 50]","[43, 44, 45, 46, 48, 49, 50]",1,1
+225,Ngu chua tung co di mua do phe thai ve xai made in tau khua dat nuoc ngoc dau ko noi la do lanh dao ngu ngoc,B-T O O O O O O B-T I-T O O O O B-T I-T O O B-T I-T I-T I-T O O O O B-T I-T,B-T O O O O O O O O O O O O O O O O O O O O O O O O B-T O,"[0, 1, 2, 27, 28, 29, 30, 31, 32, 33, 34, 51, 52, 53, 54, 55, 56, 57, 58, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 100, 101, 102, 103, 104, 105, 106, 107]","[0, 1, 2, 100, 101, 102]",1,1
+226,Ngô Duy Tân hợp lí,O O O O O,O O O O O,[],[],0,0
+227,Ok,O,O,[],[],0,0
+228,Con minh hiếu bêde già mất dạy,B-T O O B-T I-T B-T I-T,O O O B-T I-T I-T I-T,"[0, 1, 2, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29]","[14, 15, 16, 17, 19, 20, 21, 23, 24, 25, 27, 28, 29]",1,1
+229,Trung đái dầm,O B-T I-T,O B-T O,"[6, 7, 8, 9, 10, 11, 12]","[6, 7, 8]",1,1
+230,Atm cao lãnh🤪,O O O,O O O,[],[],0,0
+231,:))) ý thức anh tịp như cái đầu bùi vậy,O O O O O B-T I-T I-T I-T O,O O O O O O O B-T I-T O,"[20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]","[28, 29, 30, 32, 33, 34]",1,1
+232,virus corona tuổi lìn :))),O O B-T I-T O,B-T I-T I-T I-T O,"[13, 14, 15, 16, 17, 18, 19, 20]","[0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20]",1,1
+233,Tuan Duong alo alo,O O O O,O O O O,[],[],0,0
+234,Dương Dương ????,O O O,B-T I-T I-T,[],"[0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 15]",0,1
+235,Like nếu bạn hiểu,O O O O,O O O O,[],[],0,0
+236,Có pải nổ lực là có được đâu.pải có 1 chút gọi là may mắn nữa,O O O O O O O O O O O O O O O O,O O B-T O O O O O O O O O O O O O,[],"[7, 8]",0,1
+237,🤣🤣🤣🤣,O,O,[],[],0,0
+238,Mjnh cho sdt di tui ve mjnh chau choi,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+239,sai vl,O B-T,O B-T,"[4, 5]","[4, 5]",1,1
+240,Ngọc Hà,O O,O O,[],[],0,0
+241,Chỉ muốn ad chửi chết tổ bọn chó chít này đi 😋😋😋😋,O O O B-T I-T I-T I-T I-T I-T O O O,O O O B-T B-T I-T I-T I-T I-T O O O,"[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]","[12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 25, 26, 27, 29, 30, 31, 33, 34, 35, 36]",1,1
+242,VN : cailoz cát ko :vv,O O B-T O O O,O O O O O O,"[5, 6, 7, 8, 9, 10]",[],1,0
+243,"Ơ, thế bà già của mụ này ngoại tình vs ông hồ lòi ra mụ ah ?",O O B-T I-T O B-T O B-T I-T O B-T I-T O O B-T O O,O O O O O B-T O O O O O O O O B-T O O,"[7, 8, 9, 10, 11, 12, 18, 19, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 42, 43, 44, 53, 54]","[18, 19, 53, 54]",1,1
+244,Đình Quang xạo l z pa,O O B-T I-T O O,O O B-T I-T O O,"[11, 12, 13, 14, 15]","[11, 12, 13, 15]",1,1
+245,Chúng tôi sẽ khen tặng huân chương độc lập hạng nhất cho đồng chí :)))),O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+246,Nguyễn Thịnh xin ảnh pro,O O O O O,O O O O O,[],[],0,0
+247,sóng gió Youtube bà con ơi🤣🤣🤣,O O O O O O,O O O O O O,[],[],0,0
+248,Nước mía đi mọi người,O O O O O,O O O O O,[],[],0,0
+249,Phục cái lồn mẹ chúng mày ý,O O B-T I-T B-T I-T O,O O B-T I-T I-T I-T O,"[9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[9, 10, 11, 13, 14, 16, 17, 18, 19, 20, 22, 23, 24]",1,1
+250,Lon me no,B-T I-T I-T,B-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8]","[0, 1, 2, 4, 5, 7, 8]",1,1
+251,Ad ngu như 1 con chó....xh nước nào mà ko có cướp giật.....chẳng qua là kéo giảm chứ làm cc j hết tuyệt đối.....mày ăn cức nên não mày ko phát triển hả ad!!!,O B-T I-T I-T I-T I-T O O O O O B-T I-T O O O O O O B-T O O O B-T O B-T O B-T I-T I-T I-T I-T O O,O B-T O O O O O O O O O B-T O O O O O O O B-T O O O O O B-T I-T I-T I-T O O O O O,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 45, 46, 47, 48, 49, 50, 51, 52, 53, 89, 90, 112, 113, 114, 119, 120, 121, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147]","[3, 4, 5, 45, 46, 47, 48, 89, 90, 119, 120, 121, 123, 124, 125, 127, 128, 129, 131, 132, 133]",1,1
+252,Linh vật đại diện thầy ba:)),O O O O O O,O O O O O O,[],[],0,0
+253,me nhà no,B-T I-T I-T,B-T O B-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8]","[0, 1, 7, 8]",1,1
+254,ờ ờ . nợ thì chúng m nợ nhé. :T t đéo có nợ ai dâu nhé :T .,O O O O O B-T I-T O O O B-T B-T O O O O O O O,O O O O O B-T I-T O O O B-T B-T O O O O O O O,"[13, 14, 15, 16, 17, 18, 19, 32, 34, 35, 36]","[13, 14, 15, 16, 17, 19, 32, 34, 35, 36]",1,1
+255,tự hào là học trò của abe,O O O O O O O,O O O O O O O,[],[],0,0
+256,25:05 phút Anh em chia sẻ mạnh tay tới Tập Cận Bình nhé! Trời sinh ra Tập tấc nhiêng sao lại sinh ra Tiger ?,O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+257,Ai là cảm tình diên like,O O O O O O,O O O O O O,[],[],0,0
+258,Vậy hằng năm thuế của dân đóng ngập mặt bọn bụng phệ trong QH NN kìa sao đám quan ko giỏi lấy đó ra quyên góp đi.,O O O O O O O B-T I-T B-T I-T I-T O O O O O B-T O O O O O O O O O,O O O O O O O O O B-T I-T I-T O O O O O O O O O O O O O O O,"[31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 73, 74, 75]","[40, 41, 42, 44, 45, 46, 47, 49, 50, 51]",1,1
+259,Chúng xây tượng đài nhiều hơn trường học.,B-T O O O O O O O,O O O O O O O O,"[0, 1, 2, 3, 4]",[],1,0
+260,"Thằng Việt chờ khi nào thằng Chung xả nước đầu nguồn thì lên truyền thông hoan nghênh nữa nhé, dù gì Việt và Chung cũng là anh em tốt, Chung từng giữ nhà dùm Việt hẳn 1000 năm cơ :)",B-T O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T O O,B-T O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 23, 24, 25, 26, 27, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174]","[0, 1, 2, 3, 4, 23, 24, 25, 26, 27]",1,1
+261,"Nổ lực trùng tu nhăn sắc ,để mồi chài đại gia ,đó cũng gọi là nổ lực đó chị đẹp à .",O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+262,Đuoc cua ló,O O O,O O O,[],[],0,0
+263,Giúp mình với mọi người ơi,O O O O O O,O O O O O O,[],[],0,0
+264,Nhân vật phụ mà lên hình to vậy abe 🙂,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+265,Hoàng Kiên nói đúng lại còn chuẩn 🤣🤣,O O O O O O O O,O O O O O O O O,[],[],0,0
+266,Bi benh ao tuong toi nghiep nhi,B-T I-T I-T I-T I-T I-T O,O O O O B-T I-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]","[17, 18, 19, 21, 22, 23, 24, 25, 26]",1,1
+267,Triệu Kim Nhung cứ tưởng y tế Lạng Sơn 🤦🏻‍♀️,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+268,Thần tượng lúc nhiỏ của tui,O O O O O O,O O O O O O,[],[],0,0
+269,Phạm Phúc cmt dạo lên fan cứng thì kinh dồi,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+270,Sao chúng nó đi rồi còn mò về làm gì ta :3,O O O O O O O O O O O O,O B-T I-T O O O O O O O O O,[],"[4, 5, 6, 7, 8, 10, 11]",0,1
+271,Cháu đang còn nhỏ mà cô chú làm hư cháu quá😥,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+272,Be de khung,B-T I-T I-T,B-T I-T B-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]","[0, 1, 3, 4, 6, 7, 8, 9, 10]",1,1
+273,Sống chậm th,O O O,O O O,[],[],0,0
+274,"Càng đọc càng tức con quỷ đó. Bây giơ vì nó bao nhiu ng chuẩn bị thất nghiệp, người gia thì lo sợ hoang mang, bao nhiu chủ Doanh nghiệp đợt này tiu luôn. Thứ gì đâu ak",O O O O B-T I-T O O O O B-T O O O O O O O O O O O O O O O O O O O O O B-T O B-T I-T I-T O,O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[22, 23, 24, 25, 26, 27, 28, 29, 48, 49, 50, 163, 164, 165, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184]","[48, 49, 50]",1,1
+275,Rambo vẫn phải tự ngã xe mới chịu đc :)))). Sang cả thái lan tấu hài,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+276,"Cô là người miền Tây giống con, nhìn cô chất phát, thật thà đúng với con người miền Tây vậy con rất mến mộ. Con luôn theo dõi và ủng hộ cô ❤️",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+277,"Phân chia vùng miền là ngu. Ở đâu cũng có kẻ này người nọ. Thử hỏi phản ứng về vụ Formosa vừa rồi ở đâu được đoàn kết, đông đảo và không e ngại như giáo phận Vinh?",O O O O O B-T O O O O B-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O B-T O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O,"[23, 24, 25, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]","[23, 24, 25, 26, 67, 68, 69, 70, 72, 73, 74]",1,1
+278,"Nó đang tự chửi nó , lấy chồng còn ( sinh con) ủa mà nó đẻ được không ta ? Vì nó là quỷ rồi !... bọn bay thua con chó là con người thô tục từ thiện áp phe còn phước không?",B-T O O B-T B-T O O O O O O O O O B-T O O O O O O B-T O B-T O O B-T I-T O O B-T O O O B-T I-T O O B-T I-T O O O,B-T O O B-T I-T O O O O O O O O O B-T O O O O O O O O O O B-T I-T I-T I-T I-T I-T O B-T I-T I-T I-T O O O O O O O,"[0, 1, 11, 12, 13, 14, 16, 17, 53, 54, 78, 79, 84, 85, 86, 97, 98, 99, 100, 101, 102, 103, 114, 115, 116, 131, 132, 133, 134, 135, 136, 137, 148, 149, 150, 151, 152, 153]","[0, 1, 11, 12, 13, 14, 16, 17, 53, 54, 92, 93, 94, 95, 97, 98, 99, 101, 102, 103, 105, 106, 107, 108, 110, 111, 112, 114, 115, 116, 121, 122, 123, 125, 126, 127, 128, 129, 131, 132, 133, 135, 136, 137]",1,1
+279,Cmn Lag đúng chổ,B-T O O O,B-T O O O,"[0, 1, 2]","[0, 1, 2]",1,1
+280,"Ôi, anh tôi =)))",O O O O,O O O O,[],[],0,0
+281,Đầu ốc tôm nên nói ra không có lời nào nghe được . phụ nữ Việt Nam không có người nào phát ngôn như vậy thật ghê tởm,B-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O B-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 109, 110, 111, 112, 113, 114, 115]","[109, 110, 111, 113, 114, 115]",1,1
+282,Con này thì có cdg mà ăn?,B-T O O O B-T O O,B-T O O O O O O,"[0, 1, 2, 15, 16, 17]","[0, 1, 2]",1,1
+283,Nghe mà muốn đập cái đth đm :))),B-T I-T I-T I-T O O B-T O,O O O B-T I-T I-T B-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 25, 26]","[13, 14, 15, 17, 18, 19, 21, 22, 23, 25, 26]",1,1
+284,"Bả chửi người ta lên mạng câu like , bả mấy là người câu like đó , kêu người này người kia ủng hộ nhiều nhiều , đi Mỹ chơi về cho mỗi đứa ngàn đô ,  nghe muốn đái ỉa ra một lượt cho bả coi , lên mạng ngồi bán từng chai dầu thơm kiếm lời mà nói chuyện chảnh chó.",B-T B-T O O O O B-T I-T O B-T O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O B-T O O O O O O O O O O O O O O O B-T I-T,O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T B-T O O O O O O O O O O O O O O O O O O O O B-T I-T,"[0, 1, 3, 4, 5, 6, 26, 27, 28, 29, 30, 31, 32, 33, 37, 38, 53, 54, 55, 56, 57, 58, 59, 60, 159, 160, 161, 162, 163, 164, 182, 183, 251, 252, 253, 254, 255, 256, 257, 258, 259]","[3, 4, 5, 6, 159, 160, 161, 163, 164, 251, 252, 253, 254, 255, 257, 258, 259, 260]",1,1
+285,"Hướng dẫn con mẹ gì, giống như hút thuốc lá thế thôi.",O O B-T I-T O O O O O O O O,O O B-T I-T I-T I-T I-T I-T I-T I-T O O,"[10, 11, 12, 13, 14, 15]","[10, 11, 12, 14, 15, 17, 18, 19, 21, 22, 23, 24, 25, 27, 28, 29, 31, 32, 33, 35, 36, 37, 38, 39, 41, 42]",1,1
+286,Cùng nhau tự bảo vệ sức khoẻ chứ k phải vì miếng ăn sợ dịch bùng phát mà tranh nhau đi mua lương thực nhà nc nói rồi lương thực vẫn đủ cho nhân dân nhé,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+287,Anh Trung lòi dái :)),O O B-T I-T O,O O B-T I-T O,"[10, 11, 12, 13, 14, 15, 16]","[10, 11, 12, 14, 15, 16]",1,1
+288,Ơ tưởng duyên dáng chứ,O O O O O,O O O O O,[],[],0,0
+289,Trung Anhh Ngọc Thảo mới đọc đến 32 h đã lên 34 r nè nhanh quá huhuu,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+290,Thanh Bình do anh bảo k có tư duy của con gái bình à :)),O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+291,Lung linh là lên luôn,O O O O O,O O O O O,[],[],0,0
+292,"Việt Nam đang lèo lái cho qua trận dịch nầy ! Mong người Việt bốn phương tám hướng đừng chia rẽ , đấu đá nhau ! Cùng nhau xây dựng giàu mạnh ?",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O B-T I-T I-T O O O O O O O O O O O O,[],"[83, 84, 85, 86, 88, 89, 90, 91, 93, 94]",0,1
+293,Cứ tính ngìn tỷ đkm sợ thật,O O O O B-T O O,O O O O O O O,"[16, 17, 18]",[],1,0
+294,Sau vụ này thì deo biet a có đạt đc nút vàng của diu túp k á :))) chứ e là e vào huỷ đky luôn r :)),O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O,O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O,"[15, 16, 17]","[15, 16, 17]",1,1
+295,Ngọc Trang vô apple làm đi,O O O O O O,O O O O O O,[],[],0,0
+296,ThanhTâm Nguyễn e từng như vậy à,O O O O O O O,O O O O O O O,[],[],0,0
+297,Thằng assmin nhãm shitt...đành rằng page này là CHỬI. Nhưng mày là assmin thì chỉ nên viết gợi ý thôi...để mem nó CHỬI...mày dành CHỬI kiểu đó thì chơi thế đéo nào...,B-T I-T B-T I-T O O O O B-T O B-T O B-T O O O O O O O O B-T B-T O B-T O O O O O B-T O,B-T O O O O O O O B-T O B-T O B-T O O O O O O O O B-T O O B-T O O O O O B-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 48, 49, 50, 51, 60, 61, 62, 67, 68, 69, 70, 71, 72, 111, 112, 114, 115, 116, 117, 121, 122, 123, 130, 131, 132, 133, 156, 157, 158]","[0, 1, 2, 3, 4, 48, 49, 50, 51, 52, 60, 61, 62, 67, 68, 69, 70, 71, 72, 111, 112, 130, 131, 132, 133, 156, 157, 158]",1,1
+298,Việt Nam giờ luật con mẹ nó rừng hết rồi!!!,O O O B-T I-T I-T I-T I-T O O,O O O O B-T I-T I-T O O O,"[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]","[18, 19, 20, 22, 23, 25, 26]",1,1
+299,Bà này Người ở Bề Trên hả gì á... toàn nói chuyện kiểu người khuất mặt khuất mài ko... chắc ở bên trại Tâm Thần xuất trại...,O O B-T I-T I-T I-T O O O O O O O O B-T I-T I-T I-T O O O O O B-T I-T I-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120]",[],1,0
+300,Chặt bỏ chứ để làm gì,O O O O O O,B-T I-T O O O O,[],"[0, 1, 2, 3, 5, 6]",0,1
+301,Phạm Huyền Trang =))) đừng về nước lúc này nhé k đón đâu=))),O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+302,Nhung Phạm giống mình đi kh quen nghe mùi máy lạnh là ói sml,O O O O O O O O O O O O O B-T,O O O O O O O O O B-T I-T I-T I-T I-T,"[57, 58, 59]","[42, 43, 44, 46, 47, 48, 49, 51, 52, 54, 55, 57, 58, 59]",1,1
+303,Hóng hóng😌😌,O O,O O,[],[],0,0
+304,Chi hieu dep qua da mat chi dep qua,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+305,Đã bắt đc susan0175 :v,O O O O O,O O O O O,[],[],0,0
+306,E khoe ké với ạ,O O O O O,O O O O O,[],[],0,0
+307,Duyên quá cô ơi♥️,O O O O,O O O O,[],[],0,0
+308,đầu trận hùng hổ vđ,O O O O B-T,B-T I-T I-T I-T I-T,"[17, 18]","[0, 1, 2, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 17, 18]",1,1
+309,Các bạn nước ngoài không biết ở Việt Nam cái đấy nó là cái gì :)),O O O O O O O O O O O O O O O O,O O O O O O O O O O O B-T O O O O,[],"[49, 50]",0,1
+310,"Từ ngày Chung lên thay Nhanh , xong Chung cho Nhanh xập nguồn, thương anh quá, ngu đoé gì mà ngu thế đào tạo đệ tử cũng cần cái ,chí ít ra cũng phải chết thì cũng xin thế cho sư phụ chứ lỵ. Cứ hoang mang mãi, đến vụ Đồng Tâm anh Chung đường hoàng thế hoá ra chỉ là anh cahs. Tin anh ấy nhá bà con hết cửa , thật đấy",O O B-T O O O O O B-T O O O O O O O B-T I-T O O B-T O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O,O O O O O O O O O O O O O O O O B-T O O O B-T O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[8, 9, 10, 11, 12, 36, 37, 38, 39, 40, 79, 80, 81, 82, 83, 84, 85, 93, 94, 95, 149, 150, 151, 152, 297, 298, 299, 300, 301, 302, 303]","[79, 80, 81, 93, 94, 95, 149, 150, 151, 152]",1,1
+311,Phát Võ =)))),O O O,O O O,[],[],0,0
+312,Cả năm không thưởng hay ngư nào,O O O O O O O,O O O O O O O,[],[],0,0
+313,Diễm Ngọc vui thôi đừng vui quá! :)))),O O O O O O O O,O O O O O O O O,[],[],0,0
+314,Tẩy chay là xong mõm vs bọn này làm gì. N là ng của cty ấy :))),B-T I-T O O B-T O B-T O O O B-T O O O O O O,O O O O B-T O B-T O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 17, 18, 19, 24, 25, 26, 40]","[17, 18, 19, 24, 25, 26]",1,1
+315,Cái quái gì nói lên sự thật về cái đất nước này cũg là phản động. Tự do ngôn luật ko bao h có chỗ đứg ở cái đất VN.,O B-T O O O O O O B-T I-T I-T O O O B-T I-T O O O O B-T I-T I-T I-T I-T I-T O O O O,O B-T O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O,"[4, 5, 6, 7, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 55, 56, 57, 58, 59, 60, 61, 62, 63, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]","[4, 5, 6, 7, 55, 56, 57, 58, 60, 61, 62, 63, 64]",1,1
+316,Phết lo Tết 😂,O O O O,O O O O,[],[],0,0
+317,Chấp gì thằng thiểu năng đó Trần Ngọc Giàu ơi,O O B-T B-T I-T O O O O O,O O B-T I-T I-T O O O O O,"[8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]","[8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20, 21, 22, 23]",1,1
+318,Đăng ký ở đâu ạ,O O O O O,O O O O O,[],[],0,0
+319,Phương Minn nhìu đứa nó lạ loz vậy á.. dở thì ng ta chê.. thật sự đéo thể nào nge nổi nhạc jack .. tụi mày cứ khen nó hoài nó chả thể nào tốt lên dc đâu,O O O B-T B-T O B-T O O B-T O O O O O O B-T O O O O O O O B-T I-T O O B-T O B-T O O O O O O O,O O O O B-T O B-T O O O O O O O O O B-T O O O O O O O B-T I-T O O B-T O O O O O O O O O,"[17, 18, 19, 21, 22, 27, 28, 29, 39, 40, 66, 67, 68, 99, 100, 101, 102, 103, 104, 105, 115, 116, 123, 124]","[21, 22, 27, 28, 29, 66, 67, 68, 99, 100, 101, 103, 104, 105, 115, 116]",1,1
+320,Anh k đi cách ly hả anh?,O O O O O O O,O O O O O O O,[],[],0,0
+321,Hy vọng các em sẽ được cách li o môi trường tốt cùng các bạn khác. Cố lên có chị ngân 98 mới nhập học nưa đó,O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+322,Gia đình nào đó :,O O O O O,O O O O O,[],[],0,0
+323,Phải bớt bao nhiêu thùng sữa cho tùng vậy anh,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+324,Khổ thân,O O,O O,[],[],0,0
+325,A méo nên về nước thì mới đúng,O B-T O O O O O O,O B-T O O O O O O,"[2, 3, 4]","[2, 3, 4]",1,1
+326,cc ne Chu Tich. Phạt tao đi.,B-T O O O O B-T O,B-T O O O O B-T O,"[0, 1, 21, 22, 23]","[0, 1, 21, 22, 23]",1,1
+327,Nguyễn Thành Nhân hay lắm b,O O O O O O,O O O O O O,[],[],0,0
+328,Qtrong gì trước sau gì chẳng về 1 nhà,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+329,Hồi đó giờ nghe giọt nước mắt cá sấu. mà giờ mới thấy,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+330,"Nguyễn Trọng Thái đợi cái lone , đ!t chị m 😉",O O O O O B-T O B-T I-T I-T O,O O O O O B-T O O O B-T O,"[26, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39, 40, 41]","[26, 27, 28, 29, 41]",1,1
+331,Lên xe đi,O O O,O O O,[],[],0,0
+332,Chị tiết nc cưng qá :))😍,O O O O O O,O O O O O O,[],[],0,0
+333,"Buồn nhỉ, tận hưởng thôi",O O O O O,O O O O O,[],[],0,0
+334,Tôi hồi còn thiếu nữ trăng tròn đấy các bác ạ!,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+335,Cần tiêu diệt dân tộc Tàu khựa,O B-T I-T I-T I-T I-T B-T,O B-T I-T I-T I-T B-T I-T,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29]","[4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, 22, 23, 24, 26, 27, 28, 29]",1,1
+336,Quan vn chúng nó tham vl...địt con mẹ lũ quan tham,O O B-T I-T B-T B-T I-T I-T B-T I-T I-T,O O B-T I-T B-T I-T I-T I-T I-T I-T I-T,"[8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]","[8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 35, 36, 38, 39, 41, 42, 43, 44, 46, 47, 48, 49]",1,1
+337,"Thằng mặc váy, bởi vậy hơn thua với đàn bà ra mặt 😂😂😂😂😂",B-T O O O O B-T I-T I-T I-T I-T I-T I-T O,B-T O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]","[0, 1, 2, 3, 4]",1,1
+338,"Đào Bảo Khánh ""sẵn đồ bú nhiều đâm ra ngáo""Anh nhỉ",O O O O O B-T O O O B-T O,O O O O O B-T I-T I-T I-T I-T O,"[22, 23, 38, 39, 40, 41]","[22, 23, 25, 26, 27, 28, 29, 31, 32, 33, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45]",1,1
+339,Kim Phung tin chính xác nha tăng ghê quá lun,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+340,Phạm Ngọc Quân chưa thấy lây ae ạ =)))),O O O O O O O O O,O O O O O O O O O,[],[],0,0
+341,Dương Ly nhím =))))),O O O O,O O O O,[],[],0,0
+342,Kố nên ank to^i ngke^’ zi’ cung~ va^’t va?,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+343,"Mày nhìn lại mày đi, đăng clip đell đc 5 like, à phải rồi, bởi vậy mới bươi móc kiếm đàn bà để bình luận kiểu ganh tỵ 😂😂",B-T O O B-T O O O B-T O O O O O O O O O B-T I-T O B-T I-T O O O O B-T I-T O,B-T O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 13, 14, 15, 31, 32, 33, 34, 71, 72, 73, 74, 75, 76, 77, 78, 85, 86, 87, 88, 89, 90, 110, 111, 112, 113, 114, 115, 116]","[0, 1, 2, 13, 14, 15]",1,1
+344,Bóng vcl ý em nói thầy sela còn anh dơ như chó nha :)),B-T I-T O O O O O O O B-T I-T I-T O O,B-T I-T O O O O O O O O O B-T O O,"[0, 1, 2, 3, 4, 5, 6, 7, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]","[0, 1, 2, 3, 5, 6, 7, 43, 44, 45]",1,1
+345,Dỗi á :)) no no no,O O O O O O,O O O B-T B-T B-T,[],"[10, 11, 13, 14, 16, 17]",0,1
+346,"Việt cộng là cái thứ sinh ra từ thành phần bần cố nông, đã là bần cố nông thì chả có đứa nào được học hành tử tế đến nơi, đến chốn. Hậu quả là bọn Việt cộng nó quản lý, điều hành đất nước như cái con C, ngóc lên không nổi, nên phải bán đất nước cho bọn mọi rợ Tàu để có cái mà ăn dọng chứ !",O O O O B-T O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O B-T O O B-T O O O O O O O O O B-T O O O O O O O O O O B-T B-T I-T B-T O O O O B-T I-T O O,O O O O O O O O O O B-T O O O O B-T O O O O O O O O O O O O O O O O O O O B-T O O B-T O O O O O O O O O O O O O O O O O O O O B-T I-T I-T O O O O O B-T I-T O O,"[17, 18, 19, 85, 86, 87, 143, 144, 145, 157, 158, 200, 249, 250, 251, 253, 254, 255, 256, 257, 258, 260, 261, 262, 277, 278, 279, 280, 281, 282, 283]","[43, 44, 45, 62, 63, 64, 143, 144, 145, 157, 158, 249, 250, 251, 253, 254, 255, 257, 258, 277, 278, 280, 281, 282, 283]",1,1
+347,con này hết thuốt chửa rồi.,B-T O B-T I-T I-T O,B-T O B-T I-T I-T O,"[0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]","[0, 1, 2, 8, 9, 10, 12, 13, 14, 15, 16, 18, 19, 20, 21]",1,1
+348,"Công an,chủ tịch xã,cán bộ thôn ...con ăn cắp nữa là tham ô nó là điều tất nhiên rùi.!dkm giáo viên cấp 1 ở lớp có 2 đứa không tặng quà cô giáo ngày 20-11 cô giáo không phát kẹo cho hai cháu luôn .xã hội khốn nạn vl.Tiểu HọcLien Hồng-Gia Lộc-Hải Dương nhé!",O O O O O O O B-T I-T O O B-T I-T I-T I-T I-T I-T I-T B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T B-T O O O O O,O O O O O O O B-T I-T O O B-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O,"[39, 40, 41, 42, 43, 44, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 86, 87, 88, 204, 205, 206, 207, 208, 209, 210, 211, 213, 214]","[39, 40, 42, 43, 44, 53, 54, 55, 56, 58, 60, 61, 204, 205, 206, 207, 209, 210, 211]",1,1
+349,"Le Viet Anh nếu nhà t có ng bị thì sẽ xung phong đi cách ly chứ ko để lâu ngày đâu mà bị lm sao cả, chỉ có mấy loại cm trốn cách ly ko chữa kịp mới chết thôi, loại như cm thì nên chết sớm ko lại lây ra cộng đồng",O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O B-T O O O B-T O O B-T O O O O O O O,O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O B-T O O B-T O O O O O O O,"[20, 116, 117, 148, 149, 150, 151, 168, 169, 179, 180, 181, 182]","[20, 111, 112, 113, 114, 116, 117, 119, 120, 121, 122, 124, 125, 126, 127, 129, 130, 132, 133, 135, 136, 137, 138, 140, 141, 142, 144, 145, 146, 148, 149, 150, 151, 168, 169, 179, 180, 181, 182]",1,1
+350,Hằng Grin bạn mk cũng cố gắng thôiiii,O O O O O O O O,O O O O O O O O,[],[],0,0
+351,Linh lại là từ sơn bắc ninh,O O O O O O O,O O O O O O O,[],[],0,0
+352,"Ngày xưa, khi giấy vệ sinh chưa phổ biến thì mỗi gia đình đều thấm nhuần tư tưởng đảng mỗi ngày. Ngày nay, khi giấy vệ sinh quá phổ biến, nhiều mẫu mã, giá cả phải chăng, mềm mại chất lượng hơn hẳn thì đại đa số dân chúng trở nên lệch lạc tư tưởng chính trị",O O O B-T I-T I-T O O O O O O O O O O O O O O O O O O B-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 230, 231, 232, 233, 234, 235, 236, 237]",[],1,0
+353,Thằng hùng vs bà  4 Nha đụ nín thở nhe a tuân.,B-T O O O O O B-T O O O O O,B-T I-T O O O O B-T I-T I-T O O O,"[0, 1, 2, 3, 4, 24, 25]","[0, 1, 2, 3, 4, 6, 7, 8, 9, 24, 25, 27, 28, 29, 31, 32, 33]",1,1
+354,Cố lên cố lên,O O O O,O O O O,[],[],0,0
+355,Đinh Thanh Hậu VN mình 30 rồi cơ à,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+356,Bóc lột còn hơn cả bọn Thực Dân nữa !,B-T I-T O O O B-T O O O O,B-T I-T O O O B-T O O O O,"[0, 1, 2, 3, 4, 5, 6, 19, 20, 21]","[0, 1, 2, 4, 5, 6, 19, 20, 21]",1,1
+357,Idoi vẫn còn sống may quá,O O O O O O,O O O O B-T O,[],"[18, 19, 20]",0,1
+358,Viet Mai Tran được quá nhờ,O O O O O O,O O O O O O,[],[],0,0
+359,"Ai cũng biết. Đã là chửi thì chửi thẳng, vòng vo nói nho nữa thì đổi tên page đi. Đậu má rau xanh.",O O O O O B-T O B-T O O O O O O O O O O O B-T I-T I-T I-T,O O O O O B-T O B-T O O O O O O O O O O O B-T I-T I-T I-T,"[20, 21, 22, 23, 29, 30, 31, 32, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96]","[20, 21, 22, 23, 29, 30, 31, 32, 82, 83, 84, 86, 87, 89, 90, 91, 93, 94, 95, 96, 97]",1,1
+360,Trần Nhựt Linh nè,O O O O,O O O O,[],[],0,0
+361,Do Dat Gil lạc trôii :3 😂😶,O O O O O O O,O O O O O O O,[],[],0,0
+362,Bắn hẳn 8000 viên k trúng,O O O O O O,O O O O O O,[],[],0,0
+363,Huyền Khánh Phùng ác,O O O O,O O O B-T,[],"[18, 19]",0,1
+364,Cùm măn chằn lai cầm tay bự hơn bóp l.. nghe ko 😂😂😂,O O O O O O O O O B-T O O O,O O O O O O O O B-T I-T O O O,[36],"[32, 33, 34, 36, 37, 38]",1,1
+365,Bắn bỏ nó đê,B-T I-T B-T O,B-T O B-T O,"[0, 1, 2, 3, 4, 5, 7, 8]","[0, 1, 2, 7, 8]",1,1
+366,nhờ nó tố cáo mà khỏi ai thắc mắc thằng nào là thằng mặt heo 😃😃😃😃,O B-T O O O O O O O B-T O O B-T I-T I-T O,O B-T O O O O O O O B-T O O B-T I-T I-T I-T,"[4, 5, 34, 35, 36, 37, 38, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]","[4, 5, 34, 35, 36, 37, 38, 47, 48, 49, 50, 51, 53, 54, 55, 57, 58, 59, 61, 62, 63, 64]",1,1
+367,Page PR k mà Thắm ơi hehe,O O O O O O O,O O O O O O O,[],[],0,0
+368,Nguyễn Hoàng Sâm lol sâm nôn link :)),O O O B-T O B-T O O,O O O B-T O O O O,"[17, 18, 19, 25, 26, 27]","[17, 18, 19]",1,1
+369,Mồ tổ cha bọn nó làm trò hề với dân ...một bè lủ hành dân để làm moi tiền dân ..,B-T I-T I-T B-T I-T O B-T I-T O O O B-T I-T B-T O O O B-T O O O,B-T I-T I-T I-T I-T B-T I-T I-T O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 43, 44, 45, 46, 47, 49, 50, 51, 52, 65, 66, 67]","[0, 1, 3, 4, 6, 7, 8, 10, 11, 12, 14, 15, 17, 18, 19, 21, 22, 23, 25, 26]",1,1
+370,Tuaz Hunq chữ G của thầy trong game là GG,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+371,Mỗi người 1 công việc..dm thằng đăng bài ngu đéo chịu đc,O O O O B-T B-T O O B-T B-T O O,O O O O O B-T O O B-T B-T O O,"[23, 24, 26, 27, 28, 29, 30, 41, 42, 43, 45, 46, 47]","[26, 27, 28, 29, 30, 41, 42, 43, 45, 46, 47]",1,1
+372,Đừng chửi minh hiếu ok,O O O O O,O B-T O O O,[],"[5, 6, 7, 8]",0,1
+373,Đỷ chị minh hiếu,B-T O O O,O O O O,"[0, 1]",[],1,0
+374,Chửi bậy cũng có phải có văn hoá !!! page này giải trí vĩ lòn. Thích thích,B-T I-T O O O O O O O O O O O B-T I-T O O,B-T I-T O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 55, 56, 57, 58, 59, 60]","[0, 1, 2, 3, 5, 6, 7]",1,1
+375,MƯA BẢO SAO KHÔNG LÊN SÓNG ĐƯỢC... BỘ LÊN SÓNG Ở NGOÀI TRỜI HẢ,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+376,Anh Ba giống Duke 2016 thời SKT. Đi top toàn chơi vs lính . 3 lane kia lo hết,O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O,[],[],0,0
+377,ồ thế cơ à 😘,O O O O O,O O O O O,[],[],0,0
+378,Dương Thành Nguyên=)),O O O,O O O,[],[],0,0
+379,"Yeah, Refund win rồi các bạn oiwiiiiii =))))",O O O O O O O O,O O O O O O O O,[],[],0,0
+380,Giống nhau như 2 giọt nước. Mà mỗi cái là 1 giọt nước mắt với 1 giọt nước 💩 thôi ạ 😂😂,O O O O O O O O O O O O O O O O O O B-T O O O,O O O O O O O O O O O O O O O O O O O O O O,[74],[],1,0
+381,Bớt bớt dô diên dùm cái nha 😒,B-T I-T I-T I-T I-T O O O,O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",[],1,0
+382,@Tủn 3k rồi ăn nhiu tiền r mà binh dữ,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+383,Tạm,O,O,[],[],0,0
+384,"Nhật Phát Càng nói càng thấy bạn ngu =)) thế những người nuôi bò dê lợn gà vì yêu thương nó, giờ họ cấm bạn ăn bạn chịu không =))) đến thua với lí luận ngu si",O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T,O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T,"[33, 34, 35, 152, 153, 154, 155, 156, 157]","[33, 34, 35, 152, 153, 154, 156, 157]",1,1
+385,Oce a nhõ 🤣,O O O O,O O O O,[],[],0,0
+386,Trần Thu Hằng có link hong tui kh vô được,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+387,Chén mẻ chứ chén kiểu mẹ gì,B-T I-T O B-T O B-T O,O O O O O B-T O,"[0, 1, 2, 3, 4, 5, 6, 12, 13, 14, 15, 22, 23]","[22, 23]",1,1
+388,Mai Quach ok hoa rơi cửa phật 🤷,O O O O O O O O,O O O O O O O O,[],[],0,0
+389,hiếp tao,B-T I-T,B-T B-T,"[0, 1, 2, 3, 4, 5, 6, 7]","[0, 1, 2, 3, 5, 6, 7]",1,1
+390,Đây là quần què à,O O B-T I-T O,O O B-T I-T O,"[7, 8, 9, 10, 11, 12, 13, 14]","[7, 8, 9, 10, 12, 13, 14]",1,1
+391,xuất khẩu gạo còn bị trả về vì vượt mức an toàn thì làm ăn j nữa,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+392,Xem từ thiện cho thầy...,O O O O O,O O O O O,[],[],0,0
+393,Rank Việt Nam mà yasuo tt6 tt5 thì del phải người Việt Nam r,O O O O O O O O B-T O O O O O,O O O O O O O O O O O O O O,"[35, 36, 37]",[],1,0
+394,8 keo đang vật vã với 29 thứ tiếng rồi nên không làm phụ bếp được nữa kaka,O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O,O O O O O O O O O O O O O O O O O O,"[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]",[],1,0
+395,Phạm Văn Đồng bớt ngu đi đc rồi,O O O O B-T O O O,O O O O B-T O O O,"[18, 19, 20]","[18, 19, 20]",1,1
+396,Cái mặt đàn ông cái tiếng đàn bà bán nam bán nữ,B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]","[4, 5, 6, 8, 9, 10, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 30, 31, 33, 34, 35, 37, 38, 39, 41, 42, 43, 45, 46]",1,1
+397,572 le quang dinh là dai ly ve so nha chú ơi,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+398,Nguyễn Định mất não be like,O O O O O O,O O B-T I-T I-T I-T,[],"[12, 13, 14, 16, 17, 18, 20, 21, 23, 24, 25, 26]",0,1
+399,tội cho má nó...nghe nó nói vầy đau l... phải biết !,O O O B-T B-T O O O B-T O O O,O O B-T O B-T O O O O O O O,"[11, 12, 21, 22, 36]","[8, 9, 21, 22]",1,1
+400,Hàn quốc thuợng đẳng lắm mọi người đừng lo cho Hàn Quốc nha,B-T I-T I-T I-T O O O O O O O O O,O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",[],1,0
+401,Chi 3 la so 1,O O O O O,O O O O O,[],[],0,0
+402,Nguyễn Thuận trước khi phát ngôn ko chịu suy nghĩ xem chủ tus nó nói gì...thì ăn chửi là đúng thằng ngu ạ :)),O O O O O O O O O O O O O B-T O O O B-T O O B-T I-T O O,O O O O O O O O O O O O O B-T O O O B-T O O B-T I-T O O,"[62, 63, 81, 82, 83, 84, 94, 95, 96, 97, 98, 99, 100, 101, 102]","[62, 63, 81, 82, 83, 84, 94, 95, 96, 97, 98, 100, 101, 102]",1,1
+403,Review đề thi toán chiều nay : phòng thi nóng vcc đc cái giám thị xinh và đề cx dễ( hơn năm ngoái ) nên cx khá ok,O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O,O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O,"[46, 47, 48]","[46, 47, 48]",1,1
+404,Lê Hà Thư nên thế:)))) mình có tuổi r:))),O O O O O O O O O,O O O O O O O O O,[],[],0,0
+405,Như Hằng Nguyễn uống thuốc dô,O O O O O O,O O O O O O,[],[],0,0
+406,chị Hiếu đẹp hao hao giống chị Cẩm Ly hen,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+407,"@Ngoc Quynh Nhu Nguyen Thằng lồn cha với con đĩ mẹ mày không biết dạy mày nên mày mới dựng lồn lên xem vào chuyện của người khác, bộ tao ăn hết của ông nội mày sao mà mày lôi tao vào. Từ đầu tao đâu có lôi tên con đĩ mẹ mày ra nói đâu",O O O O B-T I-T O O B-T I-T I-T I-T B-T I-T I-T B-T O B-T O B-T I-T O O O O O O O O B-T B-T I-T I-T I-T I-T I-T O O B-T O B-T O O O B-T O O O O B-T I-T I-T I-T O O O,O O O O B-T I-T O O B-T I-T I-T I-T B-T I-T I-T I-T O B-T O B-T I-T O O O O O O O O B-T B-T I-T I-T I-T I-T I-T O O B-T O B-T O O O B-T O O O O B-T I-T I-T I-T O O O,"[23, 24, 25, 26, 27, 28, 29, 30, 31, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 72, 78, 79, 80, 86, 87, 88, 89, 90, 91, 92, 93, 133, 134, 135, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 167, 168, 169, 175, 176, 177, 191, 192, 193, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222]","[23, 24, 25, 26, 27, 29, 30, 31, 41, 42, 43, 45, 46, 48, 49, 51, 52, 53, 55, 56, 57, 58, 59, 61, 62, 63, 64, 66, 67, 68, 70, 71, 72, 78, 79, 80, 86, 87, 88, 89, 91, 92, 93, 133, 134, 135, 137, 138, 140, 141, 142, 144, 145, 146, 148, 149, 150, 152, 153, 154, 156, 157, 158, 167, 168, 169, 175, 176, 177, 191, 192, 193, 210, 211, 212, 214, 215, 217, 218, 220, 221, 222]",1,1
+408,Người có tiếng mặc cái lìn gì chẳng đẹp . Người bt nó bảo là điên,O O O O O B-T O O O O O O B-T O O B-T,O O O O O O O O O O O O B-T O O B-T,"[23, 24, 25, 51, 52, 61, 62, 63, 64]","[51, 52, 61, 62, 63, 64]",1,1
+409,Tp hcm thi Nhật ha nội thi trung quoc,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+410,chị Hôm nay đẹp quá,O O O O O,O O O O O,[],[],0,0
+411,Fl duck.fuu mình trả bằng pos.142,O O O O O O,O O O O O O,[],[],0,0
+412,Toi roi,O O,O O,[],[],0,0
+413,Ad ăn phân con j mà ngu thế......????,O O B-T O O O B-T O,O O O O O O B-T O,"[6, 7, 8, 9, 20, 21, 22]","[20, 21, 22]",1,1
+414,Thu Hít k nghe thì thou bớt khịa dùm.,O O O O O O O B-T O,O O O O O O O B-T I-T,"[28, 29, 30, 31]","[28, 29, 30, 31, 33, 34, 35, 36]",1,1
+415,Oh shjt,O B-T,O O,"[3, 4, 5, 6]",[],1,0
+416,Cười vô mặt mày một cái... cặn bã ạ... hãy tự biến mất luôn đi,O O O B-T O O B-T I-T O B-T I-T I-T I-T I-T I-T,O O O B-T O O B-T I-T O O O O O O O,"[12, 13, 14, 27, 28, 29, 30, 31, 32, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]","[12, 13, 14, 27, 28, 29, 31, 32]",1,1
+417,Tại sao những đứa như này lại tồn tại trong khi những người tốt thì lại bị tan nạn & mất mạng vì lũ lụt mà méo do thiên tai gây ra nhể ???,O O O B-T O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O,"[14, 15, 16, 107, 108, 109]","[107, 108, 109]",1,1
+418,Cám ơn đảng. Cám ơn nhà nc 😏,O O O O O O O O,O O O O O O O B-T,[],[27],0,1
+419,Trần Thị Ngọc Anh t chỉ nói k biết thực hư thế nào thì đừng cào phím.còn t cmt cho vui thôi.động gì đến mồ mả nhà bạn đâu mà dựng lông lên thế.,O O O O B-T O O O O O O O O O O B-T I-T B-T O O O O O O B-T I-T O O O O B-T I-T O O,O O O O O O O O O O O O O O O O O B-T O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T O O,"[18, 60, 61, 62, 63, 64, 65, 66, 67, 73, 104, 105, 106, 107, 108, 125, 126, 127, 128, 129, 130, 131, 132, 133]","[73, 104, 105, 107, 108, 110, 111, 112, 114, 115, 116, 118, 119, 120, 122, 123, 125, 126, 127, 128, 130, 131, 132, 133]",1,1
+420,Cực kỳ thuyết phục 🤣🤣🤣,O O O O O,O O O O O,[],[],0,0
+421,Ngộ l ghê ta ơi,O B-T O O O,O O O O O,[4],[],1,0
+422,Cởi áo là múa bụng nữa cũng hợp,O O O O O O O O,O O O O O O O O,[],[],0,0
+423,nghe thì thuyết phục nhưng khi đọc lại thì rất thuyết phục :))),O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+424,Cân thận nó lại keu phản động :v,O O B-T O O B-T I-T O,O O B-T O O B-T I-T O,"[9, 10, 20, 21, 22, 23, 24, 25, 26, 27, 28]","[9, 10, 20, 21, 22, 23, 25, 26, 27, 28]",1,1
+425,78 mà,O O,O O,[],[],0,0
+426,"Toi dong y cung quan diem  voi ong  nhung  chua het dau  toi cung chac voi ong se con nhung cai tham cao  doc hai khong bao ngo duoc neu co duoc quyen  toi se tieu diet  tau ,hay xoa sach het tau, the gioi  moi binh yen  ,toi khong phai la nguoi  co tai , nhung chac Chan bon tau da am muu dung nhu vay   Dung dung vay",O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T O O O O O O O O O O B-T I-T O O B-T I-T O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O,B-T I-T O O O O O O O O O O O O O O O O B-T O O B-T I-T I-T I-T I-T I-T I-T O O O O O B-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O B-T I-T I-T O O O O O O O O,"[96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 159, 160, 161, 162, 163, 164, 165, 166, 167, 179, 180, 181, 182, 183, 184, 185, 186, 272, 273, 274]","[0, 1, 2, 4, 5, 6, 7, 82, 83, 84, 96, 97, 98, 99, 101, 102, 103, 106, 107, 108, 110, 111, 112, 114, 115, 116, 117, 118, 120, 121, 122, 124, 125, 126, 152, 153, 154, 156, 157, 159, 160, 161, 162, 164, 165, 166, 167, 170, 171, 172, 174, 175, 176, 177, 272, 273, 274, 276, 277, 278, 280, 281]",1,1
+427,Admin đánh rơi não trước khi đăng bài này?,O B-T I-T I-T O O O O O,O O O O O O O O O,"[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",[],1,0
+428,Minh Anh lâu rồi đó dừ mới biết ạ,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+429,Con yêu cô quá,O O O O,O O O O,[],[],0,0
+430,Câu cữa miệng đụ má nó 😁,O O O B-T I-T I-T O,O O O B-T I-T B-T O,"[14, 15, 16, 17, 18, 19, 20, 21]","[14, 15, 17, 18, 20, 21]",1,1
+431,Ai bảo con trai ko mang lại đc hạnh phúc cho nhau,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+432,Lúc đầu nhìn tinh đâu cô nay la con gai thật k hoàn hảo k nhận ra,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+433,Mồm loz adm ns ngu bm.,B-T I-T O O B-T I-T,B-T I-T O B-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 15, 16, 17, 18, 19, 20]","[0, 1, 2, 4, 5, 6, 12, 13, 15, 16, 17, 19, 20, 21]",1,1
+434,Cực kì thuyết phục :))))),O O O O O,O O O O O,[],[],0,0
+435,Nhưng tha cho THPT nha :),O O O O O O,O O O O O O,[],[],0,0
+436,ditme tối nay ao làng anh ơi,O O O O O O O,O O O O O O O,[],[],0,0
+437,Bú l ngọc Trinh sẽ tinh,B-T B-T O O O O,B-T I-T O O O O,"[0, 1, 3]","[0, 1, 3]",1,1
+438,hay quá b ơi,O O O O,O O O O,[],[],0,0
+439,84% tham nhũng :),B-T I-T I-T O,O B-T I-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]","[4, 5, 6, 7, 9, 10, 11, 12, 13]",1,1
+440,Ok anh ba,O O O,O O O,[],[],0,0
+441,Hot link em gái ngon ngọt nước cho ae nè,O O B-T I-T I-T I-T I-T O O O,O O O O O O O O O O,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]",[],1,0
+442,"Người ta không bán hàng, ngta bán sự khác biệt.",O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+443,đến cức tôi còn nhìn lần cuối rồi xả nước chứ như bọn hàn quắc đéo bh xem phim,O B-T O O O O O O O O O O B-T B-T I-T B-T O O O,O O O O O O O O O O O O B-T O O B-T O O O,"[4, 5, 6, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65]","[50, 51, 52, 63, 64, 65]",1,1
+444,Hay quá k tưởng 🤣🤣,O O O O O,O O O O O,[],[],0,0
+445,Đăng Thảo,O O,O O,[],[],0,0
+446,toàn chó k,O B-T O,O B-T O,"[5, 6, 7]","[5, 6, 7]",1,1
+447,địt cụ m thành lê nhé,B-T I-T I-T O O O,B-T I-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7]","[0, 1, 2, 4, 5, 7]",1,1
+448,Nể mấy đứa cmt kêu ghép :> Ghép ghép cl nekk chứ ghép,O O B-T O O O O O O B-T O O O,O O O O O O O O O B-T O O O,"[7, 8, 9, 37, 38]","[37, 38]",1,1
+449,Đây,O,O,[],[],0,0
+450,Khả năng sinh tồn mà bà hàng xóm vốn là rõ nhất 😅😅😅,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+451,Nguyen Mai Thi cũng chung team ah c kkk,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+452,Thua lào vs campuchia rùi.phát triển thụt lùi cmne,O O O O O O O O B-T,O O O O O O O O O,"[46, 47, 48, 49]",[],1,0
+453,:)) rồi đó em về đây,O O O O O O,O O O O O O,[],[],0,0
+454,Phạm Văn Lộc con đỉ mẹ mày tus nào cũng thấy liếm fame,O O O B-T I-T I-T I-T O O O O B-T I-T,O O O B-T I-T I-T I-T O O O O B-T I-T,"[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 45, 46, 47, 48, 49, 50, 51, 52, 53]","[13, 14, 15, 17, 18, 20, 21, 23, 24, 25, 45, 46, 47, 48, 50, 51, 52, 53]",1,1
+455,Buồn :)),O O,O O,[],[],0,0
+456,Dân tộc trường tồn là sao? Ai cắt nghĩa tại sao phải viết như vậy đi?,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+457,Nhìn ngok nghếch vcđ,O B-T I-T B-T,O O O O,"[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19]",[],1,0
+458,Đéo thấy thằng ad giúp ai dc cái cc j mà toàn ở đó bô lô ba la nhãm cức,B-T O B-T O O O O O B-T O O O O O B-T I-T I-T I-T B-T I-T,B-T O B-T O O O O O B-T O O O O O O O O O O B-T,"[0, 1, 2, 9, 10, 11, 12, 13, 33, 34, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 63, 64, 65, 66, 67, 68, 69, 70]","[0, 1, 2, 9, 10, 11, 12, 13, 33, 34, 68, 69, 70]",1,1
+459,đơn phương là tự nguyện đau là âm thầm nhớ :)))) gán chịu đi dmm mi,O O O O O O O O O O O O O O B-T O,O O O O O O O O O O O O O O B-T I-T,"[61, 62, 63]","[61, 62, 63, 65, 66]",1,1
+460,Z đay la ai,O O O O,O O O O,[],[],0,0
+461,Trần Văn Hưng 🙂,O O O O,O O O O,[],[],0,0
+462,triết lí,O O,O O,[],[],0,0
+463,Tóc tai như cái lông chổi :v,B-T I-T I-T I-T I-T I-T O,O O O B-T I-T O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[12, 13, 14, 16, 17, 18, 19]",1,1
+464,Ngọc Hiếu hot trend đó nha 😂😂,O O O O O O O,O O O O O O O,[],[],0,0
+465,thằng lồn này chỉ biết tham Mu chứ biết cc gì,B-T I-T O O O B-T I-T O O B-T O,B-T I-T O O O B-T I-T O O B-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 23, 24, 25, 26, 27, 28, 29, 40, 41]","[0, 1, 2, 3, 4, 6, 7, 8, 23, 24, 25, 26, 28, 29, 40, 41]",1,1
+466,khô gà thì ít. lá chanh thì nhiều.,O O O O O O O O,O O O O O O O O,[],[],0,0
+467,Dm anh xấu vl. Mé,B-T O B-T I-T B-T,B-T O O O O,"[0, 1, 7, 8, 9, 10, 11, 12, 15, 16]","[0, 1]",1,1
+468,"Ăn ở Cua Vàng , Hạ Long đấy 🙂 ko lẽ wifi địa phủ mạnh vậy ?",O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+469,Kiểu như này🙂,O O O,O O O,[],[],0,0
+470,Bán dân để trá nợ,B-T I-T I-T I-T I-T,B-T I-T I-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]","[0, 1, 2, 4, 5, 6, 8, 9, 11, 12, 13, 15, 16]",1,1
+471,Da của anh chuyển màu nhanh thế 🤣,O O O O O O O O,O O O O O O O O,[],[],0,0
+472,Ông Thầy này muốn ngủ gầm cầu lắm rồy nè !!!!!!,O O O O B-T I-T I-T O O O O,O O O O O O O O O O O,"[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]",[],1,0
+473,Khổ quá,B-T O,O O,"[0, 1, 2]",[],1,0
+474,Mạng mẽo như đầu b 😏,O O O B-T I-T B-T,O B-T I-T I-T I-T I-T,"[13, 14, 15, 16, 17, 19]","[5, 6, 7, 9, 10, 11, 13, 14, 15, 17, 19]",1,1
+475,Kênh như con c,O O O B-T,O O B-T I-T,[13],"[9, 10, 11, 13]",1,1
+476,Phương Minn thế là chúng ta chung thần tượng rồi đấy,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+477,"Không sợ kẻ địch mạnh, chỉ sợ...",O O O O O O O,O O O O O O O,[],[],0,0
+478,Máu cộng sản ăn vào người rùi nên vậy.,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+479,Xin video với ông ơi,O O O O O,O O O O O,[],[],0,0
+480,Tưởng lại quảng cáo thuốc sinh lực :)),O O O O O O O O,O O O O O O O O,[],[],0,0
+481,Gu thời trang gạ địt à 😀,O O O B-T I-T O O,O O O O B-T O O,"[14, 15, 16, 17, 18, 19]","[17, 18, 19]",1,1
+482,Chị 3 giàu quá chị giúp đỡ cho e với,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+483,Vũ Thanh Huyền ngta cũng đâu muốn đâu bạn,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+484,"Bài này bình thường hơn so với mấy bài trước nhiều,",O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+485,"Nên mua các bạn à, điện thoại sài tốt phết đấy",O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+486,Yêu Thầy Ba vãi cẹt 😚,O O O B-T I-T O,O O O B-T I-T I-T,"[12, 13, 14, 15, 16, 17, 18]","[12, 13, 14, 16, 17, 18, 20]",1,1
+487,Ae cho xin 1 like ăn tết,O O O O O O O,O O O O O O O,[],[],0,0
+488,:)) tội anh tôi,O O O O,O O O O,[],[],0,0
+489,Lợi cái đầu buồi j hả,O O B-T I-T O O,O O B-T I-T O O,"[8, 9, 10, 11, 12, 13, 14, 15]","[8, 9, 10, 12, 13, 14, 15]",1,1
+490,Các em 2k1 yên tâm.trước kia anh cũng không thi đỗ nhưng nhờ sự cố gắng và ý chí kiên cường giờ đây anh đã có tất cả mọi thứ trong tay đó là :”THỨ 2 THỨ 3 THỨ 4 THỨ 5 THỨ 6 THỨ 7 và CHỦ NHẬT” chúc các em may mắn 🍀🍀❤️,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+491,Mày nên nhớ là nguời trong nam ngoài bắc cỡ 70 triêu nguời mày chờ chết là vừa,B-T O O O O O O O O O O O O B-T O B-T O O,B-T O O O O O O O O O O O O B-T O B-T O O,"[0, 1, 2, 59, 60, 61, 67, 68, 69, 70]","[0, 1, 2, 59, 60, 61, 67, 68, 69, 70]",1,1
+492,Phạm Đăng the mat nước do roi ma k biet ngu ma con kich voi dong,O O O B-T I-T O O O O O B-T O O O O O,O O O O O O O O O O B-T I-T I-T I-T I-T I-T,"[14, 15, 16, 17, 18, 19, 20, 21, 22, 41, 42, 43]","[41, 42, 43, 45, 46, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 61, 62, 63, 64]",1,1
+493,Hi bức xúc quá không chịu được phải chửi cho hả hơi,O O O O O O O O O O O O,O O O O O O O O B-T O O O,[],"[36, 37, 38, 39]",0,1
+494,Chi chuoi hay đo chi e ung hô chi trieu like,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+495,Nam Thành cmt của ông kia chỉ mang tính chất vả vào mồm mấy đứa tự nhục lúc nào cũng nói nhật là số 1 nhật là is the best từ đó cho ta thấy thì nhật cũng chẳng phải tốt đẹp lắm,O O O O O O O O O O B-T O O O B-T B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O B-T I-T I-T I-T O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O,"[45, 46, 60, 61, 62, 64, 65, 66, 67, 68, 69, 70]","[40, 41, 42, 43, 45, 46, 48, 49, 50, 52, 53, 54, 67, 68, 69, 70]",1,1
+496,Nghỉ hk đê,O O O,O O O,[],[],0,0
+497,Chụt Chụt thông kiểu đéo gì =)) toang thật sự r,O O B-T O B-T O O B-T O O O,O O O O B-T O O O O O O,"[10, 11, 12, 13, 14, 21, 22, 23, 32, 33, 34, 35, 36]","[21, 22, 23]",1,1
+498,Biết là đẹp rồi 🤣 muốn đi làm nhưng mà tiền kg có chị iu ui 😂🤣,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+499,May quá idol giới trẻ của vũ trụ vẫn chưa dính virus 🤣🤣🤣🤣,O O O O O O O O O O O O O,B-T O O O O O O O O O O O O,[],"[0, 1, 2]",0,1
+500,Mai Nam Hải buồn của anh tôi😞,O O O O O O O,O O O O O O O,[],[],0,0
+501,Như này đủ gánh chưa mấy đứa,O O O O O O O,O O O O O O O,[],[],0,0
+502,Đm biết ngay được mấy anh em nhật ký yêu nước tôn vinh làm idol mà :))))),B-T O O O O O O O O O O O O O O O O,B-T O O O O O O O O O O O O O O O O,"[0, 1]","[0, 1]",1,1
+503,"Có thể là do thế lực thù địch lợi dụng những hôm đêm tối đã ra đào bới bờ kè, khiến cho bờ kè bị sạt lở. Đây là 1 trong những chiêu trò kích động người dân của bè lũ phản động. :3",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T O O O B-T I-T I-T I-T O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T O,"[126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174]","[160, 161, 163, 164, 166, 167, 168, 169, 171, 172, 173, 174, 175]",1,1
+504,toàn các cô gái ngồi xổm trym quệt đất ạ..,O O O O O O B-T O O O,O O O O O O O O O O,"[25, 26, 27, 28]",[],1,0
+505,Triệu Thành Long tích cực lên ông ơi,O O O O O O O O,O O O O O O O O,[],[],0,0
+506,Anh Châu có vợ chưa v ta,O O O O O O O,O O O O O O O,[],[],0,0
+507,"Dạo này bệnh lợn tả châu phi tạm yên !! Bây giờ lại bắt đầu bệnh bò điên hoang tưởng , rối loạn phân liệt ông giáo ạh ! Thế có nguy ko chứ",O O O O O O O O O O O O O O O O B-T I-T I-T I-T O O O O O O O O O O O O O O,O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O,"[65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83]","[52, 53, 54, 56, 57, 58, 60, 61, 62, 63, 65, 66, 68, 69, 70, 71, 73, 74, 75, 76, 77, 79, 80, 81, 82, 83]",1,1
+508,Kiếp này coi như bỏ,O O O O O,O O O O O,[],[],0,0
+509,Cắt cho quả mái xong nhìn mặt có chán k,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+510,Hoang Anh Vũ tên nhạc quả sau tên gì vậy,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+511,Cô Minh Hiếu và Chị Cẩm Ly có nét giống nhau.,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+512,Danh cho banh cai lon luông con lin loc,B-T O O B-T I-T O B-T O O,O O O O B-T O B-T I-T O,"[0, 1, 2, 3, 14, 15, 16, 17, 18, 19, 20, 28, 29, 30]","[18, 19, 20, 28, 29, 30, 32, 33, 34]",1,1
+513,"Nếu là dòng chính hãng của các thương hiệu như Dior, Chanel thì thông thường có in sx tại Pháp hay Mỹ này kia.... Chứ dòng Sing cũng có thể là hàng Fake 1 đó nha kaka 😌",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+514,Cs toàn bọn nói láo,O O B-T B-T I-T,O O B-T I-T I-T,"[8, 9, 10, 12, 13, 14, 15, 16, 17, 18]","[8, 9, 10, 12, 13, 14, 16, 17, 18]",1,1
+515,Dell còn gì để nói :3,B-T O O O O O,B-T O O O O O,"[0, 1, 2, 3]","[0, 1, 2, 3]",1,1
+516,Sắp xuống lỗ rồi,O B-T I-T O,O O O O,"[4, 5, 6, 7, 8, 9, 10, 11]",[],1,0
+517,Mong đợi nhất vẫn là Tùng,O O O O O O,O O O O O O,[],[],0,0
+518,Khá rộng,O O,O O,[],[],0,0
+519,Lê Thương :)))),O O O,O O O,[],[],0,0
+520,Cái bọn trẻ trâu miền bắc hô hô miệng Việt kiều hàn mang bịnh dìa. R bảo viết thì nói chung chung Việt kiều.,B-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O,O B-T I-T I-T O O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]","[4, 5, 6, 8, 9, 10, 12, 13, 14, 15]",1,1
+521,Tây nó lại bảo mới trốn viện,O B-T O O O O O,O O O O O O O,"[4, 5]",[],1,0
+522,@Yo Min :)))),O O O,O O O,[],[],0,0
+523,Ở trên chuyến may bay đó.nhieu người nhiễm kg khai báo chu đau phải minh nhung đâu.,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+524,thế thì chúng ta lại có người Tày điện :v,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+525,Trường Tiến Nó biết rút kinh nghiệm từ “ Nhung 17 “ rồi,O O O O O O O O O O O O O,O O B-T O O O O O O O O O O,[],"[12, 13]",0,1
+526,con linh này nói tục ko có duyên đồ mất nết 😎,B-T O O O B-T O O O B-T I-T I-T O,B-T O O O O O O O O O O O,"[0, 1, 2, 17, 18, 19, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]","[0, 1, 2]",1,1
+527,Nghe có vẻ Xe Mẹt Xịt đấy nhưng lại rất Mi Xi,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+528,Trần Linh,O O,O O,[],[],0,0
+529,vailonnnn,B-T,O,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",[],1,0
+530,Từ bi mà chửi đụ má đụ mẹ,O O O B-T B-T I-T I-T I-T,O O O B-T B-T I-T B-T I-T,"[9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[9, 10, 11, 12, 14, 15, 17, 18, 20, 21, 23, 24]",1,1
+531,A lại viết sai chính tả rồi phải bỏ dấu - đi chứ 😑😑(78t),O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+532,Cc,B-T,B-T,"[0, 1]","[0, 1]",1,1
+533,Chụp hình sao ngủ vậyy mẹ mít =))),O O O O O O O O,O O O O O O O O,[],[],0,0
+534,Phạm Thùy Dương Mạnh Duy Changg Nguyễn tag ai đó đi mn ơiiii hihi,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+535,mẹ nó sủa nge mà thối qúa trời,B-T I-T I-T O O B-T O O,B-T B-T B-T O O B-T O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 17, 18, 19, 20]","[0, 1, 3, 4, 6, 7, 8, 17, 18, 19, 20]",1,1
+536,hồi nhỏ tính để tóc như khánh phương akira hkt như vầy nhưng mẹ không cho lớn lên mới biết tuổi trẻ ai cũng mất sai lầm:v,O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T,[],"[108, 109, 110, 112, 113, 114, 116, 117, 118, 119, 120]",0,1
+537,Như cl luôn =)),O B-T O O,O B-T O O,"[4, 5]","[4, 5]",1,1
+538,Trong một diễn biến khác. Lại có cờ mẫu quốc phấp phới đâu đây,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+539,Mày đéo xứng đáng làm người dân nam định,B-T B-T O O O O O O O,B-T B-T O O O O O O O,"[0, 1, 2, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+540,Cuong Phan con này năm sau dự là 2000 đô nhé,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+541,bóng già chuyển giới. CÔ CÔ nghe mắc ỉa. súc vật lũ bongs chó tởm lợm,B-T I-T I-T I-T O O O O B-T B-T I-T B-T I-T I-T B-T I-T,O O O O O O O B-T I-T I-T I-T B-T I-T I-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 37, 38, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 64, 65, 66, 67, 68]","[33, 34, 35, 37, 38, 39, 41, 42, 43, 45, 46, 47, 49, 50, 52, 53, 54, 55, 56, 58, 59, 60, 62, 63, 64, 66, 67, 68]",1,1
+542,Loanh quanh đằng đít lại đằng đầu . Vẫn là một lũ xạo loz với nhau . Giờ khó kiếm ăn quay Ra cắn xé,O O B-T I-T I-T I-T I-T O O O O B-T I-T I-T O O O O B-T I-T I-T I-T I-T I-T I-T,O B-T I-T I-T I-T I-T I-T O O O O B-T B-T I-T O O O O O O O O O B-T I-T,"[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]","[6, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18, 19, 21, 22, 23, 25, 26, 27, 28, 30, 31, 32, 47, 48, 50, 51, 52, 54, 55, 56, 93, 94, 95, 97, 98]",1,1
+543,Quốc tịch VN nhưng sống ở Anh có nghĩa là sang anh sinh sống 1 tgian sau khi nhiễm bệnh thì về VN :)),O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+544,"Xam quá đi , gặp mấy con quỷ khùng cười muốn sạc luôn",B-T O O O O O B-T I-T B-T O O O O,B-T I-T I-T O O O B-T I-T B-T O O O O,"[0, 1, 2, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33]","[0, 1, 2, 4, 5, 6, 8, 9, 21, 22, 23, 25, 26, 27, 29, 30, 31, 32, 33]",1,1
+545,Ngu na noi tren troi duoi dat k,B-T O B-T I-T I-T I-T I-T O,B-T O O O O O O O,"[0, 1, 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]","[0, 1, 2]",1,1
+546,"hơi quá lời, thật ra thiên hạ đã chửi còn hơn chó",O O O O O O O O B-T O O B-T,O O O O O O O O B-T O O B-T,"[33, 34, 35, 36, 46, 47, 48]","[33, 34, 35, 36, 46, 47, 48]",1,1
+547,giống thực xự,O O O,O O O,[],[],0,0
+548,Chậm cái l nhanh chậm kệ mẹ ngta đi cmt lắm ăn l àaaaaaaa 🤞🏿,O O B-T O O B-T I-T O O O O O B-T O B-T,O O B-T O O O B-T O O O O B-T I-T O O,"[9, 22, 23, 24, 25, 26, 47, 58, 59]","[9, 25, 26, 44, 45, 47]",1,1
+549,Ổ mono lớn mở tỷ sốbom,O O O O O O,O O O O O O,[],[],0,0
+550,abe moi' noi' cl gi` v ?,O O O B-T O O O,O O O B-T O O O,"[14, 15]","[14, 15]",1,1
+551,Tuấn thượng đẳng :)),O O O O,B-T I-T I-T O,[],"[0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15]",0,1
+552,Tội ảnh lắm anh =))),O O O O O,O O O O O,[],[],0,0
+553,Hết nhanh như chớp h qua thách thức danh hài :)))) thầy ăn nhìu giải nhỉ :0,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+554,Lily Trịnh vụt đè tứ quý há hốc mõm,O O O O O O O O O,O O O O O O O B-T I-T,[],"[28, 29, 30, 32, 33, 34]",0,1
+555,Nguyễn Trọng Thái ong giám bảo anh tôi sai à ? Sai cc đéo sai 😆,O O O O O O O O O O O O B-T B-T O O,O O O O O O O O O O O O B-T B-T O O,"[51, 52, 54, 55, 56]","[51, 52, 54, 55, 56]",1,1
+556,Sai lai cang sai dien lai cang dien,O O O O B-T O O B-T,O O O O O O O B-T,"[17, 18, 19, 20, 31, 32, 33, 34]","[31, 32, 33, 34]",1,1
+557,Thanh Duy 🙂,O O O,O O O,[],[],0,0
+558,Để bố xọc chết con mẹ nó,O O B-T I-T I-T I-T I-T,O O O B-T I-T I-T I-T,"[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]","[12, 13, 14, 15, 17, 18, 19, 21, 22, 24, 25]",1,1
+559,xem giọng cười mình lại chán đéo muốn nói 🤦,O O O O O B-T B-T O O B-T,O O O O O O B-T O O O,"[24, 25, 26, 27, 29, 30, 31, 42]","[29, 30, 31]",1,1
+560,Idol lên sóng diện thế😂,O O O O O,O O O O O,[],[],0,0
+561,Đồ dỡ hơi,B-T I-T I-T,O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",[],1,0
+562,Tộc trưởng said :,O O O O,O O O O,[],[],0,0
+563,Dân băc minh ko xu đep con cho nay,B-T I-T O O B-T I-T B-T I-T O,O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29]",[],1,0
+564,"Đm trang này phản động mọi người ạ. THP là doanh nghiệp nhà nước làm gì có chuyện sai trái bao giờ, bọn nó đào bùn lấy cặn đấy.",B-T O O B-T I-T O O O O O O O O O O O O O O O O O O B-T B-T I-T I-T I-T O,B-T O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O B-T I-T,"[0, 1, 13, 14, 15, 16, 17, 18, 19, 20, 21, 104, 105, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121]","[0, 1, 100, 101, 102, 104, 105, 119, 120, 121, 123, 124, 125, 126]",1,1
+565,*Tham nhũng kì diệu*,B-T I-T O O,B-T I-T I-T I-T,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]","[0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19]",1,1
+566,Định nghĩa chủ vs CEO nó khác nhau chứ 🙄🙄,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+567,Hô hào tuyên truyền quyết tâm phòng dịch nhiều rồi một số người vẫn cố tình kô tuân thủ cách li ô phải dùng tới nắm đấm thôi.....,O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[112, 113, 114, 115, 116, 117, 118]",[],1,0
+568,Nhân cách thua con gấu bông nhà t🙂,B-T I-T I-T I-T I-T I-T O B-T,O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 32]",[],1,0
+569,Đãng và nhà nước cùng tập đòn vtv khẳng định nước đó ko có ruồi nhé . Nên tin vào đãng chứ . Đm bọn cầm quyền .,O O O O O O O O O O O O O O O O O O O O O O O B-T B-T O O O,O O O O O O O O O O O O O O O O O O O O O O O B-T B-T I-T I-T O,"[93, 94, 96, 97, 98]","[93, 94, 96, 97, 98, 100, 101, 102, 104, 105, 106, 107, 108]",1,1
+570,"Cần gì tâm sự, làm ván pubg r đi ngủ sớm chuẩn bị đón chờ ngày mai khoẻ khoắn",O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O,[],[],0,0
+571,Sao chúng mày ko nhịn tham ô cửa quyền đi .,O B-T I-T O O B-T I-T I-T I-T O O,O B-T I-T O O B-T I-T I-T I-T O O,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]","[4, 5, 6, 7, 8, 10, 11, 12, 22, 23, 24, 25, 27, 29, 30, 31, 33, 34, 35, 36, 37]",1,1
+572,Trịnh Huế ai tỏ tình nhận lời luôn ý đợi cái gì 🤣🤣🤣,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+573,Con nay noi chuyen qua la mat day CDM phai cho con nay mot bai hoc nho doi,B-T I-T O O O O B-T I-T O O O B-T I-T O O O O O,B-T O O O O O B-T I-T I-T O O B-T O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 26, 27, 28, 29, 30, 31, 32, 47, 48, 49, 50, 51, 52, 53]","[0, 1, 2, 26, 27, 28, 30, 31, 32, 34, 35, 36, 47, 48, 49]",1,1
+574,"Với điều kiện phải đảm bảo tiến độ công việc nhé, là làm việc ở nhà, chứ ăn ở ko thì ko có 1 đồng",O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+575,Chi ba bi ngao đa ha chi 3,O O O B-T I-T O O O,O O O B-T O O O O,"[10, 11, 12, 13, 14, 15, 16]","[10, 11, 12, 13]",1,1
+576,Bt các bạn phan cuồng chửi vậy mik đã ko nêu ra ý kiến cá nhân,O O O O O O O O O O O O O O O O,O O O O O B-T O O O O O O O O O O,[],"[22, 23, 24, 25]",0,1
+577,Lê Ngọc Minh Châu đóng học phí trong nonolive là chổ nào vậy bạn,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+578,Mặt quần biết khùng,O O O B-T,O O O B-T,"[14, 15, 16, 17, 18]","[14, 15, 16, 17, 18]",1,1
+579,Nghe nhạc kute ý,O O O O,O O O O,[],[],0,0
+580,Tạ Thị Ngọc Duyên mày cũng v chứ khác đéo đâu xớ,O O O O B-T O O O O B-T O O,O O O O B-T O O O O B-T O O,"[18, 19, 20, 38, 39, 40]","[18, 19, 20, 38, 39, 40]",1,1
+581,chị vạch loz ra cho em xem vs,O B-T I-T O O O O O,O O B-T O O O O O,"[4, 5, 6, 7, 8, 9, 10, 11]","[9, 10, 11]",1,1
+582,Hải Yến có câu nói là ( ko thích nhìn đéo ai bắt xem ),O O O O O O O O O O B-T O O O O,O O O O O O O O O O B-T O O O O,"[38, 39, 40]","[38, 39, 40]",1,1
+583,"Ổng tư tưởng tiến bộ lên rồi, hết 3 que r",O O O O O O O O B-T I-T O,O O O O O O O O B-T I-T O,"[34, 35, 36, 37, 38]","[34, 36, 37, 38]",1,1
+584,Nơi sản sinh ra tham nhũng mà k có tham nhũng.cũng lạ,O O O O B-T I-T O O O B-T I-T O,O O O O B-T I-T O O O O O O,"[16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]","[16, 17, 18, 19, 21, 22, 23, 24, 25]",1,1
+585,Lo cho Bác lắm luôn,O O O O O,O O O O O,[],[],0,0
+586,"nhận hết trách nhiệm đi, anh đưa tiền cho phạt. Nhớ nói là: em làm mạnh tay, đè mấy chai Dr. Thanh chứ cty an toàn lắm. càng pr cty tết này anh thưởng nhìu cho",O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[77, 78]",[],1,0
+587,Tu Tuan hâhhaa sao mà bỏ qua được ba tú,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+588,Địt mẹ thiên đường ad nhỉ,B-T I-T O O O O,B-T I-T O O O O,"[0, 1, 2, 3, 4, 5]","[0, 1, 2, 4, 5]",1,1
+589,Diệu Linh Nguyễn Thị Thanh Bình,O O O O O O,O O O O O O,[],[],0,0
+590,Có nge cau mãi mãi phồn vinh đâu,O O O O O O O O,O O O O O O O O,[],[],0,0
+591,Chị Khánh Chi càng ngày càng đẹp càng duyên 💖,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+592,Hai chi em ba nay mat dai an noi tuc tiu lon roi an noi mat dai hai chi em may no khoe,O O O O O B-T I-T O O B-T I-T O O O O B-T I-T O O O B-T O O,O O O O O B-T I-T O O B-T I-T I-T O O O B-T I-T O O O O O O,"[18, 19, 20, 21, 22, 23, 24, 33, 34, 35, 36, 37, 38, 39, 56, 57, 58, 59, 60, 61, 62, 75, 76, 77]","[18, 19, 20, 22, 23, 24, 33, 34, 35, 37, 38, 39, 41, 42, 43, 56, 57, 58, 60, 61, 62]",1,1
+593,- Cùng tham gia chống covid-19 nha mọi người <3,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+594,Diện Trần có con r mà còn ngu mà rảnh lòn ghê,O O O O O O O B-T O O B-T O,O O O O O O O B-T O B-T I-T I-T,"[26, 27, 28, 38, 39, 40]","[26, 27, 28, 33, 34, 35, 36, 38, 39, 40, 42, 43, 44]",1,1
+595,Add ngu vãi nồi,O B-T I-T I-T,O B-T I-T I-T,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]","[4, 5, 6, 8, 9, 10, 12, 13, 14]",1,1
+596,Xe gì mà 83 tỉ vậy trời,O O O O O O O,O O O O O O O,[],[],0,0
+597,Mình nói thật là bài này như lồn,O O O O O O O B-T,O O O O O O O B-T,"[29, 30, 31]","[29, 30, 31]",1,1
+598,Thời lồn nào rồi mà còn mị nhau như vậy,O B-T O O O O B-T O O O,O B-T O O O O O O O O,"[5, 6, 7, 24, 25]","[5, 6, 7]",1,1
+599,"Tuổi cũng cao rồi mụ già ơi. Sống sao cho con cháu bạn bè quê hương tôn trọng quý mến
+Sau này mụ chết cũng về với cát bụi thôi",O O O O B-T I-T O O O O O O O O O O O O O O O O B-T B-T O O O O O O,O O O O B-T O O O O O O O O O O O O O O O O O B-T B-T O O O O O O,"[18, 19, 20, 21, 22, 23, 94, 95, 97, 98, 99, 100]","[18, 19, 94, 95, 97, 98, 99, 100]",1,1
+600,Nghĩ đến chỉ muốn băm con chó đĩ ấy trận,O O O O B-T I-T I-T I-T O B-T,O O O O O O B-T I-T I-T I-T,"[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 36, 37, 38, 39]","[26, 27, 28, 30, 31, 33, 34, 36, 37, 38, 39]",1,1
+601,Nghe rất lí Mạc sầu nhưng lại rất cô cô,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+602,Sao Băng nhớ nhé😂😂,O O O O,O O O O,[],[],0,0
+603,Thầy làm em xúc động qua',O O O O O O,O O O O O O,[],[],0,0
+604,"lolz mắc cười, toàn 1 lủ ở vùng xa vùng xôi ở ... nói chung là chỉ biết và thờ cái Ba Đình, đéo làm được gì thì ngậm cái mổm ăn c..c lại, ko nói, ko ai nói miệng thối đâu mấy con chó DLV ạh",B-T O O O O B-T O O O O O O O O O O O O O O O O O B-T O O O O O O B-T O B-T O O O O O O O O O O B-T I-T I-T O,O O O O O B-T I-T I-T I-T I-T I-T O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O B-T O O O B-T O O,"[0, 1, 2, 3, 22, 23, 92, 93, 94, 121, 122, 123, 128, 129, 130, 131, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185]","[22, 23, 25, 27, 28, 29, 30, 32, 33, 35, 36, 37, 38, 40, 41, 42, 92, 93, 94, 162, 163, 164, 165, 179, 180, 181]",1,1
+605,Già mà non,B-T I-T I-T,B-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]","[0, 1, 2, 4, 5, 7, 8, 9]",1,1
+606,Về nhà có em chờ các anh ơi :(,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+607,Bây h so hay sam gì nhìn cũng đ dám ăn 😢,O O O O O O O O B-T O O O,O O O O O O O O B-T O O O,[30],[30],1,1
+608,Lại bảo không giống đeeeee,O O O O O,O O O O O,[],[],0,0
+609,2 triệu nè. Con chưa cả gội 🤭,O O O O O O O O,O O O O O O O O,[],[],0,0
+610,Chào thầy ba girl😌nứng vcl,O O O B-T I-T,O O O O B-T,"[18, 19, 20, 21, 22, 23, 24, 25]","[23, 24, 25]",1,1
+611,Hihi,O,O,[],[],0,0
+612,Lê Huyền má quá đáng ghê á :)))))),O O O O O O O O,O O O O O O O O,[],[],0,0
+613,Hợp lý quá anh độ ơi,O O O O O O,O O O O O O,[],[],0,0
+614,Ở đấy ngột ngạt quá thì đưa nó qua vũ hán cho nó thoáng mát😡😡,O O O O O O O B-T O O O O O O B-T,O O O O O O O B-T O O O O B-T O O,"[28, 29, 59, 60]","[28, 29, 46, 47]",1,1
+615,"“Ông già đem hết tiền đãi bạn,dm tháng này thiếu sữa rồi” :)))",B-T I-T O O O O B-T O O O O O O,O O O O O O O O O O O O O,"[1, 2, 3, 4, 5, 6, 7, 30, 31]",[],1,0
+616,Nhật bản hẩy kiện thằng chủ tịt Hanoi cho nó biết thế nào là bố láo !,O O O O B-T B-T I-T O O B-T O O O O B-T I-T O,O O O O B-T O O O O B-T O O O O B-T I-T O,"[18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 42, 43, 61, 62, 63, 64, 65, 66]","[18, 19, 20, 21, 22, 42, 43, 61, 62, 64, 65, 66]",1,1
+617,Được của ló thầy ơi,O O O O O,O O O O O,[],[],0,0
+618,nứng nứng,B-T I-T,B-T B-T,"[0, 1, 2, 3, 4, 5, 6, 7, 8]","[0, 1, 2, 3, 5, 6, 7, 8]",1,1
+619,bít này viết có hết mực hông ad?,O O O O O O O O,O O O O O O O O,[],[],0,0
+620,thằng VC nào thì củng đều là lưu manh và gian trá .... chức quyền càng cao thì độ lưu manh càng lớn .... ĐM bọn VC ...!!,B-T O O O O O O B-T I-T O B-T I-T O O O O O O O B-T I-T O O O B-T O O O,B-T I-T O O O O O B-T I-T O B-T I-T I-T I-T I-T O O O O O O O O O B-T B-T I-T O,"[0, 1, 2, 3, 4, 29, 30, 31, 32, 33, 34, 35, 36, 41, 42, 43, 44, 45, 46, 47, 48, 82, 83, 84, 85, 86, 87, 88, 89, 105, 106]","[0, 1, 2, 3, 4, 6, 7, 29, 30, 31, 33, 34, 35, 36, 41, 42, 43, 44, 46, 47, 48, 50, 51, 52, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 105, 106, 108, 109, 110, 112, 113]",1,1
+621,Lê Quang Tâm ông ko đc fan cứng là phải r😆,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+622,"Vậy mà có cái bè lũ đòi huy động vàng trong dân, ngoại tệ trong dân, ngoại tệ đó từ nước ngoài gởi về chứ có in ra đâu thím 7, ngoài ra đám con cháu của cái hội gì đấy qua ở chung với bọn đu càng chắc cũng ăn bám trợ cấp của chính phủ nước sở tại hay ăn từ tiền ba mẹ tụi nó đi hút máu đi bán đất vậy thím 7, so ra cái nào nhục hơn ?",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O B-T I-T I-T O O O B-T O O O O O O O O O O O O O O B-T I-T O B-T I-T O O O O O O O O O O B-T O O,O O O O B-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O B-T I-T I-T O O B-T I-T I-T I-T O O O O O O O O O O O B-T B-T I-T O B-T I-T O O O O O O O O O O B-T O O,"[136, 137, 138, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 209, 210, 211, 268, 269, 270, 271, 272, 273, 278, 279, 280, 281, 282, 283, 284, 323, 324, 325, 326]","[14, 15, 17, 18, 20, 21, 22, 24, 25, 26, 28, 29, 30, 31, 33, 34, 35, 36, 136, 137, 138, 184, 185, 186, 188, 189, 191, 192, 193, 194, 206, 207, 209, 210, 211, 213, 214, 215, 217, 218, 219, 265, 266, 268, 269, 270, 272, 273, 278, 279, 280, 282, 283, 284, 323, 324, 325, 326]",1,1
+623,"Nền giáo dục phương tây đã dạy gì cho những \""ai kia\""☹️. Nghĩ nó chán, sang chảnh mà ý thức l0l😑",O O O O O O O O O O O B-T O O O O O O B-T I-T I-T,O O O O O O O O O O O O O B-T O O O O O O O,"[61, 62, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110]","[71, 72, 73]",1,1
+624,fan one piece :v,O O O O,O O O O,[],[],0,0
+625,"Tôi vẫn chưa hiểu, tại sao Saigon, một thành phố ""Ngụy"" đói khổ, bị bọn Mỹ ""Ngụy"" đàn áp, bóc lột, cần chế độ CS ta giải phóng, cứu đói, mà lại nộp ngân sách nhiều thế ! (bằng 55 tỉnh thành khác).",O O O O O O O O O O B-T O O O O O B-T B-T I-T B-T I-T O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[50, 51, 52, 53, 76, 77, 78, 79, 82, 83, 84, 85, 86, 87, 90, 91, 92, 93, 94, 95, 96]","[68, 69, 70]",1,1
+626,Mong anh em ủng hộ kênh mình,O O O O O O O,O O O O O O O,[],[],0,0
+627,Võ Ngọc Mỹ Duyên ừa haha mấy anh mấy chị hỏng biết đó nà cái lồn đâu bé=)))))),O O O O O O O O O O O O O O O B-T O O,O O O O O O O O O O O O O O O B-T O O,"[61, 62, 63]","[61, 62, 63]",1,1
+628,Võ Thuần Nguyễn có bán Tiểu Tiểu không,O O O O O O O O,O O O O O O O O,[],[],0,0
+629,còn tư bản giãy chết m dám nói ko phải từ mõm của đảng đi,O O O B-T I-T B-T O O O O O B-T O O O,O O O O B-T I-T O O O O O O O O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 42, 43, 44]","[16, 17, 18, 19, 21]",1,1
+630,Hồ Nguyễn Quốc Phú mấy thằng đầu buồi này rp làm mẹ gì thứ như nó ngoài đầy rp tới sáng chưa hết :)),O O O O O B-T I-T I-T O O O B-T O B-T O B-T O O O O O O O O,O O O O O B-T I-T I-T O O O B-T O O O B-T O O O O O O O O,"[23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 49, 50, 55, 56, 57, 63, 64]","[23, 24, 25, 26, 27, 29, 30, 31, 33, 34, 35, 36, 49, 50, 63, 64]",1,1
+631,Ba hard cc :)),O O B-T O,O O B-T O,"[8, 9]","[8, 9]",1,1
+632,Nhị Thắng cực địt lol mẹ mày,O O O B-T I-T I-T I-T,O O O B-T I-T I-T I-T,"[14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]","[14, 15, 16, 18, 19, 20, 22, 23, 25, 26, 27]",1,1
+633,Áo rất đẹp nhưng thầy mặc ko đẹp :(,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+634,Nhìn cái mặt muốn xịt chó cắn,O O O O O B-T I-T,O O O O O B-T I-T,"[22, 23, 24, 25, 26, 27, 28]","[22, 23, 24, 26, 27, 28]",1,1
+635,Con C.A nhổ nuoc bọt voi danh dan thì xloi song huề,B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]",[],1,0
+636,Ngọc hoàng lại đi rừng ah :)),O O O O O O O,O O O O O O O,[],[],0,0
+637,Chụp màn hình làm cl gì thế con bò :))),O O O O B-T O O B-T I-T O,O O O O B-T O O B-T I-T O,"[18, 19, 28, 29, 30, 31, 32, 33]","[18, 19, 28, 29, 30, 32, 33]",1,1
+638,Bài hát này chỉ dành cho quảng cáo. Không có tiền thì làm nhạc làm sao :v,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+639,Cái mặt là nhìn dell ưa nổi với bị nứng lâu năm,O O O O B-T I-T O O B-T I-T O O,O O O O B-T O O O O B-T O O,"[16, 17, 18, 19, 20, 21, 22, 32, 33, 34, 35, 36, 37, 38]","[16, 17, 18, 19, 35, 36, 37, 38]",1,1
+640,Quang Nguyễn Đún vậy burn chair hà lội ngon kkk,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+641,Hải Yến xinh gái mà cmt thúi hoắc à 🤭,O O B-T I-T I-T I-T I-T I-T O O,O O O O O O B-T I-T O O,"[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]","[24, 25, 26, 27, 29, 30, 31, 32]",1,1
+642,Bọn chó,B-T I-T,B-T I-T,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+643,Linh Việt kiều đâu có ở Việt Nam đâu mà kiếm,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+644,xin tên nhạc :3 hihi cảm ơn,O O O O O O O,O O O O O O O,[],[],0,0
+645,Xuất sắc quá chất 😎,O O O O O,O O O O O,[],[],0,0
+646,Haizz. Nthe này thì dân khổ quá,O O O O O O O,O O O O O O O,[],[],0,0
+647,Khổ a tôi,O O O,O O O,[],[],0,0
+648,Ánh sáng của đảng sẽ giết mày,O O O O O B-T B-T,O O O O O B-T I-T,"[21, 22, 23, 24, 26, 27, 28]","[21, 22, 23, 24, 26, 27, 28]",1,1
+649,Do con di nug lon,O B-T I-T B-T I-T,O B-T I-T I-T I-T,"[3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16]","[3, 4, 5, 7, 8, 10, 11, 12, 14, 15, 16]",1,1
+650,Tỏ tình kiểu gì khi mất huy hiệu FC 🙂,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+651,Chửi bới công an nó cho ra đảo rùi chán ghê!,B-T I-T O O B-T O O O O O O,B-T B-T O O B-T O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 17, 18]","[0, 1, 2, 3, 5, 6, 7, 17, 18]",1,1
+652,Thâm vl bạn ơi,B-T I-T O O,B-T I-T O O,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 3, 5, 6]",1,1
+653,Khịa pew vl,B-T O B-T,O O B-T,"[0, 1, 2, 3, 9, 10]","[9, 10]",1,1
+654,quan chức để lại cức đái cho đời....í lộn! cái đức.,O O O O B-T I-T O O O O O,O O O O B-T B-T O O O O O,"[17, 18, 19, 20, 21, 22, 23]","[17, 18, 19, 21, 22, 23]",1,1
+655,Điên!!! Ông này điên điên mà lai được cccđ mời khi có sự kiện. Đúng là một lũ điên có tổ chức!!!,B-T O O B-T I-T O O O O O O O O O O O O B-T I-T I-T I-T I-T,O O O B-T I-T O O O O O O O O O O O O B-T I-T O O O,"[0, 1, 2, 3, 16, 17, 18, 19, 20, 21, 22, 23, 24, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92]","[16, 17, 18, 19, 21, 22, 23, 24, 75, 76, 78, 79, 80, 81]",1,1
+656,idol của chị hai tui 😌,O O O O O O,O O O O O O,[],[],0,0
+657,Sa béo nhìn ngấy vl :)),O B-T I-T I-T B-T O,O O O O B-T O,"[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18]","[17, 18]",1,1
+658,Ảnh hưởng đến công việc thì kệ cụ nhà m,O O O O O O B-T I-T O B-T,O O O O O O O O O B-T,"[28, 29, 30, 31, 32, 38]",[38],1,1
+659,Vấn đề nó là ở cái chế độ thôi.,B-T I-T I-T I-T I-T I-T I-T I-T O,O O B-T O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[7, 8]",1,1
+660,Lạy chúa con còn lứa tuổi học sinh :)),O O O O O O O O O,B-T I-T I-T I-T I-T I-T I-T I-T O,[],"[0, 1, 2, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 26, 27, 28, 30, 31, 32, 33]",0,1
+661,cả ngàn đại biểu QH qua 6 năm vẫn không thông nổi cái luật biểu tình dù nó có sờ sờ trong hiến pháp 2013 ! trong khi đó lại vung tiền làm trò mèo hù doạ nhân dân !,O O O O O O O O O B-T I-T I-T O O O O B-T I-T I-T I-T I-T O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T O O O,O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T O,"[34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151]","[72, 73, 142, 143, 144, 146, 147, 149, 150, 151, 153, 154, 155, 156, 158, 159, 160]",1,1
+662,":)) nó chửi cho đúng :)) chứ k phải là nó chửi sai.nó chửi cho khôn ra chứ nó chửi k phải là để cho tụt hậu,cho đi xuống...tuy văn phong Thô- Tục nhưng nó Thật...nên đéo thể cãi được ,thấy xấu hổ thì phải thay đổi",O B-T O O O O O O O O B-T O B-T O O O O O O O O O O O O O O O O O O O O O B-T O B-T O O O O O O O O O O,O B-T B-T O O O O O O O B-T B-T O B-T O O O O B-T B-T O O O O O O O O O O O O O O B-T O B-T O O O O O O O O O O,"[4, 5, 39, 40, 51, 52, 152, 153, 166, 167, 168]","[4, 5, 7, 8, 9, 10, 39, 40, 42, 43, 44, 45, 54, 55, 56, 57, 75, 76, 78, 79, 80, 81, 152, 153, 166, 167, 168]",1,1
+663,"Mới biết chúTrần Dần gần đây yêu chú quá, mong rằng khi mình già mình vẫn giữ được tinh thần tươi vui như chú",O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+664,Con người sao lại như vậy?,O O O O O O,O O O O O O,[],[],0,0
+665,"đù cái bọn DLV lại được dịp vào ""như này mà đòi biểu tình đòi cá"". cái dm bọn này éo thấy nhục x2 thì thôi chứ, éo thể nào tả được :))",O O B-T I-T O O O O O O O O B-T I-T O O O B-T B-T O B-T O B-T O O O O B-T O O O O O,O O B-T O O O O O O O O O B-T I-T O O O B-T B-T O B-T O B-T O O O O B-T O O O O O,"[7, 8, 9, 10, 11, 12, 13, 48, 49, 50, 51, 52, 53, 54, 55, 56, 71, 72, 74, 75, 76, 82, 83, 90, 91, 92, 93, 112, 113]","[7, 8, 9, 48, 49, 50, 51, 53, 54, 55, 56, 71, 72, 74, 75, 76, 82, 83, 90, 91, 92, 93, 112, 113]",1,1
+666,kệ mẹ thầy,O B-T O,O B-T O,"[3, 4]","[3, 4]",1,1
+667,"Tôi không xem đâu mọi người ơi. Chỉ bình luận thôi có được không. Nói thật ông trần dần này (tôi cố tình không viết hoa để thể hiện sự tôn trọng với ông ấy) . Một con người đáng khinh. Ảo tưởng không tự nhận ra mình là ai một thầy mo đúng nghĩa, chỉ có thể lừa bịp được những người dân tộc mà thôi. Nói đến ông ta ai mà không tức cười 😂😂😂😂😂😄😁😁😃😂😂😃",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T B-T I-T B-T I-T I-T I-T I-T O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O B-T I-T O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O,"[178, 179, 180, 181, 182, 185, 186, 187, 188, 189, 190, 191, 192, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 257, 258, 259, 260, 261, 262, 263, 326, 327, 328, 329, 330, 331, 332, 333]","[257, 258, 259, 261, 262, 263]",1,1
+668,Dkm chửi hết bọn chó vàng made in vietnam,B-T B-T O B-T I-T I-T O O O,B-T B-T O B-T I-T I-T I-T O O,"[0, 1, 2, 4, 5, 6, 7, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[0, 1, 2, 4, 5, 6, 7, 13, 14, 15, 17, 18, 19, 21, 22, 23, 24, 26, 27, 28, 29]",1,1
+669,Việt Nam muôn năm 🇻🇳💞,O O O O O,O O O O O,[],[],0,0
+670,Thấy ghê dị🤣,O O O,O O O,[],[],0,0
+671,Cho chết mẹ nó cái đám bò đỏ đần độn,O B-T I-T I-T O B-T I-T I-T I-T I-T,O B-T I-T B-T O B-T I-T I-T O O,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]","[4, 5, 6, 7, 9, 10, 12, 13, 19, 20, 21, 23, 24, 26, 27]",1,1
+672,"Sản phẩm chất lượng để phục vụ một lũ “cực kỳ thuyết phục” bị di căn giai đoạn cuối quả phí phạm. Toàn bọn bại não, thoái hoá văn hoá. Cứ tưởng thế là hay ho.",O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O O B-T I-T I-T B-T I-T I-T I-T O O O O O O,O O O O O O O O B-T O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T O O O O O O,"[35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]","[35, 36, 103, 104, 105, 107, 108, 109, 111, 112, 113, 114, 116, 117, 118, 119, 120, 122, 123, 124, 126, 127, 128, 130, 131, 132, 133]",1,1
+673,"lũ bán nước đang bú đít tụi đài loan china.dech mẹ gia đình thằng chủ tịch tỉnh QB , mả cha thằng bộ trưởng tài nguyên môi trường.lũ sâu bọ",B-T I-T I-T O B-T I-T B-T O O B-T I-T O O B-T O O O O O B-T I-T B-T O O O O O B-T I-T I-T,B-T I-T I-T O B-T I-T B-T O O O O O O B-T O O O O O B-T I-T I-T O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 17, 18, 19, 20, 21, 22, 24, 25, 26, 43, 44, 45, 46, 47, 48, 49, 60, 61, 62, 63, 64, 85, 86, 87, 88, 89, 90, 92, 93, 94, 95, 96, 130, 131, 132, 133, 134, 135, 136, 137, 138]","[0, 1, 3, 4, 5, 7, 8, 9, 10, 17, 18, 20, 21, 22, 24, 25, 26, 60, 61, 62, 63, 64, 85, 86, 88, 89, 90, 92, 93, 94, 95, 96]",1,1
+674,mì sào chua ngọt âhhahahah,O O O O O,O O O O O,[],[],0,0
+675,Nguyễn Bình có cả hậu hoàng,O O O O O O,O O O O O O,[],[],0,0
+676,Dm lũ quan tham bán nước.,B-T B-T I-T I-T I-T I-T,B-T B-T I-T I-T I-T I-T,"[0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]","[0, 1, 3, 4, 5, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27]",1,1
+677,Cái tập đoàn dacosan rước giặc đây mà,B-T I-T I-T I-T I-T I-T O O,O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]",[],1,0
+678,Quang Chivas thằng mồm lồn. Mặc váy vl.,O O B-T I-T I-T B-T I-T B-T,O O B-T I-T O O O O,"[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 36, 37]","[13, 14, 15, 16, 17, 19, 20, 21]",1,1
+679,Iu cô gái khơ me hàm răng trắng tác cái l** đen thui 🙏🙏,O O O O O O O O O O B-T O O O,O O O O O O O O O O B-T I-T O O,"[40, 41, 42]","[40, 41, 42, 44, 45, 46]",1,1
+680,Nhìn muôsn lại kéo khoá dùm quá:),O O O O O O O,O O O O O O O,[],[],0,0
+681,Goi người ta chui người ta người ta chui lại là hue ..... kkkk,O O O O O O O O O O O O O O,O O O B-T O O O O B-T O O O O O,[],"[13, 14, 15, 16, 36, 37, 38, 39]",0,1
+682,Sang đài loan nó kiện cho công ty đi tù ý còn ở việt nam thì dmcs nun,O O O O O O O O O O O O O O O O B-T O,O O O B-T O O O O O B-T O O O O O O B-T O,"[61, 62, 63, 64]","[14, 15, 37, 38, 61, 62, 63, 64]",1,1
+683,Đ**,B-T,B-T,"[0, 1, 2]","[0, 1, 2]",1,1
+684,Cho em hỏi CEO là gì thế ạ :33,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+685,Trung Now never dieeeeeeeeee,O O O O,O O O O,[],[],0,0
+686,Mấy ông đánh giầy kia ko là dân à? Cũng lỗi của dân đi :)),O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+687,Chào ank Độ. Có thể ank không biết em. Nhưng em biết ank đấy. Vài năm trước em cũng giống ank bây giờ...,O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+688,"Tụi tui hỏng dám nói sau giải phóng,chỉ dám nghệ thuật hóa sự kiện sau 75, TỪ NGÀY ĐỨT PHIM...🤣🤣🤣 khổ quá.",O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+689,Cho em coi vu chi sua co đep khong em se cho vo em sua,O O O B-T O O O O O O O O O O O,O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,"[11, 12]","[18, 19, 20, 22, 23, 25, 26, 27, 29, 30, 31, 32, 33, 35, 36, 38, 39, 41, 42, 43, 45, 46, 48, 49, 51, 52, 53]",1,1
+690,Xuống kim cương chưa Abe,O O O O O,O O O O O,[],[],0,0
+691,Mặt như buê đuê ấy nhể,O O B-T I-T O O,O O O O O O,"[8, 9, 10, 11, 12, 13, 14]",[],1,0
+692,Nguyễn Ngọc Vũ hóng nào,O O O O O,O O O O O,[],[],0,0
+693,chị đẹp quá,O O O,O O O,[],[],0,0
+694,TRUNG QUỐC LÀ 1 BẬC THẦY VỀ HỐI LỘ. :))),O O O O O O O B-T I-T O,O O O O O O O B-T I-T O,"[28, 29, 30, 31, 32, 33]","[28, 29, 30, 32, 33, 34]",1,1
+695,Tôi co vang xe lamborini moto 100 000 nha biet thu,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+696,Mn đừng ns này ns nọ chị ấy. Khẩu nghiệp mag ts tụi bây quả báo đấy con ạ.,O O O O O O O O B-T I-T O O B-T I-T B-T I-T O O O,O O O O O O O O B-T I-T O O O O O O O O O,"[29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62]","[29, 30, 31, 32, 34, 35, 36, 37, 38, 39]",1,1
+697,Diễm hehe,O O,O O,[],[],0,0
+698,Muốn gớt nước mắt,O O O O,O O O O,[],[],0,0
+699,Nguyễn Đình Tuyên hahaa lạc hậu,O O O O O O,O O O O O O,[],[],0,0
+700,Xao lôn k co gi vui ..chung ta k nen xao lon..,B-T I-T O O O O O O O O B-T I-T,B-T I-T I-T I-T O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 37, 38, 39, 40, 41, 42, 43]","[0, 1, 2, 4, 5, 6, 8, 10, 11]",1,1
+701,"Căn bản lắm crush vailon , k biết tỏ tình con nào :))",O O O O B-T O O O O O B-T O O,O O O O B-T O O O O O O O O,"[18, 19, 20, 21, 22, 23, 42, 43, 44]","[18, 19, 20, 21, 22, 23]",1,1
+702,Chị nầy là giàu thật.còn thần bóng râu đó nó sạo lồn mà.chị đừng chưỡi ba mẹ nó.e thấy tội cha mẹ nó chi ơi.chưỡi nó đi.,O O O O O O O O O B-T B-T I-T O O B-T O O B-T O O O O B-T O B-T B-T O,O O O O O O O O O B-T B-T I-T O O O O B-T O O B-T I-T I-T I-T O O O O,"[42, 43, 45, 46, 47, 48, 49, 50, 51, 65, 66, 67, 68, 69, 77, 78, 98, 99, 108, 109, 110, 111, 112, 114, 115]","[42, 43, 45, 46, 47, 49, 50, 51, 74, 75, 87, 88, 89, 91, 92, 93, 95, 96, 98, 99]",1,1
+703,Yêu Ông,O O,O O,[],[],0,0
+704,trời đất nào chiếm tiền của nhà nước mà thề ! nhưng bị cáo thì có! và quan trọng là tiền của nhân dân chứ nhà nước làm đách gì có tiền ! nhà nước chỉ giỏi phá tiền thôi !,O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O B-T I-T I-T O O O,O O O B-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[119, 120, 121, 122, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157]","[13, 14, 15, 16, 17, 19, 20, 21, 22, 24, 25, 26, 28, 29, 30, 32, 33, 34, 35, 37, 38, 40, 41, 42]",1,1
+705,Sao cai mieng no xau du vay.,O O O B-T B-T O O,O O O B-T B-T I-T I-T,"[14, 15, 17, 18, 19]","[14, 15, 17, 18, 19, 21, 22, 24, 25, 26, 27]",1,1
+706,Cho em 1000đô đi chị iêu,O O O O O O,O O O O O O,[],[],0,0
+707,Chẳng lẽ nên kêu người dân nhắn lại .. xin lỗi bác thủ tướng em bị lụt ko có điện thoại nên bác đừng nhắn đễ làm giàu cho nhà mạng,O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129]",[],1,0
+708,"Uh,dung roi,du ma no nua di admin",O B-T I-T I-T O O O,O O O B-T O O O,"[12, 13, 14, 15, 16, 17, 18, 19]","[18, 19]",1,1
+709,Đc anh ui,O O O,O O O,[],[],0,0
+710,như lon,O B-T,O B-T,"[4, 5, 6]","[4, 5, 6]",1,1
+711,"Thằng bê nầy nổ quá, cái miệng nầy tạo nghiệp, bê ng ta coi đc bê nầy khó coi quá",B-T I-T O B-T O O O O B-T I-T B-T O O O O B-T O B-T I-T O,B-T O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 15, 16, 17, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 56, 57, 72, 73, 80, 81, 82, 83, 84, 85, 86, 87]","[0, 1, 2, 3, 4, 5]",1,1
+712,Sống chậm lại đi các bác ơi 🤣🤣🤣,O O O O O O O O,O O O O O O O O,[],[],0,0
+713,"Nhà tiên tri hay đấy, ông có thêm 1 phiếu về VN chơi nhé 👌",O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+714,hủy thằng bố mày ý :)) ngu,O B-T I-T I-T O O B-T,O B-T I-T I-T O O B-T,"[4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25]","[4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 23, 24, 25]",1,1
+715,"Khùng quá thì đi chết sớm cho đỡ mang khẩu nghiệp mẹ ơi, già sắp chết ko lo nghĩ ngơi cho khỏe, suốt ngày lên xàm lồn cho chúng ghét",B-T O O O B-T O O O O B-T I-T O O B-T I-T I-T O O O O O O O O O B-T I-T O B-T B-T,B-T O O O B-T O O O O B-T I-T I-T O O O B-T O O O O O O O O O B-T I-T O O O,"[0, 1, 2, 3, 4, 17, 18, 19, 20, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 112, 113, 114, 115, 116, 117, 118, 124, 125, 126, 127, 128, 130, 131, 132, 133, 134]","[0, 1, 2, 3, 4, 17, 18, 19, 20, 38, 39, 40, 41, 43, 44, 45, 46, 47, 48, 49, 51, 52, 66, 67, 68, 69, 112, 113, 114, 116, 117, 118]",1,1
+716,Em lại gửi cô Panda 1 video của thầy nữa ạ,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+717,Tiến Lê bố m thích đấy đạo đức cl,O O B-T I-T O O O O B-T,O O O B-T O O O O B-T,"[8, 9, 10, 11, 31, 32]","[11, 31, 32]",1,1
+718,Ô này xin làm lảnh đạo chỉ nhận thù lao $1/1 năm(đở tốn lắm đó nhe.,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+719,còn bạn giúp người bằng bàn phím,O O B-T I-T I-T I-T I-T,O O O O O O O,"[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]",[],1,0
+720,"Cán Bộ, CA còn xuống cấp nghiêm trọng thảm hại.. Sao trách Dân đòi Dân phải ngoan, Thượng Bất chính Hạ ắt tắc loạn...",O O O O O O O O B-T I-T O O O O O O O B-T I-T I-T I-T I-T I-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O,"[38, 39, 40, 41, 42, 43, 44, 45, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113]",[],1,0
+721,Ngọc Hào la sao ong,O O O O O,O O O O O,[],[],0,0
+722,éo nha liu liu,B-T O O O,B-T O O O,"[0, 1]","[0, 1]",1,1
+723,Quả mồm sang đéo chịu dc kk,O B-T O B-T O O O,B-T I-T O B-T O O O,"[4, 5, 6, 13, 14, 15]","[0, 1, 2, 4, 5, 6, 13, 14, 15]",1,1
+724,Cực kỳ thuyết minh,O O O O,O O O O,[],[],0,0
+725,Cực kì thuyết phục tiếp đi,O O O O O O,O O O O O O,[],[],0,0
+726,from đen with love,O O O O,O O O O,[],[],0,0
+727,Bộ phim bắt kim thang mới còn ghê hơn:((((,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+728,Chị là người khẩu xà nhưng tâm phật. Chấp nhất gì vs cái thứ đó chị ơi,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+729,Độ yêu Trang như Khá Bảnh yêu Vinahouse :)) nhể ?,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+730,Vừa có tay maskeup  vừa giới thiệu làm đẹp... biết đâu thật đâu vẽ,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+731,Abe Giang hồ🤣,O O O,O O O,[],[],0,0
+732,"Viết cái cho lòng nhẹ ,đúng lúc máy bay rơi là lúc t bị chính quyền xã củ hành, thế nên a ức chế kệ mẹ bố con thằng nào chết ,người trong xã còn hành nhau thì tw nó cũng hành cút",O O O O O O O O O O O O B-T O O O O B-T I-T O O O O O O B-T B-T I-T I-T I-T B-T O O O O O O O O B-T O B-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O B-T O B-T O O O O O O O O B-T O O B-T,"[51, 71, 72, 73, 74, 75, 76, 77, 100, 101, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 120, 121, 122, 123, 162, 163, 170, 171, 172, 173, 174, 175, 176, 177]","[100, 101, 110, 111, 112, 113, 114, 120, 121, 122, 123, 162, 163, 175, 176, 177]",1,1
+733,Sao tôi nhận k đc vậy,O O O O O O,O O O O O O,[],[],0,0
+734,"Còn 1 câu, có nước mắt đâu mà lau !",O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+735,Đúng đó đi thách thức danh hài đi,O O O O O O O O,O O O O O O O O,[],[],0,0
+736,Phước Ngọc Nguyễn đcm =))))))))))))),O O O B-T O,O O O B-T O,"[18, 19, 20]","[18, 19, 20]",1,1
+737,Uầy đc a ưiii🤩,O O O O,O O O O,[],[],0,0
+738,Ms cs 3’ thui,O O O O,O O O O,[],[],0,0
+739,Con cháu Bec và Đảng cộng sản quang vinh muôn năm...🤣🤣🤣,B-T I-T I-T O O O O O O O O,O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",[],1,0
+740,Các bạn bị ngu hả đây là style mà.?,O O O B-T O O O O O,O O O B-T O O O O O,"[11, 12, 13]","[11, 12, 13]",1,1
+741,Ở nhà nó lụi vô đại cười rớt nước mắt,O O O O O O O O O O,O O B-T O O O O O O O,[],"[6, 7]",0,1
+742,Cương Đặng con mực mà,O O O O O,O O O O O,[],[],0,0
+743,Hoangphat Nguyen hơi trách đâu trách bà quỷ này bạn ơi.mình người miền nam nhưng nghe còn mệt hả luôn,O O O O O O O B-T O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O,"[40, 41, 42]",[],1,0
+744,Chừng 1 xe hốt rác là xong hết 😂,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+745,xin lỗi thầy 😭,O O O O,O O O O,[],[],0,0
+746,Duy Nguyen this me 🤣🤣🤣🤣🤣🤣 stay laughing in the middle of fun session,O O O O O O O O O O O O O,O B-T I-T I-T O O O O O O O O O,[],"[4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17]",0,1
+747,Dám phản động hả? kkkk .,O O O O O O,O B-T I-T O O O,[],"[4, 5, 6, 7, 9, 10, 11, 12]",0,1
+748,Phạm Thu Trang Nguyễn Minh Phượng hay là trang lòn nhỉ 🙂,O O O O O O O O O B-T O O,O O O O O O O O O O O O,"[47, 48, 49]",[],1,0
+749,Phạm Huy Đạt Đú và thử trải nghiệm dòng nhạc mới nó khác nhau nhé bạn ơi!!!,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O B-T O O O O O,[],"[49, 50]",0,1
+750,Ae có link xem chưa vào đây gái ngon lắm,O O O O O O O B-T I-T O,O O O O O O O O O O,"[28, 29, 30, 31, 32, 33, 34, 35]",[],1,0
+751,"Ông già tham vãi lồn.. tay một cái, mồm một cái",B-T I-T B-T B-T I-T O O O B-T O O,O O B-T I-T I-T I-T I-T I-T I-T O O,"[0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 36, 37, 38]","[8, 9, 10, 11, 13, 14, 15, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38]",1,1
+752,Tội nghiệp con này nghiệp nó nặng quá nó chết hết đầu thai,O O B-T O B-T B-T O O B-T B-T B-T I-T I-T,O O O O O B-T O O B-T B-T I-T I-T I-T,"[11, 12, 13, 19, 20, 21, 22, 23, 24, 26, 27, 38, 39, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]","[26, 27, 38, 39, 41, 42, 43, 44, 46, 47, 48, 50, 51, 52, 54, 55, 56, 57]",1,1
+753,Hồi sáng sau vào kênh của a châu không đc vậy ?,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+754,Co 3 đep qua co 3 oi...,O O O O O O O,O O O O O O O,[],[],0,0
+755,"Hành kinh VN đi, chung lòng cứu quốc...",B-T I-T O O O O O O,O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",[],1,0
+756,Cực kì thuyết phục :<,O O O O O,O O O O O,[],[],0,0
+757,Anh ơi cho em hỏi là con mèo nhà anh mua ở đâu vậy ạ :3,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+758,RF có đc top 1 thêm bnhieu lần nữa thì toiii vẫn ế,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+759,best xạo lol ý,O B-T I-T O,O B-T I-T O,"[5, 6, 7, 8, 9, 10, 11]","[5, 6, 7, 9, 10, 11]",1,1
+760,V bài đom dóm khi nào ra v ạ,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+761,được á,O O,O O,[],[],0,0
+762,Nguyễn Đăng Khoa thg học trò l này :))),O O O B-T O O B-T O O,O O O B-T O O B-T O O,"[17, 18, 19, 29]","[17, 18, 19, 29]",1,1
+763,Bé Nguyên Xinh Đẹp :)) ez,O O O O O O,O O O O O O,[],[],0,0
+764,Xấu  người  xấu  nết  nhìn  là biết  cái  miệng  đẻ ra  trước  (khẩu  nghiệp),B-T I-T I-T I-T O O O B-T I-T I-T I-T I-T B-T I-T,B-T I-T I-T I-T O O O O B-T I-T O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75]","[0, 1, 2, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 19, 42, 43, 44, 45, 46, 49, 50]",1,1
+765,được vl anh độ ạ😂,O B-T O O O,O B-T O O O,"[5, 6]","[5, 6]",1,1
+766,Hello Minh Hieu De Thuong Noi Chuyen Nghe Hay hay Giong Hy vui,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+767,Trend qq gì mà lạ lấm. Cãi lộn cát không,O B-T O O O O O O O O,O B-T O O O O O O O O,"[6, 7]","[6, 7]",1,1
+768,Thương chị quá :(((,O O O O,O O O O,[],[],0,0
+769,Xin video với bro 😄,O O O O O,O O O O O,[],[],0,0
+770,Linh Chi zề là duii rùiiii kakaa,O O O O O O O,O O O O O O O,[],[],0,0
+771,Sao lại có an vy vậy :v,O O O O O O O,O O O O O O O,[],[],0,0
+772,E trsi làm cái cằm nhọn quá,O O O O O O O,O O O O O O O,[],[],0,0
+773,"Nói như là VN chẵng có cái nào. Nhờ đãng và nhà nước nên giờ chiếm được 21 điểm. Còn cái vụ năm 74 cứ trách người ở Miền Nam. Thế có thằng ở miền bắc nào đó đã nói là trung quốc chiếm giùm, mai mốt sẽ trả lại.",O O O O O O O O O O O O O O O B-T O O O O O O O O O B-T O O O O O O B-T O O O O O O O O O O B-T O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O,"[61, 62, 63, 64, 65, 102, 103, 104, 105, 106, 133, 134, 135, 136, 137, 178, 179, 180, 181, 182]","[133, 134, 135, 136, 137]",1,1
+774,Nguyễn Vĩnh San suỵt,O O O O,O O O O,[],[],0,0
+775,"Đm nó bây giờ mày là thằng ất ơ mới vào làm thì đm trên dưới cả bộ máy nó ăn thì mày có dám không ăn ? Còn cha mẹ phải nuôi còn dự định tương lai đm ở đâu cũng thế thôi , trên mạng ai biết mày là ai mày nói như kiểu thánh thiện lắm nhưng mà đời sống đéo có cái bỏ vào mồm thì xin mượn lời Ngọc Trinh là "" cạp đất mà ăn"" nhé . Thân ái",B-T I-T O O B-T O B-T I-T I-T O O O O B-T O O B-T I-T I-T I-T I-T O B-T O O O O O O O O O O O O O O O B-T O O O O O O O O O O B-T O O B-T O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O O O,B-T B-T O O B-T O B-T I-T I-T O O O O B-T O O O O O B-T O O B-T O O O O O O O O O O O O O O O B-T O O O O O O O O O O B-T O O B-T O O O O O O O O O O B-T O O B-T I-T I-T O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 14, 15, 16, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 48, 49, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 81, 82, 83, 146, 147, 189, 190, 191, 199, 200, 201, 250, 251, 252]","[0, 1, 3, 4, 14, 15, 16, 21, 22, 23, 24, 25, 27, 28, 30, 48, 49, 71, 72, 81, 82, 83, 146, 147, 189, 190, 191, 199, 200, 201, 250, 251, 252, 261, 262, 264, 265, 266, 268, 269, 270]",1,1
+776,Con co rona dau mà hỏng tap vo coi mo di nay vun on,O O O O O O O O O O O O O O,B-T I-T I-T I-T O O O O O O O O O O,[],"[0, 1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 14]",0,1
+777,dân ngu cu đen chết cả thôi,B-T I-T I-T I-T B-T O O,O B-T I-T I-T I-T O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18]","[4, 5, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18]",1,1
+778,Bắn bỏ đi thứ lắm Tiền mà cặn bã xã hội,B-T O O B-T O O O B-T I-T O O,B-T I-T O O O O O B-T I-T O O,"[0, 1, 2, 10, 11, 12, 26, 27, 28, 29, 30, 31]","[0, 1, 2, 4, 5, 26, 27, 28, 30, 31]",1,1
+779,Con điên,B-T I-T,B-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7]","[0, 1, 2, 4, 5, 6, 7]",1,1
+780,Cô dễ thương quá 😍😍,O O O O O,O O O O O,[],[],0,0
+781,bắc kỳ theo cs đánh chiếm miền nam =))),B-T I-T O O B-T I-T O O O,B-T I-T I-T I-T I-T I-T O O O,"[0, 1, 2, 3, 4, 5, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]","[0, 1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 20, 21, 22, 23, 24]",1,1
+782,"Xin lỗi :(( 10 năm trc bán hàng onl còn chưa dc phổ biến lắm :((, nói chi là có livestream lúc ấy :((  Con này nó xạo vl :<",O O O O O O O O O O O O O O O O O O O O O O O O B-T O B-T B-T I-T O,O O O O O O O O O O O O O O O O O O O O O O O O O O B-T B-T B-T O,"[103, 104, 105, 111, 112, 114, 115, 116, 117, 118, 119]","[111, 112, 114, 115, 116, 118, 119]",1,1
+783,Tấc nhiêng chỉ lung lay mỗi bộ xay xát thôi ..,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+784,Hạ Anh tiền đang nhiều quá. Mà giờ cách ly chưa ai tiêu hộ đây,O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+785,Em thấy lủ chó Viêt Tân là có thwn thái nhất. Tiếc là nó đã lưu vog,O O B-T I-T I-T I-T O O O O O O O B-T O B-T I-T,O O B-T I-T O O O O O O O O O B-T O O O,"[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 54, 55, 60, 61, 62, 63, 64, 65, 66]","[8, 9, 11, 12, 13, 54, 55]",1,1
+786,0338929069catvitel chị ba,O O O,O O O,[],[],0,0
+787,"Cũng đồng ý vs ad nhưng bạn m từ khi tham gia và đọc từng câu từng chữ bài đăng của ad thì thay đổi hẳn,từ đứa ngoan hiền thành láo xược,có tí chuyện là chửi bới um lên,1 lol 2 lol. Buồn hẳn :'(",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O B-T I-T O O B-T O B-T O O O,O O O O O O O B-T O O B-T I-T O O O O O O O O O O O O O O O O O O B-T O O O O B-T B-T I-T I-T I-T O O O O O,"[128, 129, 130, 131, 132, 133, 134, 135, 153, 154, 155, 156, 157, 158, 159, 160, 171, 172, 173, 177, 178, 179]","[28, 37, 38, 39, 40, 42, 43, 44, 128, 129, 130, 153, 154, 155, 156, 158, 159, 160, 162, 163, 165, 166, 167, 168, 169, 171, 172, 173]",1,1
+788,Cùng một lỗ đẻ ra và ngu như nhậu,O O B-T I-T O O B-T O O,O O B-T I-T O O B-T O O,"[9, 10, 11, 12, 13, 21, 22, 23]","[9, 10, 12, 13, 21, 22, 23]",1,1
+789,Cố lên ABe ơiii em tin tưởng vào TAM KÊ SBTC,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+790,"Du na chet bat thuong o trai tam giam,chu vo fai o benh vien deo dau ma tui bay dao boi ,soi moc, xoay sau vao lam ccc j z",B-T I-T B-T O O O O O O O O O O O B-T O O O O O O B-T I-T O O O O B-T O O,O O O O O O O O O B-T I-T I-T I-T I-T B-T O O O O O O O O O O O O B-T O O,"[0, 1, 2, 3, 4, 6, 7, 8, 9, 61, 62, 63, 89, 90, 91, 92, 93, 94, 95, 115, 116, 117]","[42, 43, 45, 46, 47, 49, 51, 52, 53, 54, 56, 57, 58, 59, 61, 62, 63, 115, 116, 117]",1,1
+791,"May Cha  H O an Tro. Cap.  Ranh c. Di ngoi le.  Nhieu chuyen.  Do   Cai Thu , do tam than",O B-T O O O B-T I-T O B-T O B-T I-T B-T I-T O B-T I-T O O B-T I-T,B-T O O O O O O O O O O O O O O O O O O O O,"[4, 5, 6, 16, 17, 18, 19, 20, 21, 22, 23, 32, 38, 39, 40, 41, 42, 43, 44, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 68, 69, 70, 71, 72, 73, 74, 81, 82, 83, 84, 85, 86, 87, 88]","[0, 1, 2]",1,1
+792,theo chân mấy anh hàn quốc rồi :,O O O O O O O O,O O O O O O O O,[],[],0,0
+793,Văn Tuấn Mai nước hoa như nước sông vậy đó mà nói chuyện xạo lồn,O O O O O O B-T I-T O O O O O B-T I-T,O O O O O O O O O O O O O B-T I-T,"[26, 27, 28, 29, 30, 31, 32, 33, 34, 57, 58, 59, 60, 61, 62, 63]","[57, 58, 59, 61, 62, 63]",1,1
+794,"Trúc Phạm mấy đứa đc lắm, diễn đạt lắm 🤣",O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+795,Trần Ngọc Dũng người bắc thì nói bắc..có cc gì mà phải nhột?,O O O O O O O O B-T O O O B-T,O O O O O O O O B-T O O O O,"[41, 42, 55, 56, 57, 58]","[41, 42]",1,1
+796,"Tôi không dùng bảo hiểm , bởi vì bác sĩ coi thường sức khỏe bệnh nhân dùng bảo hiểm !!!!!!",O O O O O O O O O O B-T I-T O O O O O O O O,O O O O O O O O O O O O O O O O O O O O,"[40, 41, 42, 43, 44, 45, 46, 47, 48, 49]",[],1,0
+797,Thu Tâm Vũ,O O O,O O O,[],[],0,0
+798,Mong mấy bác được cách li ở nhà đừng trốn là em vui rồi :))))) cứ đi nhông nhông thì em cũng sợ :)))),O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+799,"Cô Minh Hiếu dễ thương quá trời quá đất,  tập này cô hút hết hào quang của chị "" Chi"" anh Tuân rồi . Ta nói gầu ghê luôn á 😆",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+800,Dm Tôn Ngộ Không trông chán 🙂,B-T O O O O O O,B-T O O O O O O,"[0, 1]","[0, 1]",1,1
+801,Chang Chang 🥥🥥🥥🥥,O O O,O O O,[],[],0,0
+802,"Đụ má chị ba xạo lồn, giàu quá sao không trả nợ cho chị minh hiếu đi, nhà cô ba chắc ở gần kho bom.ai ở gần coi chừng bị nổ banh xac👎",B-T I-T O O B-T I-T O O O O O O O O O O O O O O O O O B-T I-T O O O O O B-T I-T I-T,B-T I-T O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T,"[0, 1, 2, 3, 4, 13, 14, 15, 16, 17, 18, 19, 91, 92, 93, 94, 95, 96, 97, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132]","[0, 1, 3, 4, 13, 14, 15, 17, 18, 19, 20, 121, 122, 124, 125, 126, 127, 129, 130, 131, 132]",1,1
+803,"tiêu thụ bia nhiều nhất, trẻ trâu nhiều nhất :))",B-T I-T I-T I-T I-T I-T I-T I-T I-T O,O O O O O B-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]","[25, 26, 27, 29, 30, 31, 32]",1,1
+804,ĐÉO MĘ VÀNG NĢOC CÁI ĐÉO GÌ LÁO PHÉT.SĄO KE.ĐĮT.MĘ TŲI DÂN TRUNG QUŐC NÓ CHÔN SŐNG NĮ. BÂY GIÖ ĐÂY.ĐÉO MĘ DÂN LÀM NAIL. MÀ SÕ LÁ. LO LA LÊN MĄNG. NÓI LÀ SŐNG MÃN ĐÖI TRÊN NHUNG LŲA  CÁI ĐÉO GÌ.DÂN CHÓ ĐÉO. SŐNG GÏA TĄO THÌ CÓ.,B-T I-T O O O B-T O B-T I-T B-T O O O O B-T I-T I-T I-T O O B-T I-T O O O O B-T I-T O O O O O O O O O O O O O B-T B-T I-T I-T B-T I-T I-T O O,B-T O O O O B-T O B-T O O O O O O B-T B-T O O O O O O O O O O O O O O O O O O O O O O O O O B-T O B-T O O O O O O,"[0, 1, 2, 3, 4, 5, 21, 22, 23, 28, 29, 30, 31, 32, 33, 34, 35, 44, 45, 46, 47, 48, 49, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 99, 100, 101, 102, 103, 104, 123, 124, 125, 126, 127, 186, 187, 188, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217]","[0, 1, 2, 21, 22, 23, 28, 29, 30, 70, 71, 73, 74, 75, 76, 186, 187, 188, 197, 198, 199]",1,1
+805,"Cần xử tử con thú máu lạnh này vì nếu để nó sống , xã hội sẽ nguy hiểm hơn !",O O O B-T I-T I-T I-T O O O O O O O O O O O O O O,O B-T I-T I-T I-T I-T I-T O O O O B-T O O O O O O O O O,"[10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]","[4, 5, 7, 8, 10, 11, 12, 14, 15, 16, 18, 19, 20, 22, 23, 24, 25, 41, 42]",1,1
+806,Quốc Đạt nước đi chính xác đấy :))),O O O O O O O O,O O O O O O O O,[],[],0,0
+807,Khánh Robinson woaooo,O O O,O O O,[],[],0,0
+808,Phạm Hương người ta gọi là đi trước thời đại đấy bạn ạ,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+809,Biến lun cho đẹp bầu trời. Tui qá mệt mõi rồi,B-T O O O O O O O O O O,O O O O O O O O O O O,"[0, 1, 2, 3]",[],1,0
+810,dcm =))),B-T O,B-T O,"[0, 1, 2]","[0, 1, 2]",1,1
+811,Nghe có vẻ vô lý nhưng vô cùng thuyết phục,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+812,Nhìn kỹ mặc cô ba giống đàn ông ghê,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+813,baroibeo,O,O,[],[],0,0
+814,Nhà phát hành phim:,O O O O,O O O O,[],[],0,0
+815,Gia Minh thầy bị camp chứ đánh lủng cc đâu petland quăng mạnh vcl ra ấy :)),O O O O O O O O B-T O O O O B-T O O O,O O O O O O O O B-T O O O O B-T O O O,"[36, 37, 62, 63, 64]","[36, 37, 62, 63, 64]",1,1
+816,😑,O,O,[],[],0,0
+817,Con này nó bỏ quên não khi chạy xe rùi.😈,B-T O B-T O O B-T O O O B-T,B-T O B-T I-T I-T I-T O O O O,"[0, 1, 2, 8, 9, 19, 20, 21, 39]","[0, 1, 2, 8, 9, 11, 12, 14, 15, 16, 17, 19, 20, 21]",1,1
+818,Thật ra là quên kéo khóa quần ngoài lộ quần trong nên để lộ hẳn thành phong cách mới cho nó đỡ quê,O O O B-T I-T I-T I-T O O B-T I-T O O O O O O O O O O O B-T,O O O B-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O B-T O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 95, 96, 97]","[11, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23, 25, 26, 27, 28, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42, 89, 90]",1,1
+819,Mời em về với tộc của anh ...,O O O O O O O O,O O O O O O O O,[],[],0,0
+820,Lee Sin lol mẹ giáo án kiểm soát của thầy Tú,O O B-T I-T O O O O O O O,O O B-T I-T O O O O O O O,"[8, 9, 10, 11, 12, 13]","[8, 9, 10, 12, 13]",1,1
+821,Tội nghiệp ông Hùng với bà Tư Nha quá. Biết tới cô là clip ông Hùng đụ bà Tư Nha nín thở..,O O O O O O O O O O O O O O O O B-T O O O O O,O O O O O O O O O O O O O O O O O O O O O O,"[68, 69]",[],1,0
+822,Cho tui cái Facebook của bả đi,O O O O O O O,O O O O O O O,[],[],0,0
+823,Thanh Hải có lên Tạ Hiện quẩy ko đấy,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+824,Chị người việt hả chị gái.  Chị đẹp gái quá,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+825,Bao nhiêu tiền đem cho con đi định cư bên mẽo cả rồi,O O O O O O O O O O B-T O O,O O O O O O O O O O B-T O O,"[42, 43, 44]","[42, 43, 44]",1,1
+826,Thôn làm là tham lồn còn thôn lầm là do thâm lồn của con gái mẹ chúng nó,B-T I-T O B-T I-T O B-T I-T O O B-T I-T O O O B-T I-T I-T,O O O B-T I-T O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,"[0, 1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 25, 26, 27, 28, 29, 30, 31, 32, 40, 41, 42, 43, 44, 45, 46, 47, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]","[12, 13, 14, 15, 17, 18, 19, 25, 26, 27, 28, 30, 31, 32, 34, 35, 37, 38, 40, 41, 42, 43, 45, 46, 47, 49, 50, 51, 53, 54, 55, 57, 58, 59, 61, 62, 64, 65, 66, 67, 68, 70, 71]",1,1
+827,Nghe bác nói vui tai mà. Mỗi người 1 chính kiến. Bác cứ tiếp tục nhé.,O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+828,"Phải nói cho rõ là Chính phủ tặng chứ thủ tướng lương có hai chục triệu thì lấy đâu ra tiền mà tặng, thực tế thì ông cũng ko bỏ tiền túi ra!",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+829,"Kéo khoá sợ ""ngột ngạt""",O O O O O,O O O O O,[],[],0,0
+830,Đù ..đăńg qúa,O O O,O O O,[],[],0,0
+831,Và bộ tộc mixi cũng từ đó ra đời dưới sự lãnh đạo của tộc trưởng người Cao Bằng buồi to như lõi giấy vệ sinh =)),O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T O,O O O O O O O O O O O O O O O O O O O B-T O O O O O O O,"[80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107]","[80, 81, 82, 83]",1,1
+832,Kay vl đang ngon bỗng nhớ lại mấy chuyện sân si suýt cười ỉa =)))))) Triệu Huy Tú,O B-T O O O O O O O O O O O B-T O O O O,O B-T O O O O O O O B-T I-T O O B-T O O O O,"[4, 5, 58, 59]","[4, 5, 41, 42, 43, 45, 46, 58, 59]",1,1
+833,"Cũng có 16x cái like , 1 là ngu giống admin , 2 là like thương hại :v",O O O O O O O O B-T O O O O O O B-T I-T O,O O O O O O O O B-T O O O O O O O O O,"[28, 29, 30, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]","[28, 29, 30]",1,1
+834,Tởm,B-T,B-T,"[0, 1, 2]","[0, 1, 2]",1,1
+835,. Good luck to all my friends.. ☘️,O O O O O O O O,O O O O O O O O,[],[],0,0
+836,giống sương sương,O O O,O O O,[],[],0,0
+837,Con yên tâm bố cũng hòm hòm 7-8 triệu/tháng thôi nhưng vẫn lo được 2 bữa tôm hùm 1 bữa cua alaska cho con đều được :v,O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+838,Hoa hồng thì có màu đỏ🌹,O O O O O O,O O O O O O,[],[],0,0
+839,Đào Mạnh An bên đấy nó vẫn coi đay là cúm bt thôi tự mua thuốc về mà uống:)),O O O O O O O O O O O O O O O O O O O,O O O O O B-T O O O O O O O O O O O O O,[],"[20, 21]",0,1
+840,cay vl 😞,O B-T O,O B-T O,"[4, 5]","[4, 5]",1,1
+841,And DLV come in 3...2...,O O O O O,O O O O O,[],[],0,0
+842,Ok thầy :),O O O,O O O,[],[],0,0
+843,"tháng nào cũng đi đóng thuế để giải quyêt ngân sách kiểu này đây ,xây tượng góp phần giàu đẹp đất nước còn gì haha",O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+844,"Bị nhiễm covit 19 sao ko ở bên anh mà chữa về VN làm đéo gì để lây nhiễm người khác tốn kém tiền nhà nước ,bọn nhà giầu đú đỏn",O O O O O O O O O O O O O O B-T O O O O O O O O O O O B-T O O B-T I-T,O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O,"[53, 54, 55, 107, 108, 109, 120, 121, 122, 123, 124, 125]","[53, 54, 55]",1,1
+845,qua page Comcom xem dân VN cũng có nhiều thằng ngu tương tự đó :)))),O O O O O O O O O B-T I-T O O O O,O O O O O O O O O B-T I-T O O O O,"[44, 45, 46, 47, 48, 49, 50, 51, 52, 53]","[44, 45, 46, 47, 48, 49, 51, 52, 53]",1,1
+846,Sắp đc 1 năm r :v,O O O O O O,O O O O O O,[],[],0,0
+847,Đừng so sánh 2 thầy ngu,O O O O O B-T,O O O O O B-T,"[20, 21, 22]","[20, 21, 22]",1,1
+848,Còn đó nó bị nứng lồn rồi nên nó chọc Ng ta,B-T O B-T O B-T I-T O O B-T B-T O O,O O B-T O B-T I-T O O B-T O O O,"[0, 1, 2, 7, 8, 13, 14, 15, 16, 17, 18, 19, 20, 30, 31, 33, 34, 35, 36]","[7, 8, 13, 14, 15, 16, 18, 19, 20, 30, 31]",1,1
+849,Vãi lìn 😂😂,B-T I-T O,B-T I-T O,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+850,"mà t cũng đ' hiểu, rõ ràng là bọn quan nó cũng dùng nước mà ? Hay bọn nó có nguồn nước riêng nên kệ mẹ dân ???",O B-T O B-T O O O O O O B-T O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O,O B-T O B-T O O O O B-T I-T I-T O O O O O O B-T I-T O O O O O O B-T O O,"[3, 10, 39, 40, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105]","[3, 10, 11, 30, 31, 32, 34, 35, 36, 37, 39, 40, 66, 67, 68, 70, 71, 100, 101]",1,1
+851,áo với quần này đẹp hơn nè thầy ơi =)),O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+852,Tú là con đĩ của aBe hãy gọi aBe là Daddy điiiiii,O O B-T I-T O O O O O O O O,O O B-T I-T O O O O O O O O,"[6, 7, 8, 9, 10, 11]","[6, 7, 8, 10, 11]",1,1
+853,Like hộ mình cái ảnh bià với ạ,O O O O O O O O,O O O O O O O O,[],[],0,0
+854,Lê Ngọc Đức,O O O,O O O,[],[],0,0
+855,Nhanh khỏi còn về đá wc🤣,O O O O O O,O O O O O O,[],[],0,0
+856,Bao giờ thpt đc nghỉ học mặc dù lùi lịch thi r :),O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+857,"Móa , tài sản mấy ổng từ cướp dân mà ra ko chứ ai",B-T O O O O O O B-T O O O O O O,O O O O O O O B-T O O O O O O,"[0, 1, 2, 25, 26, 27, 28]","[25, 26, 27, 28]",1,1
+858,Khiếp cái quả mồm của ông đấy chắc huyền thoại cmnr 😂😂,B-T O O B-T O O O O O O B-T O,O O B-T I-T O O O O O O O O,"[0, 1, 2, 3, 4, 14, 15, 16, 47, 48, 49, 50]","[10, 11, 12, 14, 15, 16]",1,1
+859,Lisa là con phản động.. ///. Sao bằng cô này,O O B-T I-T I-T B-T O O O O,O O O O O O O O O O,"[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, 25, 26]",[],1,0
+860,"Kết quả từ sự lãnh đạo của đả: tham nhũng tràn lan nên mới gây ra đại họa này ( làm đường thì bớt vật liệu chất lượng kém, lái xe thì mua bằng , chạy quá tốc độ thì đã được chó vàng bảo kê khi đã nộp mãi lộ, đăng kiểm thì kiểm tra bằng tiền .....)đmcs",O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O O B-T I-T I-T I-T B-T,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 173, 174, 175, 176, 177, 178, 179, 180, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 247, 248, 249, 250]",[],1,0
+861,trong nội bộ tổ chức tụi bây còn không tin nhau thì nhân dân nào mà tin tuyên giáo búa liềm,O O O O O B-T I-T O O O O O O O O O O O O B-T I-T,O O O O O B-T I-T O O O O O O O O O O O O B-T I-T,"[21, 22, 23, 24, 25, 26, 27, 83, 84, 85, 86, 87, 88, 89, 90]","[21, 22, 23, 25, 26, 27, 83, 84, 85, 87, 88, 89, 90]",1,1
+862,TPhcm có chợ nổi,O O O O,O O O O,[],[],0,0
+863,"May thsng noi doc , cong san gioi lam ko can may thsng vo dung 3 que dau.",O B-T O O O B-T I-T I-T I-T O O O B-T O O B-T I-T O,O O O O O O O O O O O O O O O B-T I-T O,"[4, 5, 6, 7, 8, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 49, 50, 51, 52, 53, 63, 64, 65, 66, 67]","[63, 65, 66, 67]",1,1
+864,Chỉ 3 vàng ngọc như con heo nọc nhà e,B-T I-T I-T I-T I-T I-T I-T I-T O O,B-T I-T I-T I-T I-T I-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]","[0, 1, 2, 3, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 23, 24, 25, 27, 28, 29]",1,1
+865,gáy đê thầy ơi,O O O O,B-T I-T O O,[],"[0, 1, 2, 4, 5]",0,1
+866,xd ko có giấy phép mà -_-,O O O O O O O,O O O O O O O,[],[],0,0
+867,Việc nhẹ lương cao mình xin nhường cho những người thất nghiệp:)),O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+868,Chậm thôi các ông...,O O O O,O O O O,[],[],0,0
+869,Kaxỹyyyy Katm??? What????,O O O,O O O,[],[],0,0
+870,Anh sinh viên nghèo Hải Phòng và Con cave già Sa Đéc !,O O O O O O O B-T I-T I-T O O O,O O O O O O O B-T I-T I-T O O O,"[33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]","[33, 34, 35, 37, 38, 39, 40, 42, 43, 44]",1,1
+871,Ko ghi Trang mixi lại tưởng e nào khác 🤣🤣🤣,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+872,Gái hay trai vậy,O O O O,O O O O,[],[],0,0
+873,Câu Fame vớ vẩn,B-T O B-T I-T,O O O O,"[0, 1, 2, 9, 10, 11, 12, 13, 14]",[],1,0
+874,Trong khi thế giới đang đi lên thì nước mình lại đi xuống...,O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,O O O O O O O O O O O O O,"[10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]",[],1,0
+875,Táo quân năm nay người đóng vai ngọc hoàng là Idol Lộc Fuho phải không mọi người? :)),O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,[],[],0,0
+876,Phương Thảo nom có như thằng trẻ trâu ở quê không,O O O O O B-T B-T I-T O O O,O O O O O B-T I-T I-T O O O,"[23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36]","[23, 24, 25, 26, 27, 29, 30, 31, 33, 34, 35, 36]",1,1
+877,"Philip lấy dữ liệu đâu vậy ad...tổ chức cái giải ao làng còn đéo có tiền,vũ khí thì ko có cái j ra hồn.Dữ liệu thế mà bọn 3 que nó tin được.Chứng tỏ bọn chống cộng toàn lợn",O O O O O O O O O O O O O B-T O O O O O O O O O O O O O B-T I-T I-T B-T O O O B-T O O O B-T,O O O O O O O O O O O O O B-T O O O O O O O O O O O O O B-T I-T I-T B-T O O B-T I-T O O O O,"[61, 62, 63, 118, 119, 120, 121, 122, 123, 124, 125, 126, 128, 129, 149, 150, 151, 169, 170, 171]","[61, 62, 63, 118, 119, 120, 122, 124, 125, 126, 128, 129, 146, 147, 149, 150, 151]",1,1
+878,"Chị nói đúng quá. Trời mưa còn tắc đường nữa. Đi ô tô thì còn lâu mới thoát, chứ đi xe máy thì tí là lách đc rồi =))",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+879,dkm chung no ko tiem cho cac chau sau nay lay ai giu nuoc,B-T B-T I-T O O O O O O O O O O O,B-T O B-T O O O O O O O O O B-T I-T,"[0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11]","[0, 1, 2, 10, 11, 49, 50, 51, 53, 54, 55, 56]",1,1
+880,hậu duệ mặt dày,O O B-T I-T,O O O O,"[8, 9, 10, 11, 12, 13, 14]",[],1,0
+881,Có thêm vài người như nhung thì toang.,B-T I-T I-T I-T I-T I-T I-T I-T,O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]",[],1,0
+882,tao lại dưới loz tao lại lên .kkk,O B-T O B-T O B-T O O,B-T O O B-T B-T O O O,"[4, 5, 6, 13, 14, 15, 21, 22, 23]","[0, 1, 2, 13, 14, 15, 17, 18, 19]",1,1
+883,Thùy Promise nghe Hư Trúc nhưng lại rất Mộ Dung Phục à emmm???,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+884,Phan cứng trong sự ngỡ ngàng😀,O O O O O O,O O O O O O,[],[],0,0
+885,vậy nên mới gia nhập TPP :3,O O O O O O O,O O O O O O O,[],[],0,0
+886,Trang lồn trâu này chả khác đéo gì việt tân. Fan thì địt có ai. Toàn gây thù chuốc oán cho nhau. Còn những thằng cmt ở trên vs những cái suy nghĩ lệch lạc cũng chẳng khác lồn gì lũ bán nước.,O B-T I-T O O O B-T O O O O O B-T O O O B-T I-T I-T I-T O O O O B-T O O O O O O O O B-T I-T O O O B-T O B-T I-T I-T,O B-T I-T O O O B-T O O O O O B-T O O O O O O O O O O O B-T O O O O O O O O O O O O O B-T O B-T I-T I-T,"[6, 7, 8, 9, 10, 11, 12, 13, 28, 29, 30, 53, 54, 55, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 107, 108, 109, 110, 111, 146, 147, 148, 149, 150, 151, 152, 153, 171, 172, 173, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188]","[6, 7, 8, 10, 11, 12, 13, 28, 29, 30, 53, 54, 55, 107, 108, 109, 110, 111, 171, 172, 173, 178, 179, 181, 182, 183, 185, 186, 187, 188, 189]",1,1
+887,Cày view video này đê mn cho lên top trending nào 🤪,O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+888,Ngu thì chết chứ bệnh tật j. Thắng lại làm j,B-T O B-T I-T I-T I-T I-T O O O O,B-T O B-T I-T I-T I-T O O O O O,"[0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]","[0, 1, 2, 8, 9, 10, 11, 13, 14, 15, 17, 18, 19, 20, 22, 23, 24]",1,1
+889,Cây ATM cao lãnh,O O O O,O O O O,[],[],0,0
+890,"add còn viết tắt của address nữa, ngu!",O O O O O O O B-T,O O O O O O O O,"[34, 35, 36]",[],1,0
+891,"haha chúng nó tính thoát trung bằng các chui vào rọ Mỹ =)) thoát thoát cái cm mấy thằng phản động , não chó bày đặt chê bai",O B-T I-T O B-T I-T O O B-T I-T I-T I-T O O O O B-T B-T I-T I-T I-T O B-T I-T B-T I-T I-T I-T,O B-T I-T O O O O O B-T O O O O O O O B-T O B-T B-T I-T I-T I-T I-T O O O O,"[5, 6, 7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 75, 76, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 100, 101, 102, 103, 104, 105, 106, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]","[5, 6, 7, 8, 9, 11, 12, 40, 41, 42, 43, 75, 76, 82, 83, 84, 85, 86, 88, 89, 90, 91, 93, 94, 95, 96, 98, 100, 101, 102, 104, 105, 106]",1,1
+892,vcl,B-T,B-T,"[0, 1, 2]","[0, 1, 2]",1,1
+893,Quang Hải công khai ở đâu thế ạ ?,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+894,"Thương thầy , thầy sela",O O O O O,O O O O O,[],[],0,0
+895,Có cc nè em :),O B-T O O O,O B-T O O O,"[3, 4]","[3, 4]",1,1
+896,Xạo l*n quen rồi bạn ơi. 😄,B-T I-T O O O O O,B-T I-T O O O O O,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+897,Giờ này chắc con mụ này nhục lắm đây.,O O O B-T I-T O O O O,O O O B-T I-T O B-T O O,"[13, 14, 15, 16, 17, 18]","[13, 14, 15, 17, 18, 24, 25, 26, 27]",1,1
+898,Bãi cức nào cũng có dấu răng của AD ^^,O B-T O O O O O O O O,B-T I-T I-T I-T I-T I-T I-T O O O,"[4, 5, 6]","[0, 1, 2, 4, 5, 6, 8, 9, 10, 12, 13, 14, 15, 17, 18, 20, 21, 22, 24, 25, 26, 27]",1,1
+899,"Lão già này đã mở được mắt rôi à, năm 2022 quoay đầu về bờ , đúng là đồ dở hết đường đi. Võ ông đánh gà ko tụt lông.",B-T I-T O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O B-T,B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 69, 70, 71, 72, 73, 111, 112, 113, 114]","[0, 1, 2, 4, 5, 6]",1,1
+900,có shipcode không chế :v,O O O O O,O O O O O,[],[],0,0
+901,"Nguyễn Thị Thủy Tiên miễn là vẫn có tiền trả cho nhân viên thì ngta vẫn làm, nhưng những chỗ khác ko có tiền trả lương thì phải chịu rồi",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+902,Úi tốt nghiệp còn không đỗ thì làm được gì các em ơiii😫😫😫,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+903,Ăn mặc như loz,O O O B-T,O O O B-T,"[11, 12, 13]","[11, 12, 13]",1,1
+904,Ngọc Quyên cẩn thận nè e,O O O O O O,O O O O O O,[],[],0,0
+905,Vẫn cứ là okk thầy nhỉ :))),O O O O O O O,O O O O O O O,[],[],0,0
+906,Sống chậm nhé ae :)),O O O O O,O O O O O,[],[],0,0
+907,Nó lại được vãi lòn,B-T O O B-T I-T,B-T O O B-T I-T,"[0, 1, 12, 13, 14, 15, 16, 17, 18]","[0, 1, 12, 13, 14, 16, 17, 18]",1,1
+908,Like cho cô 👍,O O O O,O O O O,[],[],0,0
+909,"alloc(init,512, GetTickCount)",O O,O O,[],[],0,0
+910,Đỏ gì mà ở ngay sát bờ là sao ?,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+911,"Võ Hồng Gấm rồi mấy đó tiếp xúc với thêm nhiều người khác nữa á,nghe mà ớn lạnh,cầu mong cho đừng ai nhiễm nữa,k ở quê làm rần rần riết chị muốn bệnh lun á",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+912,Cuộc sống mà 😩,O O O O,O O O O,[],[],0,0
+913,Abe bucu,O B-T,O O,"[4, 5, 6, 7]",[],1,0
+914,Vẫn là anh tôi sau khi cưới chị trang:)),O O O O O O O O O,O O O O O O O O O,[],[],0,0
+915,Đeo xong lại kéo xuống,O O O O O,O O O O O,[],[],0,0
+916,Link em gái ngon ngọt nước nè bao phê luôn,O O O B-T I-T I-T O O B-T O,O O O O O O O O O O,"[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 34, 35, 36]",[],1,0
+917,Này thì trend này🤦‍♀️🤦‍♀️,O O O O,O O O O,[],[],0,0
+918,"Nhìn chị Minh Hiếu có duyên hết sức, nói chuyện rất chân thật, mặc dù mỗi lần live chửi rất táo tợn nhưng nghe và nhìn chị ấy rất thánh thiện và chất. Chúc chị luôn vui khoẻ và hp. Mong có dịp sẽ được gặp chị",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+919,"Quang là ca sĩ đó bạn , ko thi chương trình nào hết nhưng hát rất hay nên mọi ng thần tượng gọi là idol ^^",O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+920,Khá tú,O O,O O,[],[],0,0
+921,Nhảy ổn như mạng nhà t😕,B-T I-T I-T I-T I-T I-T,O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]",[],1,0
+922,Thanh Tuấn nghe mùi hôi thúi như cứt từ miệng bạn,O O O O B-T I-T O B-T O O O,O O O O B-T I-T I-T I-T O O O,"[20, 21, 22, 23, 24, 25, 26, 27, 33, 34, 35]","[20, 21, 22, 24, 25, 26, 27, 29, 30, 31, 33, 34, 35]",1,1
+923,Dân InDo t thấy đéo hiểu nội dung nó nói về cái gì,O O B-T O B-T O O O B-T O O O O,O O B-T O B-T O O O B-T O O O O,"[9, 16, 17, 18, 34, 35]","[9, 16, 17, 18, 34, 35]",1,1
+924,Nghe giọng mà n*ng hết sức :))))),O O O B-T O O O,O O O B-T O O O,"[14, 15, 16, 17]","[14, 15, 16, 17]",1,1
+925,Đầu óc lão này có vấn đề kiểu gì ấy,B-T I-T I-T I-T I-T I-T I-T O O O,B-T I-T I-T O O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]","[0, 1, 2, 4, 5, 7, 8, 9]",1,1
+926,"Thực dân pháp rất ác đè đầu cởi cổ thu trăm thư thuế, bây giờ dân tự nguyện đóng nghìn thứ thuế",O O O O B-T B-T I-T I-T I-T O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O,"[21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]",[],1,0
+927,Trời ơi kg ai xấu bằng con quỉ cái miệng rộng. Mở miệng ra dơ dái mất dạy. Nhà khổ thấy mẹ chắc đeo ba vàng giả chứ gì.,O O O O B-T O B-T I-T I-T I-T I-T O O O B-T I-T B-T I-T O B-T I-T I-T O O O O B-T O O,O O O O O O O O O O O O O O B-T I-T I-T I-T O O O B-T O O O O O O O,"[14, 15, 16, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 108, 109, 110]","[59, 60, 62, 63, 64, 66, 67, 68, 70, 71, 72, 73, 88, 89]",1,1
+928,b52 ơi lứng quá B52 i,O O B-T O O O,O O O O O O,"[7, 8, 9, 10]",[],1,0
+929,Fan cô Minh hiếu đâu taaaa ❤️,O O O O O O O,O O O O O O O,[],[],0,0
+930,Mong rằng những công dân Việt Nam đang ở bên Nhật Bản học tập và lao động luôn giữ được sức khỏe tốt. Và đồng thời chúc cho Nhật Bản nhanh chóng vượt qua đại nạn lần này ❤,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+931,Thân? Chửi học trò như 1 con chó... Thương cái lồl..,O B-T O O O O O B-T O O B-T,O B-T O O O O O O O O O,"[6, 7, 8, 9, 29, 30, 31, 47, 48, 49]","[6, 7, 8, 9]",1,1
+932,Anh Sẽ Đến 100 củ to quá,O O O O O O O,O O O O O O O,[],[],0,0
+933,"nếu nó niêm giá thì lỗi do người mua mất cảnh giác ! sống ở thiên đường mà mất cảnh giác là sa chân xuống hố ngay tức thì! đi xe ôm cũng phải hỏi giá, mua bánh mì cũng hỏi giá....đến hối lộ công an hay bác sĩ còn có khung giá ! ko hỏi thì đừng trách .... thiên đường khốn cmn nạn !",O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O O O B-T I-T I-T O,O B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O,"[4, 5, 183, 184, 185, 186, 187, 188, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278]","[4, 5, 272, 273, 274, 276, 277, 278]",1,1
+934,Co kg chi,O O O,O O O,[],[],0,0
+935,Chất tiền đoán nữa  2017 xe về 2018 xe về năm 2019 xe về tiền đoán xa chúc 2022,O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O,[],[],0,0
+936,@Quynh Anh Nguyen xĩuuuuu,O O O O,O O O O,[],[],0,0
+937,Hòm đang chờ e,B-T I-T I-T I-T,O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",[],1,0
+938,Hai Vu trong truyền thuyết đây hả :))),O O O O O O O O,O O O O O O O O,[],[],0,0
+939,Xin địa chỉ bán áo:)),O O O O O,O O O O O,[],[],0,0
+940,Idol nè Vũ khắc CẶC,O O O O B-T,O O O O B-T,"[16, 17, 18]","[16, 17, 18]",1,1
+941,"Phạm Vũ Nói dân trí thấp lại tự ái . Không biết thì ngậm con mẹ nó mồm đi , còn tinh tướng . EU là liên minh kinh tế . Còn \""Trời Âu\"" ở đây là đang nói đến vị trí địa lý thuộc \""Châu Âu\"" . Đéo phân biệt được \""Kinh Tế\"" và \""Địa Lý\"" à ? Đúng là thùng rỗng thì kêu to.",O O O B-T I-T I-T O B-T I-T O O O O B-T I-T I-T I-T I-T O O O B-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O B-T I-T I-T I-T I-T,O O O O O O O O O O O O O B-T I-T I-T I-T B-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O B-T I-T I-T I-T I-T,"[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 29, 30, 31, 32, 33, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 191, 192, 193, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268]","[52, 53, 54, 55, 57, 58, 59, 61, 62, 64, 65, 67, 68, 69, 191, 192, 193, 248, 249, 250, 251, 252, 254, 255, 256, 257, 259, 260, 261, 263, 264, 265, 267, 268, 269]",1,1
+942,ơ ơ sợ quá clm,O O O O B-T,O O O O B-T,"[11, 12, 13]","[11, 12, 13]",1,1
+943,"hỉ cần toàn dân ta đoàn kết, đồng lòng sẽ chiến thắng ! như dân tộc Việt Nam ta đã từng chiến thắng ! cố lên VN ơi",O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+944,I love u pặc pặc 😘,O O O O O O,O O O O O O,[],[],0,0
+945,Cay vãi c***,O B-T I-T,B-T I-T I-T,"[4, 5, 6, 7, 8, 9, 10, 11]","[0, 1, 2, 4, 5, 6, 8, 9, 10, 11]",1,1
+946,nói chuyện vô văn hóa... bắn chết m giờ!,O O B-T I-T I-T B-T I-T I-T O,O O O O O B-T I-T I-T O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]","[25, 26, 27, 29, 30, 31, 32, 34]",1,1
+947,Ba con hot cut'vao ma an nhe',O O O B-T O O O,O O O O O O O,"[11, 12, 13, 14]",[],1,0
+948,đừng trù Gam nữa thầy?,O O O O O,O O O O O,[],[],0,0
+949,"già rồi bà già . bớt cái mồn lại tính chuyện đất đai nằm ở đâu và đi về đâu đi bà già . trẻ trâu làm gì nó làm, mình già quất cần cẩu rồi mà tào lao.",O O B-T I-T O O O B-T O O O O O O O O O O O O O B-T I-T O B-T I-T O O B-T O O B-T I-T I-T I-T O O B-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O B-T O O O B-T I-T I-T I-T I-T I-T I-T,"[8, 9, 10, 11, 12, 13, 25, 26, 27, 79, 80, 81, 82, 83, 84, 88, 89, 90, 91, 92, 93, 94, 95, 104, 105, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 141, 142, 143, 144, 145, 146, 147]","[88, 89, 90, 92, 93, 94, 95, 104, 105, 121, 122, 123, 124, 126, 127, 128, 130, 131, 132, 134, 135, 136, 138, 139, 141, 142, 143, 145, 146, 147, 148]",1,1
+950,Minh Hieu nói chuyen vui quá!😂😂,O O O O O O,O O O O O O,[],[],0,0
+951,Nguyễn Mỹ Duyên cánh hoa may mắn:)),O O O O O O O,O O O O O O O,[],[],0,0
+952,Người có tiền mặc gì chả đẹp,O O O O O O O,O O O O O O O,[],[],0,0
+953,Tại c t chân thật quá k quỷ ma giống m,O O B-T O O O O B-T I-T O B-T,O O O O O O O O O O B-T,"[6, 24, 25, 26, 27, 28, 29, 37]",[37],1,1
+954,Con mẹ mày. Nói mày là chó thì tội con chó. Mày còn thua con chó nữa tịp à,B-T I-T I-T O B-T O B-T O B-T I-T I-T B-T I-T I-T I-T I-T O O O,B-T I-T I-T O B-T O B-T O O B-T I-T B-T O O B-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 23, 24, 25, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]","[0, 1, 2, 4, 5, 7, 8, 9, 10, 16, 17, 18, 23, 24, 25, 35, 36, 37, 39, 40, 41, 42, 44, 45, 46, 57, 58, 59, 61, 62, 63]",1,1
+955,Diệu Linh anh có nên làm quả đầu mới chơi trung thu không tar,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+956,Linh cẩu,O O,B-T I-T,[],"[0, 1, 2, 3, 5, 6, 7]",0,1
+957,Dùng cái này có hết hôi nách k thầy,O O O O O O O O O,O O O O O B-T I-T O O,[],"[20, 21, 22, 24, 25, 26, 27]",0,1
+958,Nguyên tắc bất di bất dịch của nhân dân ta khi tham gia giao thông:,O O O O O O O O O O O O O O O,O O O O O O O O O O O B-T I-T O O,[],"[47, 48, 49, 50, 52, 53, 54]",0,1
+959,Trúc Thư hỏa thiêu nó đi,O O B-T I-T I-T O,O O O O B-T O,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]","[19, 20]",1,1
+960,Minh luc co cai cam nhin vo la biet sua.  Nhung xau qua  nhon. Nhin la biet cam gia. Xau. Qua.,O O O O O O O O O B-T O B-T O O O O O O B-T B-T O,O O O O O O O O O O O O O O O O O O O O O,"[36, 37, 38, 48, 49, 50, 80, 81, 82, 85, 86, 87]",[],1,0
+961,Thôi tụi nhật về nước dùm tao đi,O B-T O O O O B-T O,O O O O O O B-T O,"[5, 6, 7, 26, 27, 28]","[26, 27, 28]",1,1
+962,Anh Trung trộm vé số,O O O O O,O O O O O,[],[],0,0
+963,My talking tom mà tôi cứ tưởng tom and jerry các ông giáo ạ :((,O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O,[],[],0,0
+964,Thay Ngu,O B-T,O B-T,"[5, 6, 7]","[5, 6, 7]",1,1
+965,Và nhưng huyền thoại sẽ xuất hiện.,O O O O O O O,O O O O O O O,[],[],0,0
+966,"Mong nhà tiên tri  luôn luôn khỏe mạnh, tránh được dịch bệnh.",O O O O O O O O O O O O,O O O O O O O O O O O O,[],[],0,0
+967,đmm ghi rõ nguồn VD ra nhé ad,B-T O O O O O O O,B-T O O O O O O O,"[0, 1, 2]","[0, 1, 2]",1,1
+968,"Á đù bệnh tâm thần mà cho làm trung tá mới hay,hèn gì bọn đảng cs toàn là một lủ tâm thần nhưng hám của.",B-T I-T B-T I-T I-T O O O O O O O O B-T O O O O O B-T I-T I-T O B-T I-T,O B-T I-T I-T I-T O O O O O O O O B-T O O O O O O O O O O O,"[0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 54, 55, 56, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 96, 97, 98, 99, 100, 101, 102]","[2, 3, 5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 54, 55, 56]",1,1
+969,Fan cứng dạo hả thầy lol 🤤,O O O O O B-T O,O O O O O B-T O,"[21, 22, 23]","[21, 22, 23]",1,1
+970,Sự đồng lòng của người HK thật đáng ngưỡng mộ.Yêu cậu bé thật sự.,O O O O O O O O O O O O O O,O O O O O O O O O O O O O O,[],[],0,0
+971,Cả nhà cho cô top 1 trending nào,O O O O O O O O,O O O O O O O O,[],[],0,0
+972,Sao con bop vú bà ngoại 😂😂😂😂,O B-T B-T I-T O O O,O O O O O O O,"[4, 5, 6, 8, 9, 10, 11, 12, 13]",[],1,0
+973,Nguyễn Thanh Quang đc có í tưởng,O O O O O O O,O O O O O O O,[],[],0,0
+974,Để đây và không nói gì :)),O O O O O O O,O O O O O O O,[],[],0,0
+975,Link Facebook anh Trần Văn Xuân nè mọi người,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+976,"Mày mới gọi là nhảm đó,đồ chó đẽ",B-T O O O B-T B-T I-T I-T,B-T O O O B-T I-T I-T I-T,"[0, 1, 2, 15, 16, 17, 18, 23, 24, 25, 26, 27, 28, 29, 30, 31]","[0, 1, 2, 15, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 30, 31]",1,1
+977,Sàm lồn,B-T I-T,B-T I-T,"[0, 1, 2, 3, 4, 5, 6]","[0, 1, 2, 4, 5, 6]",1,1
+978,Cũng có thế nói là mất hết =)),O O O O O O O O,O O O O O O O O,[],[],0,0
+979,"ad thông minh vl, chỉ số tia cực tím cao là do bức xạ mặt trời, nếu mức độ tăng thì do thằng nào xả thải nhà kính, khí CFC nhiều chứ liên quan dew gì đến chính quyền mà chưỡi??? :v",O O O B-T O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O B-T O O O O O B-T O,O O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O O O O O O O O O O O,"[14, 15, 87, 88, 89, 90, 91, 143, 144, 145, 169, 170, 171, 172, 173]","[87, 88, 89, 90, 91]",1,1
+980,ok a 🙄🙄,O O O,O O O,[],[],0,0
+981,Da bao dung nghe cs noi !!!,O O B-T I-T I-T O O,O O O O O O O,"[7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]",[],1,0
+982,Con lợn này béo vãi lon. Bắp tay to bằng ngón chân =)),O O O O O B-T O O O O O O O,B-T I-T O B-T I-T I-T O O O O O O O,"[20, 21, 22]","[0, 1, 2, 4, 5, 6, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23]",1,1
+983,Đi vài bữa rã họng rồi lại lết về thôi mà.loại mất dậy ...,O O O O O O O O O O O B-T I-T O,O O B-T I-T I-T O O O O O O O O O,"[47, 48, 49, 50, 51, 52, 53]","[7, 8, 9, 11, 12, 14, 15, 16, 17]",1,1
+984,Bài hát này đang có quảng cáo,O O O O O O O,O O O O O O O,[],[],0,0
+985,Mốt tập nói tiếng hoa kiểu này 🤣🤣🤣 Kom Tuấn Hạnh Kim Trần,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+986,Phạm Nguyễn Cát Vy ai biết .,O O O O O O O,O O O O O O O,[],[],0,0
+987,Con bóng vẫn là con bóng. Con chó suốt đời vẫn là chó..,B-T I-T O O B-T I-T O B-T O O O O B-T,B-T I-T O O O O B-T I-T O O O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 16, 17, 18, 19, 20, 21, 22, 23, 30, 31, 32, 50, 51, 52]","[0, 1, 2, 4, 5, 6, 7, 26, 27, 28, 30, 31, 32]",1,1
+988,Gil qq,O B-T,O B-T,"[4, 5]","[4, 5]",1,1
+989,toang thế đéo nào đc a,O O B-T O O O,O O B-T O O O,"[10, 11, 12]","[10, 11, 12]",1,1
+990,Nhà tiên tri nghe bắt oi,O O O B-T I-T I-T,O O O O O O,"[13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]",[],1,0
+991,Mày chả có tý văn hóa máu loz j,B-T O O O B-T I-T I-T I-T O,B-T B-T I-T I-T I-T I-T I-T I-T O,"[0, 1, 2, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]","[0, 1, 2, 4, 5, 6, 8, 9, 11, 12, 14, 15, 16, 18, 19, 20, 22, 23, 24, 26, 27, 28]",1,1
+992,Bài này kiểu quảng cáo compack hay gì mà,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+993,"cái đmm nhé ad, đừng có vơ đũa cả nắm, ăn cứt cả đống nhé con. 4.5 tr Đảng viên k phải ai cũng xấu mà để m nói cái giọng của loại chó đấy. cái page chó bẩn ngu si này. m ra xem ngoài xã hội đầy Đảng viên vẫn nai lưng đi làm để nuôi đầy cái giống đéo ph",O B-T O O O O B-T I-T I-T I-T B-T I-T I-T I-T O B-T O O O O O O O O O O O B-T O O O B-T I-T I-T O O O B-T I-T I-T I-T O B-T O O O O O O O O O O O O O O O O B-T I-T I-T I-T,O B-T O O O O B-T I-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O B-T O O B-T O O O O B-T I-T O O O B-T I-T I-T I-T O B-T O O O O O O O O O O O O O O O O O O B-T O,"[4, 5, 6, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 58, 59, 60, 105, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 168, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251]","[4, 5, 6, 24, 25, 27, 28, 29, 31, 32, 34, 35, 36, 37, 39, 40, 42, 43, 44, 46, 47, 49, 50, 51, 52, 95, 96, 97, 105, 125, 126, 127, 128, 130, 131, 132, 148, 149, 150, 152, 153, 154, 156, 157, 158, 160, 161, 168, 246, 247, 248]",1,1
+994,đội trưởng mĩ hihihi,O O O O,O O O O,[],[],0,0
+995,Tức á ca ko đc,O O O O O,O O O O O,[],[],0,0
+996,Mốt hẹn vậy cho sang nè Tram Le Diệp Linh,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+997,Coi phim mệt tim ds mệt,O O O O O O,O O O O O O,[],[],0,0
+998,Giờ m mới sáng mắt ra và tai đã nghe đc rùi phải k,O B-T O O O O O O O O O O O O,O B-T O O O O O O O O O O O O,[4],[4],1,1
+999,Cô My ơi ở lại với e đi :)) kệ mẹ thg lozzzz ba gà :)))),O O O O O O O O O B-T I-T B-T I-T O B-T O,O O O O O O O O O O B-T O O O O O,"[28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 48, 49]","[31, 32]",1,1
+1000,Tuyền Phạm,O O,O O,[],[],0,0
+1001,đảng ko đủi thì nhân dân đủi :v rồi đảng bỏ tù dân vì gây rối :v tóm váy ngậm tiền rồi thì ráng nghe chửi đi đảng ơi :D,O O O O O O O O O O B-T I-T I-T I-T I-T I-T O B-T I-T I-T I-T O O O O B-T O O O O,O O O O O O O O O B-T I-T I-T O O O O O O O O O O O O O B-T O O O O,"[41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 101, 102, 103, 104]","[36, 37, 38, 39, 41, 42, 44, 45, 101, 102, 103, 104]",1,1
+1002,Bác sĩ chữa khỏi bệnh cho một người trả tiền cho bệnh viện nó khác.,O O O O O O O O O O O O O O O,O O O O O O O O O O O O O B-T O,[],"[59, 60]",0,1
+1003,Lan Hoa nhưng đạo nhái là kiếm được tiền tỷ còn hơn cái lũ trẻ trâu chĩa mỏ vào để cắn cho bỏ ghét 🤔😏,O O O B-T I-T O O O O O O O O B-T I-T I-T B-T I-T I-T I-T I-T I-T I-T I-T B-T,O O O B-T I-T O O O O O O O O B-T I-T I-T O O O O B-T O O O O,"[14, 15, 16, 17, 18, 19, 20, 21, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 100]","[14, 15, 16, 18, 19, 20, 21, 56, 57, 59, 60, 61, 63, 64, 65, 66, 83, 84, 85]",1,1
+1004,Do mặt Khánh Chi đơ hay sao mà mình nhìn thấy mặt có vẻ khó chịu vậy ạ?,O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,[],[],0,0
+1005,mày biết củ cặc hong :v,B-T O O B-T O O,B-T O B-T I-T O O,"[0, 1, 2, 12, 13, 14]","[0, 1, 2, 9, 10, 12, 13, 14]",1,1
+1006,Tiệp là ai tao ko cần biết nhưng mày nói như lol,O O O B-T O O O O B-T O O B-T,O O O B-T O O O O B-T O O B-T,"[11, 12, 13, 33, 34, 35, 45, 46, 47]","[11, 12, 13, 33, 34, 35, 45, 46, 47]",1,1
+1007,Cút mẹ luôn đi chứ tạm cl,O B-T O O O O B-T,B-T I-T O O O O B-T,"[4, 5, 23, 24]","[0, 1, 2, 4, 5, 23, 24]",1,1
+1008,Phạm Hải Linh,O O O,O O O,[],[],0,0
+1009,Thật ra bình cứu hỏa china là dùng để xịt mấy thằng hút thuốc lá trên xe. Vừa tắt thuốc vừa chống hôi xe nữa . ĐMCS,O O O O O O O O O O O B-T O O O O O O O O O O O O O O B-T,O O O O O O O O O O O B-T I-T I-T I-T O O O O O O O O O O O B-T,"[47, 48, 49, 50, 51, 113, 114, 115, 116]","[47, 48, 49, 50, 51, 53, 54, 55, 56, 58, 59, 60, 61, 62, 64, 65, 113, 114, 115, 116]",1,1
+1010,Sảm sì đú,B-T I-T I-T,O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8]",[],1,0
+1011,Xem mà cười đau bụng😆,O O O O O,O O O O O,[],[],0,0
+1012,"Tui tin là boác kính yêu nói được 29 ngôn ngữ đó mọi người. Chắc là boác chỉ nói được chữ Hello bang 29 ngôn ngữ ( Hi, Bon jour, Hola, Nĩ hảo, Hallo, Ciao...) mà tại tụi bưng bô bốc phét nói là boác nói 29 ngôn ngữ :).",O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T O O O O O O O O O O O B-T I-T I-T B-T I-T O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T O O O O O O O O,"[73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 178, 179, 180, 181, 182, 183, 184, 185]","[166, 167, 168, 170, 171, 172, 173, 175, 176, 178, 179, 180, 182, 183, 184, 185]",1,1
+1013,Này là táo liên quân k phải táo quân đâu :)),O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1014,"Các anh làm tôi hơn buồn đấy , nhưng thôi , bảo ông già là nhớ mua quà cho tôi là được , đừng mua giải nữa",O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+1015,MiMi Nguyen z cho an toàn nhe cưng,O O O O O O O O,O O O O O O O O,[],[],0,0
+1016,Giàu quá cho vợ chịu sào đó,O O O O O O O,O O O O O O O,[],[],0,0
+1017,cả 2 cùng có lỗi mà biết ls dc cái số,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1018,Khai giảng cuối thời hsinh mầm non✌🏻,O O O O O O O,O O O O O O O,[],[],0,0
+1019,Ờ giống mình ghê :v,O O O O O,O O O O O,[],[],0,0
+1020,"Con lợn ad , thế mày định làm gì ? Vác súng ra biển đi , đừng vác bàn phím mà sủa theo lũ ""dâm chủ"" nữa nhé con .",B-T I-T O O O B-T O O O O O O O O O O O O B-T I-T O B-T O B-T B-T I-T O O B-T O,B-T I-T O O O O O O O O O O O O O O B-T I-T I-T I-T O B-T O B-T O O O O O O,"[0, 1, 2, 3, 4, 5, 6, 17, 18, 19, 66, 67, 68, 69, 70, 71, 72, 73, 78, 79, 80, 87, 88, 91, 92, 93, 94, 95, 96, 97, 108, 109, 110]","[0, 1, 2, 4, 5, 6, 57, 58, 59, 60, 62, 63, 64, 66, 67, 68, 70, 71, 72, 73, 78, 79, 80, 87, 88]",1,1
+1021,"người mình ở nước người ta trộm cướp lừa đảo, người ta sang đây làm ăn đàn hoàng thì bị khủng bố, chả hiểu nổi",O O O O O O B-T I-T B-T I-T O O O O O O O O O O B-T I-T B-T O O,O O O O O O B-T I-T I-T I-T O O O O O B-T I-T I-T O O O O O O O,"[27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 88, 89, 90, 91, 92, 93, 94, 95, 98, 99, 100]","[27, 28, 29, 30, 32, 33, 34, 35, 37, 38, 39, 41, 42, 43, 44, 68, 69, 71, 72, 73, 75, 76, 77, 78, 79]",1,1
+1022,Nghĩa Nguyễn dễ toang lắm,O O O O O,O O O O O,[],[],0,0
+1023,trong khi đó chủ tịch thủ đô đang trân tráo khư khư ôm lấy dòng sông Tô Lịch thơ mộng ! quyết bảo vệ nó khỏi bàn tay sạch sẽ của bọn Nhật Bổn tư bản ! Bắc Kỳ lạ lắm thay... người nam méo hiểu được !,O O O O O O O O B-T I-T O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T O O O O O O O O O O O O B-T O O O,O O O O O B-T I-T I-T I-T O O O O O O O O O O O O O O O B-T O O O O O O B-T O O O O O O O O O O O O B-T O O O,"[34, 35, 36, 37, 38, 39, 40, 41, 42, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 183, 184, 185]","[22, 23, 24, 26, 27, 29, 30, 31, 32, 34, 35, 36, 37, 101, 102, 129, 130, 131, 183, 184, 185]",1,1
+1024,"Tội anh tôi, lương tháng 7 - 8 triệu, đến tôm nhỏ chẳng có mà ăn, chỉ ăn được mỗi cua hoàng đế và tôm Alaska😢😢😢",O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+1025,mk chỉ thích xem a độ đá vs a bô béo,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1026,Canh như chó đợi xương,O O B-T I-T I-T,O O B-T I-T I-T,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]","[9, 10, 11, 13, 14, 15, 17, 18, 19, 20, 21]",1,1
+1027,"có ai biết làm cách nào để tìm lại được, đồng đội, đồng chí, hay bạn hữu cùng đơn vị của người trong bức ảnh không.",O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O,[],[],0,0
+1028,Nguyễn Thanh Cẩm lỗ xoài rộng nhỉ,O O O O O O O,O O O O O O O,[],[],0,0
+1029,Phượng Nguyễn đừng có zị nghen.,O O O O O O,O O O O O O,[],[],0,0
+1030,Lon roi an noi mat dai,O O O O B-T I-T,B-T O O O B-T I-T,"[15, 16, 17, 18, 19, 20, 21]","[0, 1, 2, 15, 16, 17, 19, 20, 21]",1,1
+1031,"Thế mà chúng nó giật tít cộng gộp lại. Tít lẽ ra phải là : ""Muốn giết người? Hãy làm công an""",O O B-T I-T B-T I-T O O O O O O O O O O B-T O O O O O,O O B-T I-T O O O O O O O O O O O O B-T O O O O O,"[7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 65, 66, 67, 68]","[7, 8, 9, 10, 11, 13, 14, 65, 66, 67, 68]",1,1
+1032,Ko nhận hối lộ,O O O O,O O B-T I-T,[],"[8, 9, 10, 12, 13]",0,1
+1033,Mai Nam Hải a bị xiên có đau không a :((,O O O O O O O O O O O,O O O O O B-T O O O O O,[],"[17, 18, 19, 20]",0,1
+1034,Mày chỉ sống thêm 11 ngày nữa thôi! Tao dạy mày những điều tốt đẹp sao mày sủa bậy thế Trần Đần.,B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,B-T O O O O O O O B-T I-T I-T O O O O O B-T B-T I-T O O O,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]","[0, 1, 2, 36, 37, 38, 40, 41, 42, 44, 45, 46, 71, 72, 73, 75, 76, 77, 79, 80, 81]",1,1
+1035,Đúng rạch mồm nó,O B-T I-T I-T,O O B-T B-T,"[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]","[10, 11, 12, 14, 15]",1,1
+1036,chị ba nói chuyện dễ thương quá,O O O O O O O,O O O O O O O,[],[],0,0
+1037,Công ty anh ở đâu vậy :D,O O O O O O O,O O O O O O O,[],[],0,0
+1038,Cực kì thuyết phục ☺,O O O O O,O O O O O,[],[],0,0
+1039,Không cho chúng bố ăn là chết với chúng bố. Thiên đường xhcn nó thế đấy con ạ.,O O B-T I-T O O B-T O B-T I-T B-T I-T I-T B-T O O B-T O,O O B-T I-T I-T I-T I-T O B-T I-T I-T I-T I-T I-T O O O O,"[10, 11, 12, 13, 14, 15, 16, 17, 25, 26, 27, 28, 34, 35, 36, 37, 38, 39, 40, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 72, 73, 74]","[10, 11, 12, 13, 14, 16, 17, 19, 20, 22, 23, 25, 26, 27, 28, 34, 35, 36, 37, 38, 40, 41, 42, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 56, 57, 58, 59, 61, 62]",1,1
+1040,Co ba vang ngọc noi hay qua cho e cacmobi 100 nha co,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+1041,Chị 3 ơi trã tiền cho cô minh hiều kìa,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+1042,"Tùng sói said :"" nhìn cái gì mà nhìn ;) """,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1043,"Thôn làm vậy là do thôn lầm, thôn lầm nên dân nó ghét, nó bật lại là thôn cái lù",O O O O O B-T I-T B-T I-T O O O O O O O O B-T I-T I-T,O O O O O O O O O O O B-T O B-T O O O B-T I-T I-T,"[19, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34, 35, 36, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]","[46, 47, 55, 56, 69, 70, 71, 72, 74, 75, 76, 78, 79]",1,1
+1044,Chắc anh quên chưa kéo lên thôi,O O O O O O O,O O O O O O O,[],[],0,0
+1045,"trinh thu. Mỹ ác hơn tàu chứ bạn ơi , có lẽ bạn kg biết lịch sử chính phủ Mỹ .... nó gian tiếp kg trực tiếp như Trung Quốc ...",O O O B-T O B-T O O O O O O O O O O O O O O O B-T O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O B-T O O O O O O O O O,"[14, 15, 21, 22, 23, 82, 83]","[82, 83]",1,1
+1046,tình yêu hãy nói về nhism korea,O O O O O O O,O O O O O O O,[],[],0,0
+1047,Nguyễn Thị Thịnh xem ở đây chuẩn nè bạn,O O O O O O O O O,O O O O O O O O O,[],[],0,0
+1048,Nguyễn Khánh Nghĩ chán vlol,O O O O B-T,O O O O B-T,"[23, 24, 25, 26]","[23, 24, 25, 26]",1,1
+1049,Nhiệt quần què ms đầu vào cảm rảm như chó h khen cc,O B-T I-T O O O B-T I-T O B-T O O B-T,O O O O O O O O O B-T O O B-T,"[6, 7, 8, 9, 10, 11, 12, 13, 26, 27, 28, 29, 30, 31, 32, 38, 39, 40, 49, 50]","[38, 39, 40, 49, 50]",1,1
+1050,Ben my sao cung co quai Thái nua vay troi....song lam gi cho chat   Dat,O O O O O B-T I-T O O B-T I-T I-T I-T I-T I-T,O O O O O O O O O O O O O O O,"[19, 20, 21, 22, 23, 24, 25, 26, 27, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]",[],1,0
+1051,Nguyễn Long vlin thật lun á bọn vô ý thức,O O B-T O O O B-T B-T I-T I-T,O O O O O O B-T I-T I-T I-T,"[12, 13, 14, 15, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40]","[28, 29, 30, 32, 33, 35, 37, 38, 39, 40]",1,1
+1052,Kg Phan dong may' chui vao trong nay lam gi ?,O O O B-T I-T O O O O O O,O O O O B-T O O O O O O,"[13, 14, 15, 16, 17, 18, 19, 20, 21]","[18, 19, 20, 21]",1,1
+1053,Tử hình,O O,B-T I-T,[],"[0, 1, 3, 4, 5, 6]",0,1
+1054,cám ơn ad vì sự thay đổi nhỏ này :'(,O O O O O O O O O O,O O O O O O O O O O,[],[],0,0
+1055,Thầy ơi có cô kiếm thầy nè :)),O O O O O O O O,O O O O O O O O,[],[],0,0
+1056,Dạ,O,O,[],[],0,0
+1057,ThanhHuy Nguyen :)))) dc làm fan cứng chưa,O O O O O O O O,O O O O O O O O,[],[],0,0
+1058,Sao làm chủ tịch mà ngu thế đc nhỉ,O O B-T I-T I-T I-T O O O,O O O O O B-T O O O,"[8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]","[20, 21, 22]",1,1
+1059,Chó rồ nhập,B-T I-T O,B-T I-T I-T,"[0, 1, 2, 3, 4, 5]","[0, 1, 2, 4, 5, 7, 8, 9, 10]",1,1
+1060,lí lẽ rất thuyết phục:))),O O O O O,O O O O O,[],[],0,0
+1061,Minh Nguyen đếm lá chơi bời gì nữa,O O O O O O O O,O O O O O O O O,[],[],0,0
+1062,Nhật Phát :)) làm ơn đọc kĩ trước khi thể hiện rằng bạn sinh ra đã thiếu cái não đi,O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T O,O O O O O O O O O O O O O O O O B-T I-T I-T O,"[56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]","[67, 68, 69, 70, 71, 73, 74, 75, 77, 78, 79]",1,1
+1063,Mỗi khi anh độ chửi bậy nó sẽ giật... Sau khi giật xong anh độ sẽ đập nó xuống bàn và chửi đitconmemay giật cailon :),O O O O O O O O O O O O O O O O O O O O O O B-T O B-T O,O O O O B-T I-T I-T O O O O O O O O O B-T I-T O O O B-T O O O O,"[91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 108, 109, 110, 111, 112, 113]","[15, 16, 17, 18, 20, 21, 22, 24, 25, 66, 67, 68, 70, 71, 86, 87, 88, 89]",1,1
+1064,TÂM THẦN ?!? CHỨ KG PHẢI TRỊNH THƯỢNG ?! CÁCH HÀNH XỬ CỦA 1 NHÓM CÓ TIỀN CÓ QUYỀN NÊN BỐ LÁO !!!,B-T I-T O O O O B-T I-T O O O O O O O O O O O O B-T I-T O,B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O O O O O O B-T I-T O,"[0, 1, 2, 3, 4, 5, 6, 7, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 86, 87, 88, 89, 90, 91]","[0, 1, 2, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 17, 18, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 38, 39, 41, 42, 43, 44, 46, 47, 48, 49, 51, 52, 86, 87, 89, 90, 91]",1,1
+1065,Cái thẻ ngành cứ photo lại cũng cầm đc cả tỉ bạc đấy,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+1066,"Bố lạy mày đừng ""hiếp dâm"" thị giác của bố nữa ad à 😂😂😂",O B-T I-T O B-T I-T O O O O O O O O,B-T O B-T O O O O O O O O O O O,"[3, 4, 5, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24]","[0, 1, 7, 8, 9]",1,1
+1067,Cái con này nó chết cũng không sửa đổi,O B-T O B-T B-T I-T I-T I-T I-T,O B-T O B-T B-T O O O O,"[4, 5, 6, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]","[4, 5, 6, 12, 13, 15, 16, 17, 18]",1,1
+1068,"Giống như câu , Ngêu sò tranh nhau , Ngư ông đắc lợi",O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+1069,Các man sống chậm tý nào,O O O O O O,O O O O O O,[],[],0,0
+1070,Kệ cụ mày,O B-T B-T,B-T I-T I-T,"[3, 4, 6, 7, 8]","[0, 1, 3, 4, 6, 7, 8]",1,1
+1071,Chứ không phải lúc trước đi ra ngân hàng nói chị Ba gửi tiền về cái mặt lên như bà khùng ha 😉Giờ thì bị ba vàng mã lừa  gạt  úp mặt vào cầu tiêu đi Minh Hiếu ơi nhục,O O O O O O O O O O O O O O O O O O O B-T I-T O O O O B-T I-T I-T B-T I-T B-T I-T I-T I-T I-T O O O O O,O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T O O O B-T,"[80, 81, 82, 83, 84, 85, 86, 87, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146]","[80, 81, 83, 84, 85, 86, 87, 107, 108, 109, 110, 111, 113, 114, 116, 117, 118, 119, 122, 123, 124, 125, 128, 129, 131, 132, 133, 135, 136, 137, 139, 140, 141, 143, 144, 145, 146, 148, 149, 164, 165, 166, 167, 168]",1,1
+1072,"qua việc này anh em đừng kinh thường 1 con ruồi, dù nó đã chết nó cũng có thể làm cho 1 người đàn ông đi tù 7 năm. Sức mạnh của 1 con ruồi chết ở đâu khủng thế???",O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T O O O O O O O O B-T O O O O,O O O O O O O O O O O O B-T O B-T I-T O O O O O O O O O O B-T O O O O O O B-T I-T I-T O O O O,"[102, 103, 104, 105, 106, 139, 140, 141, 142]","[52, 53, 58, 59, 60, 61, 63, 64, 105, 106, 130, 131, 132, 134, 135, 136, 137, 139, 140, 141, 142]",1,1
+1073,Hay là anh cũng thử để quả tóc này đi :)),O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1074,Câu hỏi ngược lại ' có nên theo một ngừoi con trai có quá nhiều em crussh'???,O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O,[],[],0,0
+1075,Cực kì thuyết phục🤣🤣,O O O O,O O O O,[],[],0,0
+1076,Thanh xuân như 1 ly trà,O O O O O O,O O O O O O,[],[],0,0
+1077,thêm một người bị cộng sản nhồi sọ không biết sao có thể nạo ra được hết chất bã trong đầu,O O O O O O B-T I-T O O B-T I-T I-T I-T I-T I-T I-T I-T I-T I-T I-T,O O O O O O B-T I-T O O O O O O O O O O O O O,"[27, 28, 29, 30, 31, 32, 33, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89]","[27, 28, 29, 30, 32, 33]",1,1
+1078,dừng là đúng a ơi 😆😆 dừng luôn đi cũng được,O O O O O O O O O O O,O O O O O O O O O O O,[],[],0,0
+1079,"Bọn xu nịnh là những kẻ làm hư cán bộ, và là những kẻ yếu kém chuyên môn nhất.",B-T B-T I-T O O B-T O O O O O O O B-T O O O O O,B-T O O O O O O O O O O O O B-T I-T I-T O O O,"[0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 21, 22, 51, 52]","[0, 1, 2, 51, 52, 54, 55, 56, 58, 59, 60]",1,1
+1080,Lê Văn Quật nhớ thời ffq :)),O O O O O O O,O O O O O O O,[],[],0,0
+1081,chị có tặng bọn em miếng đất nào ko chị MC best cơ hội 🤣🤣,O O O O O O O O O O O O O O O,O O O B-T I-T I-T I-T O O O O O O O O,[],"[12, 13, 14, 16, 17, 19, 20, 21, 22, 23, 25, 26, 27]",0,1
+1082,Ở 1 nơi khác,O O O O,O O O O,[],[],0,0
+1083,Tóm lại là con gái hay trai... 😶😶😶...bực mình vl nhìn hoài ko ra 😑😑,O O O B-T I-T I-T I-T O O B-T O O O O O,O O O O O O O O O B-T O O O O O,"[11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 46, 47]","[46, 47]",1,1
+1084,Cực kì thuyết phục :*),O O O O O,O O O O B-T,[],"[19, 20, 21]",0,1
+1085,Như  một  Con  điên...,O O B-T I-T,O O O O,"[10, 11, 12, 13, 14, 15, 16, 17, 18]",[],1,0
+1086,Bay kênh rồi :))),O O O O,O O O O,[],[],0,0
+1087,"Ông thấy đấy ông ad ạ. Nó cướp rồi cắt cổ, mình đi. Nó cướp mình bắt nó không chế mà nó bị thương thì mình đi tù :)) nchung luật pháp buồn cười lắm.",O O O O O O B-T B-T O B-T I-T O O B-T B-T O O B-T O O O B-T B-T I-T O B-T B-T I-T O O B-T I-T I-T I-T O,O O O O O O B-T B-T O O O O O B-T B-T O O B-T O O O B-T O O O O O B-T O O O O O O O,"[23, 24, 26, 27, 28, 29, 35, 36, 37, 38, 39, 40, 52, 53, 55, 56, 57, 58, 69, 70, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 102, 103, 104, 105, 107, 108, 109, 110, 111, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142]","[23, 24, 26, 27, 28, 29, 52, 53, 55, 56, 57, 58, 69, 70, 85, 86, 110, 111]",1,1
+1088,Ai lớp du chu cờ mo cô hiếuuu💁‍♀️❤🙆‍♀️,O O O O O O O O,O O O O O O O O,[],[],0,0
+1089,buồn a ạ 😞,O O O O,O O O O,[],[],0,0
+1090,Nguyễn Hoạt bác giỏi thật,O O O O O,O O O O O,[],[],0,0
+1091,v cut,B-T I-T,O O,"[0, 1, 2, 3, 4]",[],1,0
+1092,Cần đéo j quan tâm miệng đời,O B-T O O O O O,O B-T O O O O O,"[4, 5, 6]","[4, 5, 6]",1,1
+1093,Con này là bê đê bong lộ xấu gớm... xấu xúc phạm ng nhìn...,B-T O O B-T I-T I-T I-T I-T I-T B-T I-T I-T I-T I-T,B-T O O B-T I-T B-T I-T I-T I-T I-T I-T I-T I-T I-T,"[0, 1, 2, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]","[0, 1, 2, 11, 12, 14, 15, 17, 18, 19, 20, 22, 23, 25, 26, 27, 29, 30, 31, 32, 33, 34, 36, 37, 38, 40, 41, 42, 44, 45, 46, 47, 49, 50, 52, 53, 54, 55, 56, 57, 58]",1,1
+1094,chết cười pha JJLeo hiến thân cho Rambo =))),O O O O O O O O O,B-T O O O O O O O O,[],"[0, 1, 2, 3]",0,1
+1095,Vì sao RedBull thắng thế ?,O O O O O O,O O O O O O,[],[],0,0
+1096,Sao kh đóng cm nó cửa khẩu đi nhỉ. Cứ cho mấy con mẹ đi lông nhông từ nước này sang nước khác rồi về VN lây lan bệnh đéo chịu cách ly.rồi chẳng bao lâu thành ổ,O O O B-T I-T O O O O O O O B-T I-T O O O O O O O O O O O O O O O B-T O O O O O O O O,O O O O B-T O O O O O O O B-T I-T I-T I-T O O O O O O O O O O O O O B-T O O O O O O O O,"[12, 13, 14, 15, 16, 46, 47, 48, 49, 50, 51, 117, 118, 119]","[15, 16, 46, 47, 48, 50, 51, 53, 54, 56, 57, 58, 59, 117, 118, 119]",1,1
+1097,Từ nay anh em ko được gọi bà gà nữa nhé kêu ba pro nhé =)),O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O,[],[],0,0
+1098,😍,O,O,[],[],0,0
+1099,😮😮,O,O,[],[],0,0
+1100,"Giá xăng rẻ hơn vài ngàn đồng, thu nhập cá nhân thì thấp hơn vài ngàn đô, thiên đường XHCN",O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T,[],"[65, 66, 67, 68, 70, 71, 72, 74, 75, 76, 77, 78, 80, 81, 82, 83, 84, 86, 87, 88, 89]",0,1
+1101,"từ dịch này thấy ý thức người nhật xăng đổ nửa bình, nhưng giấy vệ sinh không thể thiếu. không hy sinh bản thân để cứu người khác, nhưng dính dịch thì kéo nhiều người dính theo.",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-T I-T I-T I-T I-T I-T I-T I-T,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175]",[],1,0
+1102,Đang nói chuyện này cái ổng bẻ lái qua chuyện khác mãi :v,O O O O O O O O O O O O O,O O O O O O O O O O O O O,[],[],0,0
+1103,"Ôi trời giai cấp lđ ở ta thì đổi trắng thay đen nhanh lắm,nhìn thì vậy mà lại không phải vậy,chỉ có điều rõ ràng nhất là chỗ nào cũng có chuyện vợ ông này cặp với chồng bà kia!",O O O O O O O O B-T I-T I-T I-T O O O O O O O O O O O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O,"[29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]",[],1,0
+1104,Đéo ai làm thế,B-T O O O,B-T O O O,"[0, 1, 2]","[0, 1, 2]",1,1
+1105,"mấy ông học FPT lấy ý tưởng mà làm đồ án nè, biết đâu lại xuất sắc :v",O O O O O O O O O O O O O O O O O O,O O O O O O O O O O O O O O O O O O,[],[],0,0

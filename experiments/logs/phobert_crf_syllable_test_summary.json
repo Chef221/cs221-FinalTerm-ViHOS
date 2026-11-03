@@ -1,0 +1,18 @@
+{
+  "model": "PhoBERT_CRF",
+  "split": "test",
+  "Char_Macro_F1": 0.35312427030026666,
+  "Char_Precision": 0.3531456212116401,
+  "Char_Recall": 0.901671669006164,
+  "IOU_F1@0.5": 0.3421717171717172,
+  "Token_BIO_F1": 0.18550634871477237,
+  "Token_BIO_Precision": 0.11534758328519161,
+  "Token_BIO_Recall": 0.4735177865612648,
+  "Post_Binary_F1": 0.6704545454545454,
+  "Post_Accuracy": 0.5280289330922242,
+  "Exact_Match": 3.16,
+  "Over_Span": 10.85,
+  "Under_Span": 10.58,
+  "Complete_Miss": 0.0,
+  "Spurious_Span": 47.2
+}

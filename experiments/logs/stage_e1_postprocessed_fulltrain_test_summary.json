@@ -1,0 +1,18 @@
+{
+  "model": "Stage_E1_Champion_FullTrain",
+  "split": "test",
+  "Char_Macro_F1": 0.7913998852204037,
+  "Char_Precision": 0.8602869064856062,
+  "Char_Recall": 0.853702640861485,
+  "IOU_F1@0.5": 0.6416131989000917,
+  "Token_BIO_F1": 0.3295519001701645,
+  "Token_BIO_Precision": 0.25696594427244585,
+  "Token_BIO_Recall": 0.4592885375494071,
+  "Post_Binary_F1": 0.9074243813015582,
+  "Post_Accuracy": 0.9086799276672695,
+  "Exact_Match": 7.96,
+  "Over_Span": 4.25,
+  "Under_Span": 15.82,
+  "Complete_Miss": 3.25,
+  "Spurious_Span": 5.88
+}

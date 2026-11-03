@@ -1,0 +1,17 @@
+{
+  "model": "PhoBERT_MultiLayer_Fusion_CRF",
+  "selected_layers": [
+    1,
+    6,
+    12
+  ],
+  "fusion_type": "weighted_sum",
+  "Char_Macro_F1": 0.8057159370231121,
+  "Token_BIO_F1": 0.5992217898832685,
+  "Post_Binary_F1": 0.9009345794392524,
+  "Exact_Match": 14.737793851717903,
+  "Over_Span": 9.584086799276673,
+  "Under_Span": 9.403254972875226,
+  "Complete_Miss": 4.972875226039783,
+  "Spurious_Span": 4.61121157323689
+}

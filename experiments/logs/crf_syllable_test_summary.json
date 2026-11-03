@@ -1,0 +1,18 @@
+{
+  "model": "CRF_Baseline",
+  "split": "test",
+  "Char_Macro_F1": 0.7548991548349898,
+  "Char_Precision": 0.9039138029752845,
+  "Char_Recall": 0.7850518871372898,
+  "IOU_F1@0.5": 0.512770137524558,
+  "Token_BIO_F1": 0.4511070110701107,
+  "Token_BIO_Precision": 0.5415282392026578,
+  "Token_BIO_Recall": 0.3865612648221344,
+  "Post_Binary_F1": 0.8664047151277013,
+  "Post_Accuracy": 0.8770343580470162,
+  "Exact_Match": 7.05,
+  "Over_Span": 2.71,
+  "Under_Span": 19.26,
+  "Complete_Miss": 8.14,
+  "Spurious_Span": 4.16
+}

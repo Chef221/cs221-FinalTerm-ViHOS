@@ -1,0 +1,226 @@
+{
+  "CRF Baseline (Run 01)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7500000000000001,
+        "BPSN_AUC": 0.6869070208728653,
+        "BNSP_AUC": 0.9660777385159011,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.8333333333333333,
+        "BPSN_AUC": 0.8830492424242424,
+        "BNSP_AUC": 0.8475909537856441,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9252336448598131,
+        "BNSP_AUC": 0.955026455026455,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 0.640625,
+        "BPSN_AUC": 0.5671785028790787,
+        "BNSP_AUC": 0.9382716049382716,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8059895833333334,
+    "Mean_BPSN_AUC": 0.7655921027589998,
+    "Mean_BNSP_AUC": 0.926741688066568,
+    "GMB_AUC_p_neg5": 0.751720344218059
+  },
+  "PhoBERT (Run 02)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7500000000000001,
+        "BPSN_AUC": 0.7232764073371285,
+        "BNSP_AUC": 0.963339222614841,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.75,
+        "BPSN_AUC": 0.8887310606060606,
+        "BNSP_AUC": 0.8460176991150442,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9551401869158879,
+        "BNSP_AUC": 0.9501763668430334,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 0.6875,
+        "BPSN_AUC": 0.6055662188099808,
+        "BNSP_AUC": 0.970789241622575,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.796875,
+    "Mean_BPSN_AUC": 0.7931784684172645,
+    "Mean_BNSP_AUC": 0.9325806325488735,
+    "GMB_AUC_p_neg5": 0.7772782283415299
+  },
+  "ViSoBERT (Run 03)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7166666666666668,
+        "BPSN_AUC": 0.7080961416824795,
+        "BNSP_AUC": 0.9126325088339223,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.7777777777777777,
+        "BPSN_AUC": 0.9303977272727273,
+        "BNSP_AUC": 0.8350049164208455,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9551401869158879,
+        "BNSP_AUC": 0.9532627865961198,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 0.96875,
+        "BPSN_AUC": 0.95489443378119,
+        "BNSP_AUC": 0.9365079365079364,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8657986111111111,
+    "Mean_BPSN_AUC": 0.8871321224130712,
+    "Mean_BNSP_AUC": 0.909352037089706,
+    "GMB_AUC_p_neg5": 0.8487433299940781
+  },
+  "PhoBERT+CRF (Run 04)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7500000000000001,
+        "BPSN_AUC": 0.7137887413029729,
+        "BNSP_AUC": 0.9651943462897526,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.6944444444444444,
+        "BPSN_AUC": 0.8816287878787878,
+        "BNSP_AUC": 0.7906588003933136,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9476635514018692,
+        "BNSP_AUC": 0.9506172839506173,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9462571976967371,
+        "BNSP_AUC": 0.9692460317460319,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8611111111111112,
+    "Mean_BPSN_AUC": 0.8723345695700917,
+    "Mean_BNSP_AUC": 0.9189291155949288,
+    "GMB_AUC_p_neg5": 0.8371003841790213
+  },
+  "PhoBERT Multi-Layer (Run 07)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7666666666666667,
+        "BPSN_AUC": 0.7169512966476914,
+        "BNSP_AUC": 0.9671378091872792,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.7638888888888888,
+        "BPSN_AUC": 0.9251893939393939,
+        "BNSP_AUC": 0.7900688298918386,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9485981308411215,
+        "BNSP_AUC": 0.9475308641975309,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9472168905950096,
+        "BNSP_AUC": 0.9678681657848324,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8826388888888889,
+    "Mean_BPSN_AUC": 0.8844889280058041,
+    "Mean_BNSP_AUC": 0.9181514172653702,
+    "GMB_AUC_p_neg5": 0.8573557588286422
+  },
+  "Stage E Ensemble (Run 05)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7500000000000001,
+        "BPSN_AUC": 0.7194813409234662,
+        "BNSP_AUC": 0.9709363957597174,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.6666666666666666,
+        "BPSN_AUC": 0.8868371212121212,
+        "BNSP_AUC": 0.7973451327433628,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9570093457943925,
+        "BNSP_AUC": 0.9581128747795414,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9558541266794626,
+        "BNSP_AUC": 0.9750881834215167,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8541666666666667,
+    "Mean_BPSN_AUC": 0.8797954836523606,
+    "Mean_BNSP_AUC": 0.9253706466760345,
+    "GMB_AUC_p_neg5": 0.8328236143916996
+  },
+  "Stage E.1 Postprocessed (Run 06)": {
+    "Subgroup_Details": {
+      "LGBT_Gender": {
+        "Subgroup_AUC": 0.7500000000000001,
+        "BPSN_AUC": 0.7188488298545225,
+        "BNSP_AUC": 0.9713780918727916,
+        "Sample_Count": 13
+      },
+      "Region_Origin": {
+        "Subgroup_AUC": 0.6666666666666666,
+        "BPSN_AUC": 0.8854166666666666,
+        "BNSP_AUC": 0.7972468043264503,
+        "Sample_Count": 13
+      },
+      "Religion": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9570093457943925,
+        "BNSP_AUC": 0.9585537918871252,
+        "Sample_Count": 4
+      },
+      "Politics_Community": {
+        "Subgroup_AUC": 1.0,
+        "BPSN_AUC": 0.9558541266794626,
+        "BNSP_AUC": 0.9756944444444444,
+        "Sample_Count": 18
+      }
+    },
+    "Mean_Subgroup_AUC": 0.8541666666666667,
+    "Mean_BPSN_AUC": 0.8792822422487611,
+    "Mean_BNSP_AUC": 0.9257182831327029,
+    "GMB_AUC_p_neg5": 0.832654408728767
+  }
+}

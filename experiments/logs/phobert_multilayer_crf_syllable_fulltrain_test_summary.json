@@ -1,0 +1,18 @@
+{
+  "model": "MultiLayer_CRF_FullTrain",
+  "split": "test",
+  "Char_Macro_F1": 0.3425398221828174,
+  "Char_Precision": 0.34776289479976663,
+  "Char_Recall": 0.8961544542555172,
+  "IOU_F1@0.5": 0.32578616352201256,
+  "Token_BIO_F1": 0.17812225797016673,
+  "Token_BIO_Precision": 0.10927687062623363,
+  "Token_BIO_Recall": 0.48142292490118577,
+  "Post_Binary_F1": 0.6654088050314465,
+  "Post_Accuracy": 0.5189873417721519,
+  "Exact_Match": 3.44,
+  "Over_Span": 10.76,
+  "Under_Span": 10.58,
+  "Complete_Miss": 0.18,
+  "Spurious_Span": 47.92
+}

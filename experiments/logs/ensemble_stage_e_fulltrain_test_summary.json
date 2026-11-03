@@ -1,0 +1,18 @@
+{
+  "model": "Ensemble_Stage_E_FullTrain",
+  "split": "test",
+  "Char_Macro_F1": 0.7915995850419737,
+  "Char_Precision": 0.860361913170492,
+  "Char_Recall": 0.8547876318198936,
+  "IOU_F1@0.5": 0.6397800183318056,
+  "Token_BIO_F1": 0.3301245753114383,
+  "Token_BIO_Precision": 0.2571680635200706,
+  "Token_BIO_Recall": 0.4608695652173913,
+  "Post_Binary_F1": 0.9074243813015582,
+  "Post_Accuracy": 0.9086799276672695,
+  "Exact_Match": 7.96,
+  "Over_Span": 4.43,
+  "Under_Span": 15.82,
+  "Complete_Miss": 3.25,
+  "Spurious_Span": 5.88
+}
