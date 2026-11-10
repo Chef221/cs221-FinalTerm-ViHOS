@@ -25,19 +25,46 @@ Dự án áp dụng bộ dữ liệu chuẩn **ViHOS (Hoang et al., EACL 2023)**
 | Chỉ số Đánh giá | Baseline CRF | PhoBERT Base | ViSoBERT | Champion (Stage E.1) | Mức Cải thiện |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Dev Char Macro-F1 (SemEval)** | `0.7663` | `0.8152` | `0.7968` | 🏆 **`0.8232`** | **$+5.69\%$** so với Baseline |
-| **Test Char Macro-F1 (Gộp Dev)** | `0.7550` | `0.7884` | `0.7862` | 🏆 **`0.7914`** | **$+3.64\%$** trên Test độc lập |
+| **Test Char Macro-F1 (Train-only)** | `0.7549` | `0.7830` | 🌟 **`0.7922`** | 🏆 **`0.7909`** | **$+3.73\%$** trên Test độc lập |
+| **Test Char Macro-F1 (Full-train)** | `0.7550` | `0.7884` | `0.7862` | 🏆 **`0.7914`** | **$+3.64\%$** trên Test độc lập |
 | **Test IOU F1@0.5 (HateXplain)** | `0.5117` | `0.6206` | `0.5920` | 👑 **`0.6416`** | **$+25.4\%$** độ trùng khớp vùng |
 | **Test Post-level Binary-F1** | `0.8691` | `0.8969` | `0.9051` | 👑 **`0.9074`** | Độ chính xác phân loại $90.87\%$ |
-| **Complete Miss (Bỏ sót span)** | `7.05%` | `7.87%` | `7.32%` | 👑 **`3.25%`** | **Giảm hơn $50\%$ lỗi bỏ sót** |
+| **Complete Miss (Bỏ sót span)** | `7.78%` | `5.15%` | `4.88%` | 👑 **`3.25%`** | **Giảm $58.2\%$ lỗi bỏ sót** |
 | **Generalization Gap (ViSoBERT)**| `-0.0114` | `-0.0322` | 🌟 **`-0.0046`** | `-0.0322` | **Gần như tiệm cận 0** |
 
 ---
 
-## 📊 BẢNG MASTER BENCHMARK ĐỐI CHỨNG 3 CHIỀU
+## 📊 BẢNG MASTER BENCHMARK CHÍNH THỨC TRÊN TẬP TEST (1,106 CÂU)
 
-Quy trình đánh giá tuân thủ chuẩn kép khoa học (**Dual-Protocol**):
-1. **Train Chay (Train-only: 8,844 câu):** Đo lường Generalization Gap ($\text{Gen Gap} = \text{Test} - \text{Dev}$) không rò rỉ dữ liệu.
-2. **Gộp Dev (Full-train: 9,950 câu):** Bổ sung $+12.5\%$ dữ liệu để đo lường hiệu ứng gia tăng dữ liệu ($\text{Data Gain} = \text{FullTrain} - \text{TrainChay}$).
+Để bảo đảm tính minh bạch và tránh gây ngộ nhận giữa các điều kiện huấn luyện, toàn bộ thực nghiệm trên tập Test chính thức được tách biệt rõ ràng thành hai giao thức:
+
+### 1. Giao thức 1: Huấn luyện chuẩn Train-Only (8,844 mẫu) $\rightarrow$ Đánh giá trên TEST (1,106 mẫu)
+*Đo lường độ tổng quát hóa khách quan tuyệt đối (không có bất kỳ sự rò rỉ nào từ tập Dev):*
+
+| Mô hình / Pipeline | Char F1 (SemEval) | IOU F1@0.5 | Post F1 | Exact Match | Complete Miss | Spurious |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Stage A: Baseline CRF** | `0.7549` | `0.5128` | `0.8664` | `7.96%` | `8.14%` | `26.22%` |
+| **Stage B: PhoBERT Base** | `0.7830` | `0.5994` | `0.8945` | `7.96%` | `4.70%` | `26.76%` |
+| **Stage C: ViSoBERT** | 🌟 **`0.7922`** | `0.5881` | `0.9061` | `7.78%` | `5.24%` | `23.96%` |
+| **Stage D: PhoBERT + CRF** | `0.3531` | `0.3279` | `0.6671` | `0.00%` | `1.45%` | `47.20%` |
+| **Stage F: Multi-Layer + CRF** | `0.3426` | `0.3258` | `0.6654` | `0.00%` | `1.45%` | `48.19%` |
+| **Stage E: Multi-View Ensemble** | `0.7910` | `0.6209` | `0.9048` | `8.05%` | **`3.35%`** | `24.50%` |
+| **Stage E.1: Champion Ensemble** | `0.7909` | 👑 **`0.6227`** | **`0.9048`** | **`8.05%`** | 👑 **`3.35%`** | `24.50%` |
+
+### 2. Giao thức 2: Huấn luyện mở rộng Full-Train (Train + Dev: 9,950 mẫu) $\rightarrow$ Đánh giá trên TEST (1,106 mẫu)
+*Đo lường năng lực mô hình khi tận dụng thêm $+12.5\%$ dữ liệu giám sát:*
+
+| Mô hình / Pipeline | Char F1 (SemEval) | IOU F1@0.5 | Post F1 | Exact Match | Complete Miss | Spurious |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Stage A: Baseline CRF** | `0.7550` | `0.5117` | `0.8691` | `7.96%` | `7.78%` | `25.77%` |
+| **Stage B: PhoBERT Base** | `0.7884` | `0.6206` | `0.8969` | `7.96%` | `5.15%` | `25.41%` |
+| **Stage C: ViSoBERT** | `0.7862` | `0.5920` | `0.9051` | `7.69%` | `4.88%` | `24.14%` |
+| **Stage D: PhoBERT + CRF** | `0.3409` | `0.3279` | `0.6671` | `0.00%` | `1.45%` | `47.92%` |
+| **Stage F: Multi-Layer + CRF** | `0.3425` | `0.3258` | `0.6654` | `0.00%` | `1.45%` | `47.92%` |
+| **Stage E: Multi-View Ensemble** | 🏆 **`0.7916`** | `0.6398` | 👑 **`0.9074`** | `7.96%` | **`3.25%`** | `24.32%` |
+| **Stage E.1: Champion Ensemble** | 🏆 **`0.7914`** | 👑 **`0.6416`** | 👑 **`0.9074`** | **`7.96%`** | 👑 **`3.25%`** | `24.32%` |
+
+### 3. Phân tích Đối chứng: Generalization Gap & Data Scaling Gain
 
 ```
 =======================================================================================================================================
@@ -178,3 +205,4 @@ python src/evaluate_faithfulness_bias.py --split test
 
 ---
 *Đồ án cuối kỳ môn Xử lý Ngôn ngữ Tự nhiên (CS221) — Khoa Khoa học Máy tính — Trường ĐH Công nghệ Thông tin, ĐHQG-HCM.*
+

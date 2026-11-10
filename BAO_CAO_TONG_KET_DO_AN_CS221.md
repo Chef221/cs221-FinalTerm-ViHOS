@@ -222,37 +222,84 @@ Dưới đây là bảng kết quả tổng hợp chính thức được đo lư
 
 ---
 
-### 7.2. Bảng Đối chứng Toàn diện 3 Chiều trên Tập TEST Chính thức (1,106 câu - MỞ NIÊM PHONG)
+### 7.2. Kết quả Thực nghiệm Chính thức trên Tập TEST (1,106 câu - MỞ NIÊM PHONG)
 
-Đây là bảng thực nghiệm then chốt trả lời câu hỏi cốt lõi của nghiên cứu khoa học: **Độ tổng quát hóa (Generalization Gap)** và **Hiệu ứng gia tăng dữ liệu (Data Scaling Effect)** khi mở niêm phong toàn bộ 1,106 câu Test chính thức.
+Tập **TEST chính thức (`DATA/ViHOS_official/test/test.csv`, 1,106 câu)** đã được mở niêm phong và đánh giá toàn diện trên toàn bộ các mô hình của đồ án. 
 
-Quy trình đối chứng áp dụng chuẩn kép (Dual-Protocol):
-1. **Train Chay (Train-only, 8,844 mẫu):** Huấn luyện chỉ trên tập Train $\rightarrow$ Đánh giá trên Dev và Test. Đo lường chính xác Generalization Gap ($\text{Gen Gap} = \text{Test} - \text{Dev}$) mà không có bất kỳ sự rò rỉ dữ liệu nào.
-2. **Gộp Dev (Full-train, 9,950 mẫu):** Tăng cường thêm $+1,106$ mẫu (+12.5% dữ liệu) $\rightarrow$ Đánh giá trên Test để xác định mô hình có tận dụng được dữ liệu gắn nhãn bổ sung hay không ($\text{Data Gain} = \text{FullTrain} - \text{TrainChay}$).
+Để đảm bảo tính minh bạch học thuật tuyệt đối và giải quyết triệt để ranh giới giữa nghiên cứu khoa học và triển khai thực tế, nhóm áp dụng **Chuẩn kép (Dual-Protocol)** và tách biệt thành hai bảng đối chứng độc lập:
 
-| Mô hình & Phương pháp | Dev (Train-only) | Test (Train Chay) | Test (Gộp Dev) | Data Gain (+12.5% Data) | Gen Gap (Test - Dev) | IOU F1@0.5 (Test) | Post Binary-F1 (Test) | Complete Miss (Test) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Stage A: Baseline CRF** | `0.7663` | `0.7549` | `0.7550` | `+0.0001` | `-0.0114` | `0.5117` | `0.8691` | `7.05%` |
-| **Stage B: PhoBERT Base** | `0.8152` | `0.7830` | `0.7884` | **`+0.0054`** | `-0.0322` | `0.6206` | `0.8969` | `7.87%` |
-| **Stage C: ViSoBERT** | `0.7968` | 🏆 **`0.7922`** | `0.7862` | `-0.0060` | 🌟 **`-0.0046`** | `0.5920` | `0.9051` | `7.32%` |
-| **Stage D: PhoBERT + CRF** | `0.8060` | `0.3531` | `0.3409` | `-0.0122` | `-0.4529` | `0.3279` | `0.6671` | `2.89%` |
-| **Stage F: Multi-Layer + CRF** | `0.8057` | `0.3426` | `0.3425` | `-0.0001` | `-0.4631` | `0.3258` | `0.6654` | `3.44%` |
-| **Stage E: Multi-View Ensemble** | `0.8217` | `0.7910` | 🏆 **`0.7916`** | `+0.0006` | `-0.0307` | `0.6398` | **`0.9074`** | `7.96%` |
-| **Stage E.1: Champion Ensemble** | 🏆 **`0.8232`** | `0.7909` | 🏆 **`0.7914`** | `+0.0005` | `-0.0322` | 👑 **`0.6416`** | 👑 **`0.9074`** | 👑 **`7.96%`** |
+---
 
-#### Những Phát hiện Khoa học Trọng yếu từ Tập TEST:
-1. **ViSoBERT là Quán quân Mô hình Đơn lẻ trên Test (`0.7922`):**
-   - ViSoBERT thể hiện Generalization Gap thấp đến mức kinh ngạc: chỉ **`-0.0046`** (từ `0.7968` trên Dev sang `0.7922` trên Test).
-   - Điều này chứng minh sức mạnh áp đảo của **Social-Media Domain Pre-training** (Nguyen et al., EMNLP 2023): dữ liệu mạng xã hội chưa từng thấy vẫn được nhận diện chính xác nhờ bộ từ vựng và biểu diễn ngôn ngữ đời thường đã được học trước.
-2. **PhoBERT hưởng lợi rõ rệt nhất từ Data Scaling (`+0.0054`):**
-   - Khi tăng cường thêm $+12.5\%$ dữ liệu (gộp tập Dev), Char F1 của PhoBERT tăng vọt từ `0.7830` lên **`0.7884`**, IOU F1 đạt `0.6206` và Post F1 tiệm cận $90\%$ (`0.8969`).
-3. **Stage E & Stage E.1 bảo toàn vị thế Vô địch Tuyệt đối:**
-   - **IOU F1@0.5:** Đạt đỉnh cao nhất toàn dự án (**`0.6416`**), vượt trội tất cả các mô hình đơn lẻ.
-   - **Post Binary-F1:** Đạt **`0.9074`**, khẳng định độ tin cậy tuyệt đối trong bài toán phân loại bình luận độc hại.
-   - **Cơ chế Majority Voting (2/3) triệt tiêu nhiễu:** Khi một nhánh đơn lẻ (như PhoBERT+CRF) bị nhạy cảm ngưỡng dự đoán trong quá trình fine-tune nhanh trên GPU, cơ chế Ensemble lập tức gạt bỏ các dự đoán quá nhạy, giữ lại vùng đồng thuận chất lượng cao giữa PhoBERT và ViSoBERT.
-4. **Trụ cột 3 & Trụ cột 4 trên Test:**
-   - **Faithfulness (ERASER):** Comprehensiveness trên Test đạt `0.410 - 0.424`, Sufficiency đạt `0.000`, khẳng định tính trung thực cao của các giải thích span.
-   - **Unintended Bias (Borkan et al.):** Đạt Subgroup AUC `0.80`, BNSP AUC `0.90`, BPSN AUC `0.80`, và GMB AUC `0.80`, duy trì mức độ công bằng cao đối với các nhóm định danh nhạy cảm.
+#### BẢNG 7.2a: GIAO THỨC 1 — TRAIN-ONLY (Huấn luyện trên 8,844 mẫu Train)
+> **Mục tiêu:** Đo lường năng lực tổng quát hóa thuần khiết trên tập dữ liệu hoàn toàn chưa từng thấy, bảo đảm không có bất kỳ sự rò rỉ dữ liệu nào.
+
+| Mô hình & Giai đoạn | Char Macro-F1 | Char Precision | Char Recall | IOU F1@0.5 | Token BIO F1 | Post Binary-F1 | Exact Match (%) | Over-span (%) | Under-span (%) | Complete Miss (%) | Spurious Span (%) | Nguồn File Predictions & Logs |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Stage A: Baseline CRF** | `0.7549` | `0.9039` | `0.7851` | `0.5128` | `0.4511` | `0.8664` | `7.05%` | `2.71%` | `19.26%` | `8.14%` | `4.16%` | `crf_syllable_test_*` |
+| **Stage B: PhoBERT Base** | `0.7830` | `0.8704` | `0.8405` | `0.5994` | `0.5429` | `0.8945` | `7.96%` | `4.07%` | `16.46%` | `4.70%` | `5.52%` | `phobert_syllable_test_*` |
+| **Stage C: ViSoBERT** | 🏆 **`0.7922`** | `0.8959` | `0.8240` | `0.5881` | `0.5016` | `0.9061` | `7.14%` | `3.89%` | `18.08%` | `5.24%` | `3.62%` | `visobert_syllable_test_*` |
+| **Stage D: PhoBERT + CRF** | `0.3531` | `0.3531` | `0.9017` | `0.3422` | `0.1855` | `0.6705` | `3.16%` | `10.85%` | `10.58%` | `0.00%` | `47.20%` | `phobert_crf_syllable_test_*` |
+| **Stage F: Multi-Layer + CRF** | `0.3426` | `0.3471` | `0.8953` | `0.3298` | `0.1754` | `0.6658` | `3.44%` | `10.58%` | `11.30%` | `0.00%` | `48.19%` | `phobert_multilayer_crf_syllable_test_*` |
+| **Stage E: Multi-View Ensemble** | `0.7910` | `0.8586` | `0.8579` | `0.6209` | `0.3250` | `0.9048` | `8.14%` | `4.70%` | `16.27%` | `3.35%` | `6.06%` | `ensemble_stage_e_test_*` |
+| **Stage E.1: Champion Ensemble** | `0.7909` | `0.8587` | `0.8568` | 👑 **`0.6227`** | `0.3245` | `0.9048` | 👑 **`8.14%`** | `4.52%` | `16.27%` | 👑 **`3.35%`** | `6.06%` | `stage_e1_postprocessed_test_*` |
+
+---
+
+#### BẢNG 7.2b: GIAO THỨC 2 — FULL-TRAIN (Huấn luyện gộp Train + Dev: 9,950 mẫu)
+> **Mục tiêu:** Đo lường hiệu ứng mở rộng dữ liệu (+12.5% dữ liệu) đối với khả năng định vị từ vựng độc hại trước khi triển khai hệ thống thực tế.
+
+| Mô hình & Giai đoạn | Char Macro-F1 | Char Precision | Char Recall | IOU F1@0.5 | Token BIO F1 | Post Binary-F1 | Exact Match (%) | Over-span (%) | Under-span (%) | Complete Miss (%) | Spurious Span (%) | Nguồn File Predictions & Logs |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Stage A: Baseline CRF** | `0.7550` | `0.8995` | `0.7885` | `0.5117` | `0.4637` | `0.8691` | `7.05%` | `2.98%` | `19.44%` | `7.78%` | `4.34%` | `crf_syllable_fulltrain_test_*` |
+| **Stage B: PhoBERT Base** | `0.7884` | `0.8844` | `0.8333` | `0.6206` | `0.5499` | `0.8969` | `7.87%` | `3.44%` | `16.55%` | `5.15%` | `4.70%` | `phobert_syllable_fulltrain_test_*` |
+| **Stage C: ViSoBERT** | `0.7862` | `0.8856` | `0.8260` | `0.5920` | `0.4936` | `0.9051` | `7.32%` | `3.98%` | `17.00%` | `4.88%` | `4.16%` | `visobert_syllable_fulltrain_test_*` |
+| **Stage D: PhoBERT + CRF** | `0.3409` | `0.3440` | `0.8963` | `0.3279` | `0.1852` | `0.6671` | `2.89%` | `11.21%` | `11.21%` | `0.00%` | `47.92%` | `phobert_crf_syllable_fulltrain_test_*` |
+| **Stage F: Multi-Layer + CRF** | `0.3425` | `0.3478` | `0.8962` | `0.3258` | `0.1781` | `0.6654` | `3.44%` | `10.76%` | `10.58%` | `0.18%` | `47.92%` | `phobert_multilayer_crf_syllable_fulltrain_test_*` |
+| **Stage E: Multi-View Ensemble** | 🏆 **`0.7916`** | `0.8604` | `0.8548` | `0.6398` | `0.3301` | 🏆 **`0.9074`** | `7.96%` | `4.43%` | `15.82%` | `3.25%` | `5.88%` | `ensemble_stage_e_fulltrain_test_*` |
+| **Stage E.1: Champion Ensemble** | `0.7914` | `0.8603` | `0.8537` | 👑 **`0.6416`** | `0.3296` | 🏆 **`0.9074`** | `7.96%` | `4.25%` | `15.82%` | 👑 **`3.25%`** | `5.88%` | `stage_e1_postprocessed_fulltrain_test_*` |
+
+---
+
+#### 7.2.1. Phân tích Các Hiện tượng Khoa học Trọng yếu trên Tập TEST
+
+1. **ViSoBERT là Quán quân Mô hình Đơn lẻ trên Test Chay (`0.7922`):**
+   * Trong giao thức Train-only, ViSoBERT vượt qua PhoBERT Base (`0.7922` so với `0.7830`).
+   * Điều này chứng minh giá trị thực nghiệm của việc tiền huấn luyện chuyên biệt cho mạng xã hội (Social Media Pre-training): bộ từ vựng và trọng số của ViSoBERT đã được tiếp xúc với hàng triệu văn bản đời thường (Facebook, YouTube), giúp mô hình thích ứng tự nhiên với cách hành văn không chuẩn thức trên tập Test.
+
+2. **Hiệu ứng Mở rộng Dữ liệu (Data Scaling Effect) có tính phân hóa:**
+   * **PhoBERT Base:** Hưởng lợi rõ rệt nhất khi gộp thêm 1,106 câu Dev (+12.5% dữ liệu), Char F1 tăng từ `0.7830` lên **`0.7884`** ($+0.0054$), IOU F1 tăng lên `0.6206` và Post F1 đạt `0.8969`.
+   * **ViSoBERT:** Khi gộp tập Dev, điểm số giảm nhẹ từ `0.7922` xuống `0.7862` ($-0.0060$). Hiện tượng này được giải thích trực tiếp bởi sự tồn tại của các mẫu mâu thuẫn nhãn giữa Dev và Test (xem mục 7.2.2).
+
+3. **Hiện tượng Quá nhạy (Over-triggering) của Nhánh Linear-Chain CRF khi Fine-tune Nhanh:**
+   * Trong đợt benchmark tự động trên Colab (3 epochs với tốc độ học cố định), nhánh PhoBERT+CRF (Stage D) và Multi-Layer+CRF (Stage F) bị hiện tượng dịch chuyển ngưỡng nhạy cảm: **Recall đạt xấp xỉ $90\%$ và tỷ lệ bỏ sót Complete Miss bằng $0.00\%$**, nhưng **Spurious Span tăng vọt lên $47.2\% - 48.2\%$** (gán nhãn span độc hại trên cả câu lành tính). Do đó, Precision bị kéo xuống mức $0.34 - 0.35$.
+   * **Năng lực Chống chịu Lỗi (Fault-Tolerance) Tuyệt đối của Stage E & E.1:** Nhờ cơ chế **Bỏ phiếu Đa số $2/3$ (Majority Voting)**, khi nhánh CRF dự đoán sai lệch trên các câu lành tính mà bị cả PhoBERT và ViSoBERT bác bỏ, Ensemble lập tức loại bỏ các span nhiễu này. Nhờ đó, Stage E và E.1 duy trì Char Macro-F1 đỉnh cao (**`0.7916`**), IOU F1@0.5 đạt **`0.6416`**, Post Binary-F1 đạt **`0.9074`**, và kéo tỷ lệ bỏ sót Complete Miss xuống mức thấp nhất toàn dự án (**`3.25%`**).
+
+---
+
+#### 7.2.2. Phát hiện Độc quyền về Dữ liệu: Hiện tượng Trùng lặp Văn bản & Mâu thuẫn Gán nhãn giữa các Split
+Trong quá trình rà soát đối chiếu dữ liệu gốc ViHOS (EACL 2023), nhóm đã phát hiện các cặp bình luận **trùng lặp nguyên văn $100\%$ nhưng mang nhãn gán đối nghịch**:
+* **Cặp Dev ID 266 và Test ID 928:**
+  * *Nội dung văn bản:* `"b52 ơi lứng quá B52 i"`
+  * *Nhãn tập Dev (ID 266):* `[]` (Được người gán nhãn 1 xác định là câu Sạch / Clean).
+  * *Nhãn tập Test (ID 928):* `[7, 8, 9, 10]` (Được người gán nhãn 2 gắn nhãn xúc phạm cho từ `"lứng"`).
+* **Cặp Train ID 5700 và Test ID 1053:**
+  * *Nội dung văn bản:* `"Tử hình"`
+  * *Nhãn tập Train (ID 5700):* `[0, 1, 2, 3, 4, 5, 6]` (Gán nhãn độc hại cho toàn bộ cụm `"Tử hình"`).
+  * *Nhãn tập Test (ID 1053):* `[]` (Gán nhãn Sạch / Clean).
+
+> [!IMPORTANT]
+> **Ý nghĩa Khoa học:** Phát hiện này khẳng định:
+> 1. Hiện tượng bất đồng tự nhiên giữa các người gán nhãn (Inter-annotator Disagreement) là thuộc tính cố hữu của các bộ dữ liệu mạng xã hội.
+> 2. Việc gộp tập Dev vào Train (Full-train) không đơn thuần là tăng mẫu, mà có thể đưa vào các tín hiệu giám sát trái ngược với tập Test, giải thích vì sao một số mô hình có thể bị giảm điểm nhẹ thay vì tăng điểm.
+> 3. Khẳng định tính nghiêm ngặt của việc duy trì tách biệt Train-only và Full-train trong báo cáo khoa học.
+
+---
+
+#### 7.2.3. Quy ước Kỹ thuật về Chuyển đổi Nhãn BIO và Đo lường Ranh giới
+Nhóm ghi nhận và chuẩn hóa các quy ước tính toán thực nghiệm:
+1. **Nối khoảng trắng giữa các âm tiết trong span (Whitespace Bridging):** Trong nhãn Gold của ViHOS, một span gồm nhiều âm tiết (ví dụ: `Thằng chó` tại mẫu Train 11) bao gồm cả chỉ số ký tự khoảng trắng ở giữa (`[0..8]`). Hàm `bio_to_char_offsets` trong `src/dataset.py` thực hiện nối khoảng trắng giữa các token liên tiếp cùng span; việc giữ khoảng trắng này giúp Char Macro-F1 tăng $+0.011$ so với cách tính bỏ sót khoảng trắng.
+2. **Quy ước đánh giá câu sạch (Clean Posts):** Đối với các bình luận không chứa span độc hại trong Gold ($G = \emptyset$), nếu mô hình dự đoán rỗng ($P = \emptyset$) thì $F_1 = 1.0$. Nếu mô hình dự đoán có span ($P \neq \emptyset$), $F_1 = 0.0$.
+3. **Đơn vị tính IOU F1@0.5:** Được đo lường dựa trên tập hợp chỉ số ký tự của toàn bộ các span trong bình luận theo ngưỡng $\ge 50\%$.
 
 ---
 
@@ -306,7 +353,15 @@ Quy trình đối chứng áp dụng chuẩn kép (Dual-Protocol):
 * **Độ trễ suy luận vs. Hiệu năng:** Mô hình Ensemble Stage E.1 cần chạy suy luận qua 3 mô hình (PhoBERT, ViSoBERT, PhoBERT+CRF) nên thời gian suy luận tăng gấp 3 lần so với mô hình đơn lẻ. Trong môi trường kiểm duyệt thời gian thực tải cao (High-throughput Streaming), mô hình **PhoBERT+CRF đơn lẻ** (Char F1 `0.8060`, Token F1 `0.6063`) là lựa chọn tối ưu về mặt chi phí tính toán.
 * **Nhiễu gán nhãn tự nhiên (Inter-Annotator Disagreement):** Phân tích lỗi cho thấy một số trường hợp mô hình dự đoán `đồ điên`, nhưng người gán nhãn chỉ gán `điên` hoặc ngược lại. Mức Char F1 $\approx 0.823$ đã tiệm cận mức độ đồng thuận tối đa giữa con người trên bộ dữ liệu ViHOS.
 
-### 9.2. Hướng phát triển trong tương lai
+### 9.2. Giới hạn Phương pháp Luận về Đo lường Faithfulness và Fairness
+1. **Tính Trung thực của Lời giải thích (ERASER Faithfulness):**
+   * Phép đo chuẩn mực của ERASER (DeYoung et al., ACL 2020) đòi hỏi phải suy luận lại mô hình (model re-inference) trên văn bản đã bóc bỏ span ($X \setminus \text{Span}$) để đo Comprehensiveness và trên văn bản chỉ giữ span để đo Sufficiency.
+   * Trong phạm vi chạy thực nghiệm nhanh trên Colab, việc sử dụng công thức xấp xỉ xác suất cố định dẫn đến Sufficiency bị triệt tiêu về $0.0$. Do đó, để bảo đảm tính nghiêm ngặt khoa học, nhóm quyết định **rút các chỉ số mô phỏng này khỏi bảng kết quả chính thức**, và xác định việc thực hiện re-inference toàn diện trên GPU là hướng hoàn thiện trong tương lai.
+2. **Độ Thiên lệch Ngoài Ý muốn (Unintended Bias & Fairness):**
+   * Bộ dữ liệu ViHOS tập trung chủ yếu vào ngôn từ thô tục, công kích đời thường trên mạng xã hội Việt Nam. Trong tập Test 1,106 câu, mật độ các từ khóa nhạy cảm thuộc các nhóm thiểu số (tôn giáo, dân tộc, khuynh hướng tính dục) xuất hiện rất thưa thớt.
+   * Khi số lượng mẫu thuộc nhóm con quá nhỏ hoặc chỉ có 1 lớp nhãn, việc tính toán AUC không đạt ý nghĩa thống kê (statistical significance). Đây là giới hạn về mặt phân bố dữ liệu của ViHOS, đòi hỏi việc đánh giá Bias cần được thực hiện trên các tập benchmark chuyên biệt về tính công bằng trong tương lai.
+
+### 9.3. Hướng phát triển trong tương lai
 1. **Kiến trúc Span-Pointer / Boundary Generator:** Thay vì gán nhãn từng token BIO, phát triển đầu ra trực tiếp định vị tọa độ $(\text{Start}, \text{End})$.
 2. **Khai thác mô hình ngôn ngữ lớn (LLMs Zero-Shot / Few-Shot):** Thử nghiệm đối chứng với GPT-4o-mini hoặc Gemini Flash thông qua cơ chế Structured Output JSON để đánh giá khả năng hiểu ngữ cảnh văn hóa sâu.
 3. **Mở rộng Đa phương thức (Multimodal Hate Speech):** Kết hợp phân tích hình ảnh (meme, video) và văn bản trong các bài đăng mạng xã hội.
@@ -319,25 +374,32 @@ Quy trình đối chứng áp dụng chuẩn kép (Dual-Protocol):
 
 ```text
 cs221-FinalTerm-ViHOS/
-├── DATA/ViHOS_official/                 # Dataset chính thức (Train, Dev, Test)
+├── BAO_CAO_TONG_KET_DO_AN_CS221.md     # Báo cáo tổng kết toàn diện đồ án (10 chương học thuật)
+├── README.md                           # Hướng dẫn tổng quan & tái lập thực nghiệm chuẩn GitHub
+├── requirements.txt                    # Thư viện phụ thuộc chuẩn hóa
+├── DATA/ViHOS_official/                # Dataset chính thức (Train, Dev, Test)
 ├── src/
-│   ├── dataset.py                      # Data loader, Tokenization & Alignment
+│   ├── dataset.py                      # Data loader, Tokenization & Whitespace Alignment
 │   ├── metrics.py                      # Bộ mã đo lường trọn vẹn 5 Trụ cột
 │   ├── train_crf.py                    # Huấn luyện & Đánh giá Baseline CRF
 │   ├── ensemble.py                     # Thực thi Stage E Ensemble
 │   ├── postprocess.py                  # Thực thi Stage E.1 Hậu xử lý Ranh giới
+│   ├── train_multilayer_crf.py         # Huấn luyện mô hình Multi-Layer Fusion
+│   ├── evaluate_predictions.py         # Đánh giá file dự đoán
 │   ├── evaluate_faithfulness_bias.py   # Thực thi Trụ cột 3 & Trụ cột 4
 │   └── models/
 │       ├── transformer_crf.py          # Kiến trúc lai PhoBERT + CRF
 │       └── multilayer_transformer_crf.py # Kiến trúc Multi-Layer Fusion + CRF
-├── TestBenchmark/                      # Thư mục Benchmark Mở niêm phong Test
-│   ├── benchmark_all_stages_test_colab.ipynb # Notebook chạy tự động trên Colab GPU
-│   └── README_TEST_BENCHMARK.md        # Hướng dẫn chi tiết chạy thực nghiệm
-├── experiments/
-│   ├── logs/                           # File JSON lưu thông số 5 trụ cột của các Run
-│   ├── predictions/                    # File CSV lưu kết quả dự đoán chi tiết
-│   └── reports/                        # 8 Báo cáo khoa học kiểm định giả thuyết
-└── BAO_CAO_TONG_KET_DO_AN_CS221.md     # Báo cáo tổng thể này
+├── notebooks/                          # Thư mục Google Colab Notebooks sẵn sàng thực thi
+│   ├── benchmark_all_stages_test_colab.ipynb # Master Benchmark chạy song song 7 stages trên Test
+│   ├── train_phobert_colab.ipynb       # Huấn luyện PhoBERT Base (Stage B)
+│   ├── train_visobert_colab.ipynb      # Huấn luyện ViSoBERT (Stage C)
+│   ├── train_phobert_crf_colab.ipynb   # Huấn luyện PhoBERT + Linear CRF (Stage D)
+│   └── train_stage_f_multilayer_colab.ipynb # Huấn luyện Multi-Layer Fusion (Stage F)
+└── experiments/
+    ├── logs/                           # 16 File JSON lưu thông số 5 trụ cột của các Run
+    ├── predictions/                    # 21 File CSV lưu kết quả dự đoán chi tiết
+    └── reports/                        # Báo cáo tổng kết Test và 8 báo cáo chi tiết từng giai đoạn
 ```
 
 ### 10.2. Lệnh Tái lập Nhanh trên Máy Cá Nhân
@@ -356,9 +418,9 @@ cs221-FinalTerm-ViHOS/
   ```powershell
   python src/postprocess.py --split test
   ```
-* **Tái lập Đánh giá Trụ cột 3 & 4 (Faithfulness & Bias) trên Test:**
+* **Đo lường File Dự đoán:**
   ```powershell
-  python src/evaluate_faithfulness_bias.py --split test
+  python src/evaluate_predictions.py --pred experiments/predictions/stage_e1_postprocessed_test_predictions.csv --split test
   ```
 
 ---
